@@ -1,0 +1,8 @@
+# IN 1
+Neuron b1800f7d-9869-4353-b13a-18adfbef2fd1 1.0 isInput
+# IN 2
+Neuron 8414ca9f-dfa2-4a7a-bc19-b4fff6f0d317 1.0 isInput
+# OUT
+Neuron 32aed586-eb49-4c9f-9e52-23a9e09ce3fa 2.0 isOutput
+Connection 1c2c8a99-edf4-4ed8-827f-20964a1344a4 b1800f7d-9869-4353-b13a-18adfbef2fd1 32aed586-eb49-4c9f-9e52-23a9e09ce3fa 1 1.0
+Connection efd3d639-b54a-4c84-a30c-3b0c7a553a47 8414ca9f-dfa2-4a7a-bc19-b4fff6f0d317 32aed586-eb49-4c9f-9e52-23a9e09ce3fa 1 1.0

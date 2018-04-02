@@ -1,0 +1,13 @@
+Period -1
+Delay 1
+Clockified -1
+# Input 0
+Neuron 2c55cd4e-da03-4efd-a096-37a4ac129699 1.0 isInput
+# Input 1
+Neuron 48371972-c7c8-4753-b2a5-3de5a84a0a59 1.0 isInput
+# Output 0
+Neuron 41e2b7fd-94dd-4a1c-bf40-7309445c7b69 1.0 isOutput
+# Output 1
+Neuron 28636011-4a1f-4172-9af4-cbfa3fa18f61 1.0 isOutput
+Connection 42e25b5b-4462-4e44-b3df-b5f42048f015 2c55cd4e-da03-4efd-a096-37a4ac129699 41e2b7fd-94dd-4a1c-bf40-7309445c7b69 1 1.0
+Connection 50425c1b-6fcd-49c6-ba2c-b122cd96478d 48371972-c7c8-4753-b2a5-3de5a84a0a59 28636011-4a1f-4172-9af4-cbfa3fa18f61 1 1.0

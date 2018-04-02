@@ -1,0 +1,26 @@
+# Input 0
+Neuron a5ad88de-8481-43ed-bb71-2182ed2368b2 1.0 isInput
+# Input 1
+Neuron 28934c66-ede4-42da-a516-7f47afdffd86 1.0 isInput
+# Output 0
+Neuron 4f3782b1-4249-44c8-b680-407bcda5a3eb 1.0 isOutput
+# AND
+Neuron 353655ec-3e37-44a7-a82a-50d76ed4ea25 1.0
+# AND
+Neuron c26e11d0-6fe4-4a4f-abea-8f5c726493a1 1.0
+# AND
+Neuron 758d3e62-5ccf-425c-bbe6-e08741a3cad5 2.0
+# NOT
+Neuron 54ed440c-8f1e-4554-9228-52d458f4e3e9 1.0
+# NOT
+Neuron 74730594-c33d-48fd-ac92-3bc7caafba6d 0.0
+# NOT
+Neuron 559fde2e-ebe7-49f2-bb2e-b1e392a18db5 1.0
+Connection 714438d3-2cc7-410a-ad31-ac96cc0da11c 353655ec-3e37-44a7-a82a-50d76ed4ea25 758d3e62-5ccf-425c-bbe6-e08741a3cad5 1 1.0
+Connection f07656c0-9141-4aa1-b425-2ccfd6842201 c26e11d0-6fe4-4a4f-abea-8f5c726493a1 758d3e62-5ccf-425c-bbe6-e08741a3cad5 1 1.0
+Connection b652ccf5-3cd8-4630-9ac4-25003ebd04cf 54ed440c-8f1e-4554-9228-52d458f4e3e9 74730594-c33d-48fd-ac92-3bc7caafba6d 1 -1.0
+Connection f04610c9-a7a5-4446-8965-26b34ca4305c 74730594-c33d-48fd-ac92-3bc7caafba6d 559fde2e-ebe7-49f2-bb2e-b1e392a18db5 1 1.0
+Connection e6fb99f4-0a59-438b-9880-152dcf133a35 559fde2e-ebe7-49f2-bb2e-b1e392a18db5 4f3782b1-4249-44c8-b680-407bcda5a3eb 1 1.0
+Connection 4956be35-672b-4f2c-baa2-99d15aacd66d a5ad88de-8481-43ed-bb71-2182ed2368b2 353655ec-3e37-44a7-a82a-50d76ed4ea25 1 1.0
+Connection cbfb49e2-dcc3-4db9-ba04-9fa9042fea68 28934c66-ede4-42da-a516-7f47afdffd86 c26e11d0-6fe4-4a4f-abea-8f5c726493a1 1 1.0
+Connection 18d8cd50-b651-4510-bc2e-d54f2e6aa9cf 758d3e62-5ccf-425c-bbe6-e08741a3cad5 54ed440c-8f1e-4554-9228-52d458f4e3e9 1 1.0

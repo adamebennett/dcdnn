@@ -1,0 +1,8 @@
+Period -1
+Delay 1
+Clockified -1
+# Input 0
+Neuron 031efb4a-c9e6-49c0-9f4c-9eee050a4156 1.0 isInput
+# Output 0
+Neuron 87b0cb88-ff0d-4383-8e77-3600b61d2605 1.0 isOutput
+Connection 491005eb-5bdf-43ae-8871-6ebca9b7babd 031efb4a-c9e6-49c0-9f4c-9eee050a4156 87b0cb88-ff0d-4383-8e77-3600b61d2605 1 1.0

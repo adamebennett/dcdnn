@@ -1,0 +1,8 @@
+# IN
+Neuron bcdcd1e1-ef6d-417e-8744-f34345f239e2 1.0 isInput
+# INVERTER
+Neuron 2a69dff0-3730-466c-9c7b-29ed332c0a8b 0.0
+# OUT
+Neuron 76397f9e-5b47-4309-bdc4-a125c586446f 1.0 isOutput
+Connection e16e155d-1366-485f-a73d-c3e43d6b5744 bcdcd1e1-ef6d-417e-8744-f34345f239e2 2a69dff0-3730-466c-9c7b-29ed332c0a8b 1 -1.0
+Connection 2e60e542-0e2f-441d-b80f-fef2588bda47 2a69dff0-3730-466c-9c7b-29ed332c0a8b 76397f9e-5b47-4309-bdc4-a125c586446f 1 1.0

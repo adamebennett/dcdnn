@@ -1,0 +1,2352 @@
+Period 26
+Delay 0
+Clockified 6
+# SET
+Neuron f389f868-b0be-4dd7-b019-5b81edd42bb3 1.0 isInput
+# IN 0
+Neuron b9c2d7ef-7c9b-414c-9c5f-1c2d78ad5577 1.0 isInput
+# IN 1
+Neuron 7379393d-0171-473a-bd2b-bc33ecb7d765 1.0 isInput
+# IN 2
+Neuron ffc192ae-0951-4758-a987-21ee3b62aa6b 1.0 isInput
+# IN 3
+Neuron 962a16c0-2580-4df1-8dbe-4bc5afc44dcf 1.0 isInput
+# IN 4
+Neuron 2223bef8-9ffd-4c6b-8ea9-d7269f156552 1.0 isInput
+# IN 5
+Neuron c7b9c6dd-1d58-4588-94d5-c11e3fa4009c 1.0 isInput
+# IN 6
+Neuron aaa614be-4f3d-454a-9adc-d1e8f58919ff 1.0 isInput
+# IN 7
+Neuron 0c2c76e7-c745-45ae-bc08-80cb6c6474ee 1.0 isInput
+# INCREMENT
+Neuron 3dd74802-f95e-49d3-94a0-7ed0d01d0281 1.0 isInput
+# COUNTER
+Neuron fb6bc207-4b51-4544-9507-a30fea0cca84 1.0
+# COUNTER
+Neuron 342b1ba6-d7ad-4751-9c99-b76d3d62fd35 1.0
+# COUNTER
+Neuron 1c409289-0eef-4162-8545-4a1a67a667b8 1.0
+# COUNTER
+Neuron f0c823f1-b2e5-4812-bf02-5efba360b117 1.0
+# COUNTER
+Neuron bda35c2e-7fa4-4437-b65c-33fffbfdeff4 2.0
+# COUNTER
+Neuron fc35b293-6761-4516-93da-83c6cfd343a3 1.0
+# COUNTER
+Neuron bf4d8c0c-021b-4e31-86c1-e552a2f71086 1.0
+# COUNTER
+Neuron 479cb6a8-7325-403e-9667-9d9bca955226 2.0
+# COUNTER
+Neuron 925eb8a9-4238-4229-9fd4-1a37cbf69886 1.0
+# COUNTER
+Neuron 419cd2c0-3131-41f1-a9c8-780b2621df36 1.0
+# COUNTER
+Neuron b0a7d2bc-a1d8-4242-9f7c-2890d0c84c09 1.0
+# COUNTER
+Neuron 3f7580d3-811a-4ce8-ac99-a6ae823c34dc 1.0
+# COUNTER
+Neuron 4cbf0662-ea29-483a-9d6f-35fe35674d29 1.0
+# COUNTER
+Neuron 0010420b-4416-4539-9948-99699ce70a04 1.0
+# COUNTER
+Neuron 7d92a734-03ed-4211-942c-9895bced8f68 1.0
+# COUNTER
+Neuron 6e8f758c-29eb-4678-a4bd-c734d501602f 1.0
+# COUNTER
+Neuron 0c29db63-c654-4a27-ba1b-8aca670976c1 1.0
+# COUNTER
+Neuron f782b7d9-2e16-431d-bd47-fcb4a2b7e7ba 1.0
+# COUNTER
+Neuron 78fd1d1f-a098-4bf7-b4be-1d4366f4cdf0 1.0
+# COUNTER
+Neuron 380d2b41-97f3-4513-a111-7681e6ccb968 1.0
+# COUNTER
+Neuron 4a84c94f-aba6-4ba1-831d-8a0020f164ad 0.0
+# COUNTER
+Neuron 5c9292bd-fcae-44a8-bacf-142ad8bb4f2f 1.0
+# COUNTER
+Neuron 9face5e8-8ada-46b9-9346-cc79c8050a6b 1.0
+# COUNTER
+Neuron 46764f32-2337-4338-99d6-e77503c58c8a 1.0
+# COUNTER
+Neuron 743aeee2-b386-439d-addf-d06107a48bd8 1.0
+# COUNTER
+Neuron 522247f5-b062-4991-9066-49bcafc078a3 1.0
+# COUNTER
+Neuron 28275f32-1682-4f79-baf2-4917f413c867 1.0
+# COUNTER
+Neuron ea327d37-9f06-4153-866b-2d3a7dbde650 2.0
+# COUNTER
+Neuron f0cfbce1-33e6-4ff9-8da4-c4f0e37f8559 1.0
+# COUNTER
+Neuron a693fe5d-4f92-4735-b3da-ea6f19c0ff4f 0.0
+# COUNTER
+Neuron 7ac7f19d-6d1d-4b2d-b077-9cf4856e6f49 1.0
+# COUNTER
+Neuron e675b04a-7e74-4482-a304-458e1df78ba1 1.0
+# COUNTER
+Neuron 2b762e6b-5be7-40e1-a169-165ecace2c2a 1.0
+# COUNTER
+Neuron 17ba39e1-5fe3-4c9c-b69b-50658743e8f0 1.0
+# COUNTER
+Neuron 715c1ddb-c5d5-43cd-9c65-e232da50240a 1.0
+# COUNTER
+Neuron 17804edb-33b0-44da-a533-b37f685ec82e 1.0
+# COUNTER
+Neuron 6fb0e927-81ba-4c70-808e-8c600eca1499 1.0
+# COUNTER
+Neuron bce8bbae-c49d-403f-8356-7db2fa8bbc38 1.0
+# COUNTER
+Neuron e3623a94-26a7-4e34-927b-86c467186576 1.0
+# COUNTER
+Neuron a95411ca-8912-4f3e-8886-2be64dfd44ce 2.0
+# COUNTER
+Neuron 673d81d9-7f42-4107-b8b7-330fbc6e66c0 1.0
+# COUNTER
+Neuron fa52592b-03e8-4ed9-9eb5-c5eaf404fd25 1.0
+# COUNTER
+Neuron 3ac0f2bf-7746-4997-b728-11bcbf58a9b7 2.0
+# COUNTER
+Neuron 0c0af1a7-1315-47aa-81a2-cf8bd9432e7a 1.0
+# COUNTER
+Neuron 83653f2b-7748-49d2-90ae-16b3c469b764 1.0
+# COUNTER
+Neuron 76586647-0f8e-4001-a0d3-f569ece69779 2.0
+# COUNTER
+Neuron 5fe848ea-0ed4-425e-aafc-04dc8e540fff 1.0
+# COUNTER
+Neuron 8e1c75e6-9eee-4780-91bf-55396370047c 1.0
+# COUNTER
+Neuron c63325bd-1730-45e0-b99f-0ec576fc5b1f 2.0
+# COUNTER
+Neuron 00eec87f-9d01-48fc-9219-b1679dd1f117 1.0
+# COUNTER
+Neuron 76bd5503-c847-495d-ac66-790c0a872cd4 1.0
+# COUNTER
+Neuron bc820ddf-59a6-40f6-a9cb-90c728abf2c1 2.0
+# COUNTER
+Neuron 4704a390-8778-4dfe-a05a-abedc45d4b7d 1.0
+# COUNTER
+Neuron ddda6bbb-66bf-4e7e-a659-53213ab19f2b 1.0
+# COUNTER
+Neuron d6036b45-16f6-4ec0-8cdd-430f78a82f2a 2.0
+# COUNTER
+Neuron 80482c46-ec86-4d76-807b-9bdd931b0b60 1.0
+# COUNTER
+Neuron b1a05abe-1209-4f20-9a66-e6022eb235c0 1.0
+# COUNTER
+Neuron 2c77b9df-d8cf-410d-965f-aef38862a912 1.0
+# COUNTER
+Neuron 5c8e70a0-aa92-48e7-ac29-72f281b52c7d 1.0
+# COUNTER
+Neuron e323754e-91f6-4072-bb66-88847629663b 1.0
+# COUNTER
+Neuron 026ea2bd-a9b5-448b-bf23-b62216eded5b 1.0
+# COUNTER
+Neuron db967f6c-547e-40bf-8711-687fcc0dd2b2 1.0
+# COUNTER
+Neuron 46e9c7ef-1045-49f0-9748-fbddd509f240 1.0
+# COUNTER
+Neuron f607dfa2-b247-46c2-9a9c-1b0709866d0c 1.0
+# COUNTER
+Neuron e4e1bdfc-dea6-4afe-9e22-4667bbe024fc 1.0
+# COUNTER
+Neuron a36a7583-aaa8-443a-8be6-f880e65f8c48 1.0
+# COUNTER
+Neuron 6113432e-5f39-431b-b72f-5ef4adfce267 1.0
+# COUNTER
+Neuron 4f5c700a-7225-4e78-9934-db08d59c5dc7 0.0
+# COUNTER
+Neuron 25fd6ec5-ceba-4bae-947e-eebaa16505ef 1.0
+# COUNTER
+Neuron bd1a6720-7b4b-41d3-a567-db23d3eba6fc 1.0
+# COUNTER
+Neuron 616adeeb-88ba-43dc-a942-f12863ab1538 1.0
+# COUNTER
+Neuron 28954ef2-52f0-4d0a-adff-c977832db9a0 1.0
+# COUNTER
+Neuron 9a66543b-43b7-479a-9488-bc3a1a8fee47 1.0
+# COUNTER
+Neuron 80120002-0c0a-4d53-b6a2-c4f6cd3c9db5 1.0
+# COUNTER
+Neuron 4a2f0fbc-4e28-44a2-b3b2-c56158478157 2.0
+# COUNTER
+Neuron 9f725e6f-6cc6-450c-9d19-e46bc384ec8d 1.0
+# COUNTER
+Neuron d23ed666-8f64-4868-b6c2-30d4aabe27da 0.0
+# COUNTER
+Neuron a6b93128-a6a1-48fc-8164-4978e3b1ca9b 1.0
+# COUNTER
+Neuron 3e353133-7e59-4307-a6a5-7a3ee1e037c1 1.0
+# COUNTER
+Neuron 97531d03-db66-4e26-b221-1f7512833639 1.0
+# COUNTER
+Neuron 0704a800-4690-45cc-85ec-3de6acd5eba9 1.0
+# COUNTER
+Neuron 915ef8ab-dc00-41ea-9da6-31385d1a3afd 1.0
+# COUNTER
+Neuron fa4d36f8-4d0b-4883-9334-d71f191e3ed4 1.0
+# COUNTER
+Neuron 857f3b6f-f071-4a4a-b83a-fe576f64bf51 1.0
+# COUNTER
+Neuron 291c4273-7de2-408d-bba6-1aa61336da11 1.0
+# COUNTER
+Neuron c2138bc9-20ae-498b-891c-4ab996e2c423 1.0
+# COUNTER
+Neuron 592b2739-e9af-4b44-98a1-c7806f860675 2.0
+# COUNTER
+Neuron 62cbe108-86df-4d19-bfd4-e0dd978a3264 1.0
+# COUNTER
+Neuron 3073eab2-4794-4a6e-8281-3a5fc39dc519 1.0
+# COUNTER
+Neuron 0280fff5-0826-49bd-9c71-410f7958f7da 2.0
+# COUNTER
+Neuron 652f6dbf-989d-4dd2-b2c3-62f79f60c1f0 1.0
+# COUNTER
+Neuron c771cc83-0abd-41fc-a3da-fcc81d45960c 1.0
+# COUNTER
+Neuron b28b6c06-3109-4060-9b9a-7c8c965b6a9c 1.0
+# COUNTER
+Neuron bb64bf2a-996f-4644-a6fb-6ef6c3fcadad 1.0
+# COUNTER
+Neuron 31ff5e2d-298d-406a-a57f-358e31ad07da 1.0
+# COUNTER
+Neuron de3ee32f-5d3a-4ffe-83b4-54d4c93c73db 1.0
+# COUNTER
+Neuron 3e4e89b4-6d2d-4732-b6f8-f6d092f5e21a 1.0
+# COUNTER
+Neuron 29e6150b-89d5-4ac5-bf9c-a5d7b56568df 1.0
+# COUNTER
+Neuron 156277d3-b134-4272-8d34-165d4413f162 1.0
+# COUNTER
+Neuron 0111b2f7-30ef-4c55-95d7-d034c140022d 1.0
+# COUNTER
+Neuron c8923688-95b4-49ff-95d0-268d86386792 1.0
+# COUNTER
+Neuron 809d0652-96db-4a3b-a2a2-ff53af57f372 1.0
+# COUNTER
+Neuron c3e9f1fb-6423-47e5-b892-148b384642d9 1.0
+# COUNTER
+Neuron b113b793-68d0-4240-a710-1e202f8742d3 1.0
+# COUNTER
+Neuron eb735d0b-b527-4706-ae7e-896a5981f8dd 1.0
+# COUNTER
+Neuron eeee755f-caa2-4ec9-9150-e66a94d9093b 1.0
+# COUNTER
+Neuron 18aab098-1788-47e0-a1c3-205ac77cf323 1.0
+# COUNTER
+Neuron 08712c76-a420-40e9-9de3-0ce1b3e620db 2.0
+# COUNTER
+Neuron a301bc63-7fec-4bab-951a-b6e6167d7e43 1.0
+# COUNTER
+Neuron cab4e2f2-773a-4ce5-a482-ebde78889687 1.0
+# COUNTER
+Neuron 988a4643-96ca-4883-a11d-53e74e3d3e90 2.0
+# COUNTER
+Neuron fad4225b-5a67-468d-9242-effaf661a322 1.0
+# COUNTER
+Neuron aa6120d9-10b3-4514-a356-ecc64115b83b 1.0
+# COUNTER
+Neuron 06b3833b-8109-4229-9a9b-13b84dfd2394 2.0
+# COUNTER
+Neuron c05a44a1-3cb5-4906-bb2f-6897d4ffb97f 1.0
+# COUNTER
+Neuron 4f2a0e0b-3305-453e-869e-0aa6acf879ec 1.0
+# COUNTER
+Neuron 0b4d3c0f-36d4-4c7d-81e0-af1e76e9f52c 2.0
+# COUNTER
+Neuron b9eacdcd-ed1a-4706-a19f-7ab1351f5b6c 1.0
+# COUNTER
+Neuron 4a5e70d4-5bbc-446f-88a7-ed0318077cf9 1.0
+# COUNTER
+Neuron 752bdc7a-980f-4f29-bd20-caf803ab38b9 1.0
+# COUNTER
+Neuron 6b6fbe4f-d1a4-4c93-bf68-1b3e72f5f709 2.0
+# COUNTER
+Neuron fab52056-e9cc-46b5-b97d-c0139b1d8567 1.0
+# COUNTER
+Neuron a7409ac6-1b59-43b1-8a92-4e336a485bb8 1.0
+# COUNTER
+Neuron 8f4e6b2b-39d9-4ddf-951d-8acc238b411d 2.0
+# COUNTER
+Neuron c6696a26-ba9b-4357-81f0-f453dbd427c5 1.0
+# COUNTER
+Neuron 07417518-f5fe-4fd3-afea-513ad30336e6 1.0
+# COUNTER
+Neuron 1d809d3f-02b2-4031-a72a-6694fa231eba 1.0
+# COUNTER
+Neuron e05e3747-08f6-4894-b303-c3c3af971e3f 1.0
+# COUNTER
+Neuron 4d9e5416-cbb3-4051-a1f0-dc50ae82d442 1.0
+# COUNTER
+Neuron d9d79c0b-e6a5-4eca-9b30-82c5cefe5015 1.0
+# COUNTER
+Neuron 7e2703e8-d355-4e2d-b7d5-a1a4e055c68f 1.0
+# COUNTER
+Neuron 41ca6331-0ae3-483b-87eb-b4bb4f431875 1.0
+# COUNTER
+Neuron b4a1d33b-4440-42aa-ab42-a61969d0079d 1.0
+# COUNTER
+Neuron 90b96833-4d83-449a-9d62-9f0346a9eea0 1.0
+# COUNTER
+Neuron 95f1b926-60f0-4cc3-a247-ccdfe065944a 1.0
+# COUNTER
+Neuron a04f576a-af7f-46e5-a9a0-8dede5e960ea 1.0
+# COUNTER
+Neuron 057dca85-c8da-41d7-8ad5-c2ff2ddc1558 0.0
+# COUNTER
+Neuron a8efb518-70e3-4609-9511-1fb4efedcf46 1.0
+# COUNTER
+Neuron ef555eea-2854-48eb-937e-6c2e35e5103d 1.0
+# COUNTER
+Neuron 74df14e6-5203-49fa-945b-acc491922609 1.0
+# COUNTER
+Neuron e16ff3af-6631-404a-adf1-665fc735bda5 1.0
+# COUNTER
+Neuron 7a45895a-6383-4aa9-9897-e4892a3b3819 1.0
+# COUNTER
+Neuron 8c8258ed-b475-412a-aff9-34297933f22b 1.0
+# COUNTER
+Neuron 6da681ee-68b2-4f26-a1d6-a71d7e537d64 2.0
+# COUNTER
+Neuron 9d9b67ca-00e6-4768-8a70-0cc7d90ab045 1.0
+# COUNTER
+Neuron 7bda7cde-bc69-4e52-bec3-ee6f29385ed6 0.0
+# COUNTER
+Neuron 756deb57-b2d7-41b4-85e7-4d7f9ab4b94e 1.0
+# COUNTER
+Neuron fe5f4960-c819-434f-8076-5b2cad29f061 1.0
+# COUNTER
+Neuron e31e6082-b824-4242-ab40-17e744b9eb11 1.0
+# COUNTER
+Neuron a25de9f0-16a2-4cab-89ea-a28242f46d0c 1.0
+# COUNTER
+Neuron 0fcd06c4-2576-49bc-a9df-eb15a2bc5915 1.0
+# COUNTER
+Neuron 56949a40-687a-42bb-9024-52653b670464 1.0
+# COUNTER
+Neuron 5feedd96-5e41-4e61-806f-c7ee358877d7 1.0
+# COUNTER
+Neuron 8539aa1c-5ee4-4d15-b7ff-1c516e2177a2 1.0
+# COUNTER
+Neuron db9d477c-3990-40ea-ba64-c616c2586471 1.0
+# COUNTER
+Neuron eda409c0-1636-44a8-a399-47721da08103 2.0
+# COUNTER
+Neuron d7e1f315-f007-4586-a431-e8fd33997b44 1.0
+# COUNTER
+Neuron f7423a92-b82f-4edc-90cd-62c293ce2056 1.0
+# COUNTER
+Neuron dc060e38-3b84-41f6-a32f-3125cd6dbf7b 2.0
+# COUNTER
+Neuron 5bc1a8f8-67f1-4880-b25a-71295a6d53c0 1.0
+# COUNTER
+Neuron 46c464c5-8a19-4e33-a2f4-fc183c4f4eca 1.0
+# COUNTER
+Neuron 614ba631-28e1-448e-98fd-79e662837b62 1.0
+# COUNTER
+Neuron 585fe47d-cd89-440a-94e2-0d7f9782611a 1.0
+# COUNTER
+Neuron 9bf97052-097f-44b5-8043-2a4e2a5c10bd 1.0
+# COUNTER
+Neuron 610bae3e-c88e-444e-849b-6456af6a8022 1.0
+# COUNTER
+Neuron 25c1cad1-4064-4457-8684-91b1b2476162 1.0
+# COUNTER
+Neuron e5bc494d-0bdc-468e-9c68-6cd4c9aa047a 1.0
+# COUNTER
+Neuron 9d9cac36-4a41-4590-a1f8-0ff789a99e31 2.0
+# COUNTER
+Neuron bd6f2cbf-71d0-4704-9458-736bfb6bda81 1.0
+# COUNTER
+Neuron 1bfd3973-1657-49b1-a3d0-e77b79cc8dd0 0.0
+# COUNTER
+Neuron e80a1999-8cb4-48b0-8256-b54b8cf71ec6 1.0
+# COUNTER
+Neuron 91708f41-af60-4cbb-8456-3527bb7cfa8a 1.0
+# COUNTER
+Neuron e5ae1ed5-ca2e-40d5-88c3-6c837ac94e9a 0.0
+# COUNTER
+Neuron 50dea3f1-64c9-4c00-aa71-b101163970b2 1.0
+# COUNTER
+Neuron 2c724086-f66d-4487-ac6a-8aab40a6ba21 1.0
+# COUNTER
+Neuron 1286b631-24ae-49fc-a986-0705d0c20d3f 0.0
+# COUNTER
+Neuron f5665c35-6455-42b1-be1e-789fb83cafbb 1.0
+# COUNTER
+Neuron f0ac5c8e-3d53-4416-89d6-fd8914e4d824 1.0
+# COUNTER
+Neuron 2c3febb6-b0d7-4b5c-9d18-5eaa02d056ed 1.0
+# COUNTER
+Neuron 03738222-4dc8-40ab-bde6-804fcc63cdd3 1.0
+# COUNTER
+Neuron dd455da9-25b8-4f58-8c6e-eac84289bc71 3.0
+# COUNTER
+Neuron 8c47e917-4611-4144-a68d-cab7782a38bb 1.0
+# COUNTER
+Neuron aa6d1c80-bf9f-4fa4-ad97-13c64e8d6538 1.0
+# COUNTER
+Neuron 11200c10-f5ed-48e5-999e-cc63618f36f3 1.0
+# COUNTER
+Neuron 2b6e1d9d-2f87-41e4-8cf0-7809fc3fb390 3.0
+# COUNTER
+Neuron d32725e8-babe-4d50-a3c3-d0f5f4f87046 1.0
+# COUNTER
+Neuron 75a2c5d1-e19f-49ef-a29e-aba4115cc346 1.0
+# COUNTER
+Neuron ff335d12-a1df-49f1-8062-3326b252e376 1.0
+# COUNTER
+Neuron bc768267-4e02-4513-b67a-5c43fa55e252 3.0
+# COUNTER
+Neuron e0055438-6c49-4c6d-9e19-44f5b4f7c39c 1.0
+# COUNTER
+Neuron e7a540e0-9659-4686-9cfe-e9866974fe33 1.0
+# COUNTER
+Neuron b742cbaa-b17b-45d3-a87c-09b3b4a16d2f 1.0
+# COUNTER
+Neuron 4c203c64-1608-4db8-be64-0728e08938b8 3.0
+# COUNTER
+Neuron f45ef98f-3e48-4f68-b56e-fb179513f72f 1.0
+# COUNTER
+Neuron 3b72f8ba-f304-4290-8826-7f3ed4bea7f2 1.0
+# COUNTER
+Neuron c399b4a9-ee60-45f2-8f51-2902788b6f47 1.0
+# COUNTER
+Neuron b628e7fc-29b6-424c-a98f-c9588819ee6e 3.0
+# COUNTER
+Neuron 0222e38c-9ef7-4139-b1b8-0cc103cc5ec3 1.0
+# COUNTER
+Neuron d9483735-30a9-46fc-bbd3-ec6687fdcb3e 1.0
+# COUNTER
+Neuron 091eb4ee-0395-415c-817c-972220fe7fd1 1.0
+# COUNTER
+Neuron ad7300b4-2885-4e7d-b501-fbdf295e4e56 3.0
+# COUNTER
+Neuron 63b616e1-afe5-4e96-a74f-5aa11ce51304 1.0
+# COUNTER
+Neuron b1451f75-176b-4efb-85c3-ae6143a4a41c 1.0
+# COUNTER
+Neuron d23ab9a2-6517-4b89-8b63-b45939cc6da5 1.0
+# COUNTER
+Neuron 13859b75-e179-4a47-9d68-f5c69925f8e3 3.0
+# COUNTER
+Neuron 9c73e891-ab59-4cc8-a074-5733019438cf 1.0
+# COUNTER
+Neuron eb13dafe-10fc-4679-a3cc-d922748c6d6e 1.0
+# COUNTER
+Neuron 7f7b4b62-f62b-4d4e-b140-c9738ef88244 1.0
+# COUNTER
+Neuron 4cf2892a-cc6d-4357-abb6-ea69a728d8b4 3.0
+# COUNTER
+Neuron 9e6e6c8c-732d-4944-bdda-18cfb1b787e9 1.0
+# COUNTER
+Neuron ced95554-c083-4658-b091-8081fa922ea6 1.0
+# COUNTER
+Neuron 6d38c54e-fc43-4609-949f-213607657128 1.0
+# COUNTER
+Neuron 3053aa83-fa28-452c-bb6a-d2ad98fa725a 1.0
+# COUNTER
+Neuron 7a68bbbe-5050-4b8b-bd95-bc0d10634caf 1.0
+# COUNTER
+Neuron 77a35976-39ac-4fa6-b24d-0824062fc27a 1.0
+# COUNTER
+Neuron a38dcad3-cb2c-467a-9e00-8392b713fb95 1.0
+# COUNTER
+Neuron 19b61789-894e-4bcd-990e-706115226e59 1.0
+# COUNTER
+Neuron a85ae2b1-4962-45df-8c45-e8f01caea8e6 1.0
+# COUNTER
+Neuron 8ae1ceb6-8afa-4587-a9b1-c40d32b99611 1.0
+# COUNTER
+Neuron 6669139e-2ffb-4ba3-a92d-96e39bd0254c 1.0
+# COUNTER
+Neuron f253d632-fe4e-4151-a1e5-e8018a5fa7dd 1.0
+# COUNTER
+Neuron 974c7754-f198-4e9e-ac7b-091ad9588bdd 1.0
+# COUNTER
+Neuron ae3f08d0-937a-4283-9108-afcc970e1f2b 1.0
+# COUNTER
+Neuron 60ec0d47-89fb-4fad-a6e6-24b959ae4eb0 1.0
+# COUNTER
+Neuron 2be176aa-860c-4600-8ac7-588a587ba794 1.0
+# COUNTER
+Neuron 11a3b224-4219-4c31-90e2-1a562ddb2382 1.0
+# COUNTER
+Neuron 2763a0f1-88da-43c6-b00c-3bb175c9a9f5 1.0
+# COUNTER
+Neuron 90382248-6656-4d85-82bc-2b9908290ebe 1.0
+# COUNTER
+Neuron 9629ae05-46be-482c-9167-4cd6e794e881 1.0
+# COUNTER
+Neuron 5b5ff00b-226c-4c86-81cf-e2f129dc41da 1.0
+# COUNTER
+Neuron 2d73a0af-e5f0-41bc-a5ef-cb75feafdb04 1.0
+# COUNTER
+Neuron 3fa8fb33-3613-4698-8b23-1c8c28cc7737 1.0
+# COUNTER
+Neuron 52e3d709-85fa-474f-99de-3fa80f3e0fd5 2.0
+# MEMORY
+Neuron 813e2e3b-ddd3-4185-8535-7ba6f4e93ead 1.0
+# MEMORY
+Neuron 38453a51-f930-4dca-90e0-3eb4edca7ed7 1.0
+# MEMORY
+Neuron 951f718f-8913-42d2-ab2f-fc92da21f9a4 1.0
+# MEMORY
+Neuron 7858ba57-eb6f-4f08-9ab0-d6758cca2b87 1.0
+# MEMORY
+Neuron 5e5567e6-dbfa-4f78-980a-824d0b355da8 1.0
+# MEMORY
+Neuron ac2ef76a-4dbc-47b3-8477-acc2f6bf9d19 1.0
+# MEMORY
+Neuron 6f2bae0a-30b5-4c9a-bc1a-98dbe2de45dd 1.0
+# MEMORY
+Neuron 49a3fc9f-8209-4593-81ad-9faa0d3f1895 1.0
+# MEMORY
+Neuron cd8a64e0-4c16-4452-8215-f0954f05e1e9 1.0
+# MEMORY
+Neuron 539caddc-803c-4c53-ac5e-7a82df62ba07 1.0
+# MEMORY
+Neuron b32b2312-1b0f-4d29-a1c6-f15d0cfb699a 1.0
+# MEMORY
+Neuron 765b9678-c771-467a-9c8e-0e972d35d41e 2.0
+# MEMORY
+Neuron 643fb936-5cc4-43f1-b2d0-5ebed5728399 1.0
+# MEMORY
+Neuron 8dd6b6f8-b7ea-44a0-a1f2-2a1eb9087ff0 0.0
+# MEMORY
+Neuron 1d38ad67-a494-41c7-8f14-c5c4c451e058 1.0
+# MEMORY
+Neuron 35ba7df3-8da6-4f30-9698-cf4cf1fa8ff6 1.0
+# MEMORY
+Neuron 340aeddc-feba-4bb3-8dda-5c996407bfdc 1.0
+# MEMORY
+Neuron a76a120f-7613-405d-b4b3-4102842a2880 2.0
+# MEMORY
+Neuron 2d285d94-49a0-4ecb-ab13-8f32a2771ab9 1.0
+# MEMORY
+Neuron 3b897cfd-4286-457e-8cab-73163ede0c30 1.0
+# MEMORY
+Neuron 874b6a76-b1b8-4976-a1f0-9d0b8438f265 1.0
+# MEMORY
+Neuron 97918f1e-4a85-4fbf-b713-c09ab6e7c968 1.0
+# MEMORY
+Neuron 004e284b-8f3e-4b2b-b8c4-83eef9f3ca27 1.0
+# MEMORY
+Neuron 19fa3889-6bb6-4e95-baaf-682f7d1d8639 1.0
+# MEMORY
+Neuron b7917c8e-f9e5-432a-8cd1-34d0e9bc91c8 1.0
+# MEMORY
+Neuron 361152c9-c275-4143-9598-ff43f2fbd00d 1.0
+# MEMORY
+Neuron fbf064d9-5338-4a4c-b636-d519d627a442 1.0
+# MEMORY
+Neuron 4ffec587-74e9-49bc-9c11-57bec31e26c6 1.0
+# MEMORY
+Neuron 5befdb36-fd38-41b1-8496-fe0c7f573a06 1.0
+# MEMORY
+Neuron b11e1ff6-9590-4948-af3f-262a157a0bfa 1.0
+# MEMORY
+Neuron 78990ba6-f95e-44ad-a645-c91f56f86d38 0.0
+# MEMORY
+Neuron d5d84de9-6f1b-4310-9ab8-44ea5886dc8d 1.0
+# MEMORY
+Neuron 67102ca0-d0bf-4f5e-9c65-e77ab97f3a1f 1.0
+# MEMORY
+Neuron 1440359b-ab4b-47e6-a12c-f911d0555cc8 1.0
+# MEMORY
+Neuron be6d790b-c1e4-407c-9053-69b504a3d6b4 1.0
+# MEMORY
+Neuron 7f43ac52-ace6-4e2d-873d-2ea4868157ea 1.0
+# MEMORY
+Neuron 9aae95be-256d-4e4a-abf1-4e66c8c3bf0f 1.0
+# MEMORY
+Neuron 8879c02d-1f93-421d-ab31-13514c232fb5 2.0
+# MEMORY
+Neuron 5d643494-2f00-4263-bf35-0422234e49f8 1.0
+# MEMORY
+Neuron 52feff93-f9cf-445b-a386-de180820d447 0.0
+# MEMORY
+Neuron d43a796d-8548-4f87-966b-9679eefddad7 1.0
+# MEMORY
+Neuron 069617fb-099b-42a2-b853-2b3813d60299 1.0
+# MEMORY
+Neuron a8ab4030-82f5-4ef0-b99d-bb293e59f10f 1.0
+# MEMORY
+Neuron 0dda08be-8230-4f03-a516-19c89d869074 1.0
+# MEMORY
+Neuron 434b7559-0d0a-470f-a149-2e8c2b5f1312 1.0
+# MEMORY
+Neuron ee0335ef-ed71-462b-aaf0-e1f444159e08 1.0
+# MEMORY
+Neuron 12968bab-0e68-4d6e-a3de-ff29218bb539 1.0
+# MEMORY
+Neuron 7a664187-5a16-4c64-b8e4-b20e9ffcae78 1.0
+# MEMORY
+Neuron 8130584e-06ff-411a-942f-ce2fde7f8924 1.0
+# MEMORY
+Neuron 6600ad95-9942-44c8-8ba1-b45fe8120dc8 2.0
+# MEMORY
+Neuron 6f28c6da-a6cf-487b-9a09-256a820c8c9f 1.0
+# MEMORY
+Neuron c73d7cbc-1fd2-48f5-b3ed-0f560ef5656b 1.0
+# MEMORY
+Neuron bcb8bdd2-ef7f-4778-b0c1-7ad18deb0b7b 2.0
+# MEMORY
+Neuron c111c75d-01b3-4d8b-bac0-5d146ae4e828 1.0
+# MEMORY
+Neuron bb1ce52f-b941-4ea8-9e4a-78e6c8feaa8a 1.0
+# MEMORY
+Neuron 1d4bca5d-3bc2-456d-a911-f310a2d7da50 2.0
+# MEMORY
+Neuron 365c9119-1b40-4098-b704-3ba287686ae7 1.0
+# MEMORY
+Neuron 998d69bd-6722-4f24-892f-93dc12446a2c 0.0
+# MEMORY
+Neuron db580618-0d81-43ba-a97e-da2a6a87fa6e 1.0
+# MEMORY
+Neuron fafdd986-6260-4ea7-a90a-ae614a81021e 1.0
+# MEMORY
+Neuron 406b6069-17a9-423c-a51e-ae4b371792ec 1.0
+# MEMORY
+Neuron 2a1b4b98-8371-4384-ac4a-8b45c8429af5 2.0
+# MEMORY
+Neuron bf0dcff5-ef58-470f-b58c-7afc43a72aee 1.0
+# MEMORY
+Neuron 61a1f87f-4ef1-4795-acef-00c4c2679d0d 1.0
+# MEMORY
+Neuron c98715b9-70ac-4364-98c5-961585917493 1.0
+# MEMORY
+Neuron bc572285-687a-435f-a9e7-14dad1cee350 1.0
+# MEMORY
+Neuron 7753d872-b741-40b9-81d9-10ce1b727ea9 1.0
+# MEMORY
+Neuron 816af141-17bc-4fa0-a464-08b250c4f266 1.0
+# MEMORY
+Neuron 44053ed4-62fb-4cbd-9f91-e0801301bf5b 1.0
+# MEMORY
+Neuron 9265fb78-401d-44dd-8281-0bffe04331db 1.0
+# MEMORY
+Neuron 8bf676ef-2fde-4e38-8c0a-168bb5664c5a 1.0
+# MEMORY
+Neuron 3dc2baea-6715-45f1-a392-c261f4474e4b 1.0
+# MEMORY
+Neuron 000b44eb-7066-45a6-995d-3b154577d704 1.0
+# MEMORY
+Neuron ae291974-4610-4552-86c5-d265007d7de4 1.0
+# MEMORY
+Neuron d4937275-ba92-4551-a320-698c7956e03e 0.0
+# MEMORY
+Neuron 59fd8f6e-c938-46a1-8d88-141dbecb18d4 1.0
+# MEMORY
+Neuron 779c5666-1086-4432-a4b8-3e12cbd10e6a 1.0
+# MEMORY
+Neuron ab4da2a5-c61a-4cd8-ad27-a4e8e432909c 1.0
+# MEMORY
+Neuron 5a1903fe-0d2e-48bd-bbd3-819c685f194b 1.0
+# MEMORY
+Neuron ab5d28ec-6c07-4bdd-ad97-ceba49a81623 1.0
+# MEMORY
+Neuron a5e4b385-a624-4da9-a7f6-35d4bba9dcab 1.0
+# MEMORY
+Neuron 691b756e-2be2-46f2-bb95-6b0a4f4932b6 2.0
+# MEMORY
+Neuron 92c55af1-da1c-4b8c-8c90-2e0301f6dd54 1.0
+# MEMORY
+Neuron 174312bb-7615-4f33-a390-1150825f60a7 0.0
+# MEMORY
+Neuron 957d20ca-543d-4d16-bb6a-175695d3c858 1.0
+# MEMORY
+Neuron e3569b56-caf9-404e-9ecd-b43c89cf12f9 1.0
+# MEMORY
+Neuron f1516586-e334-48cb-b64a-5c73eb5fc360 1.0
+# MEMORY
+Neuron ee5884cf-0d2b-46bf-9ab3-fd5f2b1b7b57 1.0
+# MEMORY
+Neuron 500a767e-142d-458e-ac65-9f9bfe120c12 1.0
+# MEMORY
+Neuron 2746e7b0-3666-46e9-bd83-d581b33b0e33 1.0
+# MEMORY
+Neuron 4db229b7-167a-4cd9-a67e-4c51cf03567f 1.0
+# MEMORY
+Neuron 414e0aa1-a72f-4a49-9d97-d9881e50a84f 1.0
+# MEMORY
+Neuron b258ba57-d831-4cbd-b085-b5b3483a23b7 1.0
+# MEMORY
+Neuron f4b2d412-c034-4247-9202-b9b2d1711a91 2.0
+# MEMORY
+Neuron 80e5d820-bf1c-4fea-bd43-fdb8e58c25d1 1.0
+# MEMORY
+Neuron 9cf6be90-7725-411c-a607-a95c62b60fe9 1.0
+# MEMORY
+Neuron 7286a485-d2d9-4180-a238-7195e2d8ca84 2.0
+# MEMORY
+Neuron b0c76547-ce0e-440d-8e45-62e39036ca66 1.0
+# MEMORY
+Neuron c0f4f204-4dc1-4465-bae1-fc792a0d65af 1.0
+# MEMORY
+Neuron 4d45876f-27ae-4069-8666-116ac6b8ccbb 2.0
+# MEMORY
+Neuron dab6cf7d-56ac-47ed-800c-bd46dfbccddc 1.0
+# MEMORY
+Neuron d43410fe-fef1-4b1e-b7ac-e51ae5e1ee97 0.0
+# MEMORY
+Neuron ba511660-48d2-42e4-bb3e-f0255972e210 1.0
+# MEMORY
+Neuron cdad06ed-a3b4-4d8d-8830-c09362b3d3bb 1.0
+# MEMORY
+Neuron 0c86b489-835d-498c-8945-a2ee6f5b84cd 1.0
+# MEMORY
+Neuron f5074b2f-b6e7-4ce4-b13d-54eb0ab45baa 2.0
+# MEMORY
+Neuron 8a3c51bf-ef07-4819-b17f-04da05bcc203 1.0
+# MEMORY
+Neuron e607e50f-6572-4718-bfcb-3b9fe3989a76 1.0
+# MEMORY
+Neuron 4ff7a022-6816-4fe8-93f9-390ef8d00d0a 1.0
+# MEMORY
+Neuron d53a05bb-3736-417c-b330-76954c705c65 1.0
+# MEMORY
+Neuron c4070a95-e52b-43a7-bdb8-f99893cce4a5 1.0
+# MEMORY
+Neuron edcaef37-4cac-44f6-aefd-1f620529c694 1.0
+# MEMORY
+Neuron a91bbe30-351c-4942-b476-187066fd51c3 1.0
+# MEMORY
+Neuron 4972ee84-5e06-4371-8f62-9a70002d4f42 1.0
+# MEMORY
+Neuron 963fc298-0ca5-4cd9-804b-8b63904f379f 1.0
+# MEMORY
+Neuron 135347c9-4f10-43e3-bb8b-a71c0fc2993a 1.0
+# MEMORY
+Neuron 00f13276-68b4-4ef2-acb8-42ba573f6150 1.0
+# MEMORY
+Neuron 49956c11-9ea9-46a3-a617-98736a8f9e21 1.0
+# MEMORY
+Neuron 5d021f02-4b90-4a09-9288-394bb6ae61c8 0.0
+# MEMORY
+Neuron ca7949be-ba87-4494-bdc4-84f66bd74af9 1.0
+# MEMORY
+Neuron eb0bddbb-f864-43ee-a1a2-6c4e2c876ac6 1.0
+# MEMORY
+Neuron 59f95710-13e2-4e02-b295-2e20339b9c29 1.0
+# MEMORY
+Neuron bdd81c5a-05af-4a52-a95e-83e93c7c0098 1.0
+# MEMORY
+Neuron 379fce12-8c28-4ad2-a857-8f1898f9f67a 1.0
+# MEMORY
+Neuron d841d4ce-d0de-47ba-b0c4-de8b3bf956a5 1.0
+# MEMORY
+Neuron 7ac8f49e-ca31-4844-b282-bb72f37b527c 2.0
+# MEMORY
+Neuron dce2fe3d-747d-4633-ae09-a1616ae39eb1 1.0
+# MEMORY
+Neuron 3bd6154e-8017-48a8-a4ae-6b2ed3dd6ace 0.0
+# MEMORY
+Neuron b6fbf5ba-814c-42bc-aa3b-13b4d9dcb796 1.0
+# MEMORY
+Neuron a08ce550-f8f6-465f-905a-5885aaa05d5f 1.0
+# MEMORY
+Neuron 646eaa0b-34f4-4854-970d-71ada41bf391 1.0
+# MEMORY
+Neuron 383b1825-b883-4fa1-a768-5cbac020515f 1.0
+# MEMORY
+Neuron fc68406a-7c29-47e4-ab6c-88a81413deef 1.0
+# MEMORY
+Neuron b73943e4-031f-4c7c-b081-f269435b7553 1.0
+# MEMORY
+Neuron 597404fe-0e02-4907-b466-38ca26d2cfa8 1.0
+# MEMORY
+Neuron 135642bd-0038-499d-9ae1-2fcd52f95ef9 1.0
+# MEMORY
+Neuron 0a238e7a-c909-4b46-bb78-582c07e94cb0 1.0
+# MEMORY
+Neuron 9e58f865-c106-4145-9e06-ae635cd4baba 2.0
+# MEMORY
+Neuron bfbdaa4a-15a0-422e-9b06-fe6732c63234 1.0
+# MEMORY
+Neuron 95ce8aed-612c-46d3-ac60-38f4ba60ae47 1.0
+# MEMORY
+Neuron e36e40c8-c7d5-4364-aa89-952a5d38d69b 2.0
+# MEMORY
+Neuron 1fa45c7a-7407-4700-9fa5-4607dddb313a 1.0
+# MEMORY
+Neuron b70e9d30-eba3-49c2-a271-be751c6cef41 1.0
+# MEMORY
+Neuron 9ffbae9b-6a61-4f5f-a753-add6d1de6cf7 2.0
+# MEMORY
+Neuron 69f88981-32cc-4f73-8a02-bf29a42dcaba 1.0
+# MEMORY
+Neuron 13a9db87-7734-4cf7-a14d-f3640b0f2973 0.0
+# MEMORY
+Neuron df36433b-b99f-4d6f-8da0-ffb2239285eb 1.0
+# MEMORY
+Neuron ad379a68-3c75-4dc8-bc6b-f4e448e010f5 1.0
+# MEMORY
+Neuron 471cb3a9-6cb8-430b-ab66-60f1deb96408 1.0
+# MEMORY
+Neuron c36f4c4a-fbbb-45fd-a856-61f46c489843 2.0
+# MEMORY
+Neuron f2c004ae-db41-48f3-b1fa-05ef5c824e87 1.0
+# MEMORY
+Neuron 97aa4e53-e69d-4867-a5b1-38fd467fdccd 1.0
+# MEMORY
+Neuron f2428495-5f0f-453f-b614-cf16b5a67d5a 1.0
+# MEMORY
+Neuron 8de4ed38-fb91-4de7-a7cc-03698876930d 1.0
+# MEMORY
+Neuron 86cdfd1d-e22b-457b-ac66-d2f9c64e2238 1.0
+# MEMORY
+Neuron ea6542a0-fd07-4cf5-bb98-843db5ffb9ae 1.0
+# MEMORY
+Neuron e90f528a-6146-4b15-95e7-58e7e7683c04 1.0
+# MEMORY
+Neuron 30e30583-23c7-4e36-8540-2aa337e46f1e 1.0
+# MEMORY
+Neuron 99ebe23c-7eb5-47b1-9ce4-a2a66d757eb0 1.0
+# MEMORY
+Neuron 93368e6d-87c5-4de3-8a41-07866f456f48 1.0
+# MEMORY
+Neuron 32ded4ed-10c3-4d92-8134-918489f0a70d 1.0
+# MEMORY
+Neuron 179d9e4e-6f79-49ce-8f06-10c10ef44dbf 1.0
+# MEMORY
+Neuron 6fcb7ebc-8a12-413c-be41-126ab342c0e3 0.0
+# MEMORY
+Neuron 9615db78-cce3-41b7-a781-117721c3c53c 1.0
+# MEMORY
+Neuron ca34d5cc-0184-4228-bd0b-3f70a0490fe1 1.0
+# MEMORY
+Neuron 7744c3f1-b653-4ce9-b761-5a07c7cdc507 1.0
+# MEMORY
+Neuron 894fe2dd-4017-44b2-8891-85c5b47d4f06 1.0
+# MEMORY
+Neuron 73b8f05f-ca51-4ebf-87d7-0a10dda0419c 1.0
+# MEMORY
+Neuron e907dbb0-d9f8-4d1d-9cba-3203cb43567d 1.0
+# MEMORY
+Neuron 0a37c907-2b0a-4fae-bddb-4ee058b2da55 2.0
+# MEMORY
+Neuron 4fdc1628-9231-4ca1-8496-6c0d29f43aa4 1.0
+# MEMORY
+Neuron d74d435a-4e7a-4891-af54-315362ab2dd3 0.0
+# MEMORY
+Neuron 08f67d8b-5d66-4cc9-8968-50c47e1c2c02 1.0
+# MEMORY
+Neuron abdfe597-fd21-409a-a934-2d8f27837665 1.0
+# MEMORY
+Neuron 3aa28cfb-58bf-401a-97d3-fe80a810bcc6 1.0
+# MEMORY
+Neuron 5b1fca52-b174-493e-bde8-b71b052ed248 1.0
+# MEMORY
+Neuron 3413bc8f-510a-45ef-9903-e18d0226572a 1.0
+# MEMORY
+Neuron 3c93bdf7-1805-454a-a374-e0f3f7a63f6f 1.0
+# MEMORY
+Neuron f3387576-d9e9-41b4-b2c6-09b13c162968 1.0
+# MEMORY
+Neuron e43e4048-0961-45e3-88ed-793536a97bb1 1.0
+# MEMORY
+Neuron ded7dbcf-390f-46fe-b24e-b3559641eaca 1.0
+# MEMORY
+Neuron ed4f2f72-2629-494a-91cb-1d92297b9127 2.0
+# MEMORY
+Neuron 1576eab5-2c44-4c46-b0d7-b2c0d94f53da 1.0
+# MEMORY
+Neuron b56ae229-b511-4956-a066-5900ad0d4754 1.0
+# MEMORY
+Neuron 7487fea9-88d2-414f-b832-ccd70d4d28a4 2.0
+# MEMORY
+Neuron 218c4fbb-173f-4f83-9266-42495b05f673 1.0
+# MEMORY
+Neuron c7f75649-b602-4e49-bf86-e014e149afe8 1.0
+# MEMORY
+Neuron 25c649bf-8365-41cd-b0d1-98d80965cd87 2.0
+# MEMORY
+Neuron c07c323b-a118-497e-9e27-c852c2bf8b98 1.0
+# MEMORY
+Neuron 4d49992a-5c05-49e6-9614-877376dadb7e 0.0
+# MEMORY
+Neuron f3388186-a11d-4bcc-b150-affc41c635c9 1.0
+# MEMORY
+Neuron 82bb7c3f-034c-44c9-b172-befad8c125bb 1.0
+# MEMORY
+Neuron feab5cf3-9ab3-4aaa-8afa-d275c969c225 1.0
+# MEMORY
+Neuron 6776bf1a-0798-47be-bc98-0c1957af2a4f 2.0
+# MEMORY
+Neuron ef79c41e-b08d-491c-b49c-88a672d92968 1.0
+# MEMORY
+Neuron c22c3bcd-e16a-4345-b5f5-1011a8f87419 1.0
+# MEMORY
+Neuron 769fa46d-8dc4-4c90-9a3e-1820865e2ac4 1.0
+# MEMORY
+Neuron 734ddc80-c1c1-45ec-9045-8fdb456250c4 1.0
+# MEMORY
+Neuron 5a393eaf-e0ee-4431-93ee-87f25718cba4 1.0
+# MEMORY
+Neuron 7f3477ff-681e-43b3-903d-6b5899c81af7 1.0
+# MEMORY
+Neuron f9bf3222-1454-45e9-a6bd-543a637f6b8d 1.0
+# MEMORY
+Neuron 282d2319-c537-4b3b-90fe-7d0d5493ce0e 1.0
+# MEMORY
+Neuron 144f46d5-d97b-4b6a-b4dd-66b5e150c14f 1.0
+# MEMORY
+Neuron af61deb6-01c2-4c8c-9744-9ed6b114a646 1.0
+# MEMORY
+Neuron ffa7cc04-a217-4d28-88b8-e00c27801795 1.0
+# MEMORY
+Neuron 93861eb2-0169-4051-8fa5-f37de1c2947f 1.0
+# MEMORY
+Neuron 5ef2dfb1-f03a-4dd2-a272-84374d312c47 0.0
+# MEMORY
+Neuron a10175b4-3d59-4bc4-bb9d-5731460a3f17 1.0
+# MEMORY
+Neuron 7c396228-c61b-4e0d-a0cf-018290d7418e 1.0
+# MEMORY
+Neuron db350c23-65ca-42b7-b658-a6d29ab89b75 1.0
+# MEMORY
+Neuron 38206378-0364-46f6-b7f5-d3a536aa3d8b 1.0
+# MEMORY
+Neuron 26981d4b-858b-4695-b351-072f29d5ea13 1.0
+# MEMORY
+Neuron 6845c87d-cb97-49c4-914d-7b3cc578b7fb 1.0
+# MEMORY
+Neuron 518bfe1d-d543-4130-8a1d-b8434e9d4ef3 2.0
+# MEMORY
+Neuron ab89640b-3c47-4bb4-9f95-89dca6831402 1.0
+# MEMORY
+Neuron 8d1d8fa2-61b3-4e8a-a455-5d90ac4b7db5 0.0
+# MEMORY
+Neuron 67f63e54-f505-4300-944d-f107c8cc9c6e 1.0
+# MEMORY
+Neuron dd3b99cd-afc9-4162-beba-8c4f1b8e3339 1.0
+# MEMORY
+Neuron 264b3e64-323b-4ed3-b597-b2e806917b9d 1.0
+# MEMORY
+Neuron 2db895e3-6212-42d6-ad0b-677fa6c13f78 1.0
+# MEMORY
+Neuron 0bb1f6d8-11a0-47db-a189-4522adc121ff 1.0
+# MEMORY
+Neuron bed36282-2843-4503-af2f-5766c7fe08b2 1.0
+# MEMORY
+Neuron 4f9978ba-ff60-4e17-897a-27267042f68b 1.0
+# MEMORY
+Neuron 52cb55f9-2e85-43b5-ab40-a6469b07625c 1.0
+# MEMORY
+Neuron 429c73e9-f1a5-47cb-b67e-cb242ccc4073 1.0
+# MEMORY
+Neuron df14e046-90b5-4378-8f69-ba3de854aa89 2.0
+# MEMORY
+Neuron e5541260-d073-4b11-85ea-1ce9acf495f1 1.0
+# MEMORY
+Neuron a476f2ea-f610-40b8-944f-f01f6ec2d077 1.0
+# MEMORY
+Neuron 87cae756-669e-4418-bda0-3ea76f6a4b03 2.0
+# MEMORY
+Neuron 58280243-aa6d-4934-b669-6eb474b115ac 1.0
+# MEMORY
+Neuron 84ffb964-b258-45f0-9707-fa0c9195c21e 1.0
+# MEMORY
+Neuron 6dac9db5-86d5-41cc-8cf9-a491841f3630 2.0
+# MEMORY
+Neuron fc92407e-00d0-4773-8069-f790b7707f3f 1.0
+# MEMORY
+Neuron 88f3c7e2-d664-4ecb-a07a-5ee075317611 0.0
+# MEMORY
+Neuron 4d08f332-587c-4272-98f7-b212f401473d 1.0
+# MEMORY
+Neuron 48d7a459-5bfd-42c8-933c-b3d1beb18b0b 1.0
+# MEMORY
+Neuron c5229d73-29b9-4dce-ba1c-0a25a6f112d6 1.0
+# MEMORY
+Neuron ed344ac3-0aa6-43bf-a0cf-9c6cc16a363a 2.0
+# MEMORY
+Neuron eebfe3ac-0ef3-451c-894f-7c5a7248702d 1.0
+# MEMORY
+Neuron 9d28490b-2bd5-4a7b-9a72-264cf74aff95 1.0
+# MEMORY
+Neuron f3b67b38-cbd5-4fae-be7f-edb12e775508 1.0
+# MEMORY
+Neuron 0bf6a7d7-cdc1-435b-b72b-d14f612e20e0 1.0
+# MEMORY
+Neuron af84ddd1-6b07-4185-9e7f-f38402670443 1.0
+# MEMORY
+Neuron 4ca6d48d-4ec0-42b3-a354-ceddec410da4 1.0
+# MEMORY
+Neuron 3a0af319-69df-4250-a338-29704b632e54 1.0
+# MEMORY
+Neuron 68b93fa7-d44a-4cb7-ba2e-a0687f7ae5e7 1.0
+# MEMORY
+Neuron 70c9b53f-1cf0-437a-89a3-1fa6a6fbe137 1.0
+# MEMORY
+Neuron 231e7005-f56c-4701-824b-608d76c7f6ea 1.0
+# MEMORY
+Neuron 2eb1d3cb-6a2e-4d6e-821e-25014df37304 1.0
+# MEMORY
+Neuron 0db44436-7f23-4211-99a5-6990381ea2be 1.0
+# MEMORY
+Neuron 2b08ec9a-ddfb-4939-a189-04ba5768e1f7 0.0
+# MEMORY
+Neuron 60dcebc4-ecf0-4205-8389-26a975af0d02 1.0
+# MEMORY
+Neuron 018525bc-861b-4116-8a0e-944650896cf8 1.0
+# MEMORY
+Neuron 635d179c-8cc1-4556-b2a2-7e46939073f6 1.0
+# MEMORY
+Neuron 92016e29-0032-499b-93bf-d2129791df46 1.0
+# MEMORY
+Neuron da974dde-b894-43cf-8c38-5b6f948bafa0 1.0
+# MEMORY
+Neuron 15fbf292-7f2b-426c-b19d-42a192fcf37f 1.0
+# MEMORY
+Neuron 7d5c3bca-8c0e-498c-95ef-c09e2ff54e27 2.0
+# MEMORY
+Neuron 6f763400-2de0-4ad8-97a8-660a97866787 1.0
+# MEMORY
+Neuron 9c441051-ecb0-459d-a9c2-460defd7ffa0 0.0
+# MEMORY
+Neuron 0b8e48da-fe29-48de-8847-526080f95d66 1.0
+# MEMORY
+Neuron 3f91ab5f-1463-4017-9e40-fd5d21e220f0 1.0
+# MEMORY
+Neuron c7218b57-53ba-4c1d-9799-66ffbd6c40e6 1.0
+# MEMORY
+Neuron 18b5bb99-4661-4ef7-9ffa-49e019c5146d 1.0
+# MEMORY
+Neuron 2ff6098e-49b0-470a-b282-a69c946b93cc 1.0
+# MEMORY
+Neuron de22d910-87e7-4574-b942-7ae9f8d23995 1.0
+# MEMORY
+Neuron ef1aa39a-a456-4348-adc8-3013bc127c9f 1.0
+# MEMORY
+Neuron f9e8305a-a2f1-43f7-a898-33f8535507ad 1.0
+# MEMORY
+Neuron bdd5db7a-6795-498f-a918-14e62e589da5 1.0
+# MEMORY
+Neuron 08d22e2a-c0b9-4085-a8db-2a33b2fb19a4 2.0
+# MEMORY
+Neuron df19889c-8826-4b09-8306-8c348c58ecb3 1.0
+# MEMORY
+Neuron 7bef6f57-1dac-4a19-93d3-1491e77c0bc5 1.0
+# MEMORY
+Neuron 96eb247c-eb65-44b8-aa57-70ea6961d42e 2.0
+# MEMORY
+Neuron d5289730-a3a6-497c-ac0d-f1444c0244c8 1.0
+# MEMORY
+Neuron 1c52b3c4-f806-4cf0-b420-643a3e558be0 1.0
+# MEMORY
+Neuron 4b15d878-6b65-459c-a041-816e1d27472e 2.0
+# MEMORY
+Neuron 49122ccc-ac21-4fb6-8578-30fb317685ef 1.0
+# MEMORY
+Neuron b41f19fc-973c-461e-8eeb-d3cee192b0f5 0.0
+# MEMORY
+Neuron ecdb89f7-7bd7-441b-b064-71468bcfaaca 1.0
+# MEMORY
+Neuron e65c7195-3c6f-45f3-bb7b-29c65b3b8da0 1.0
+# MEMORY
+Neuron da768f28-1c0f-4081-a931-1626d7686c23 1.0
+# MEMORY
+Neuron bc29a24c-8412-4123-b53f-776e1f39820f 2.0
+# MEMORY
+Neuron f3880d49-50da-4e10-a4d5-2ccaa960e99c 1.0
+# MEMORY
+Neuron 1a350a43-cfd1-4295-8c92-894f728ae551 1.0
+# MEMORY
+Neuron f14542b7-8c5c-4fe3-8d04-7a093da07144 1.0
+# MEMORY
+Neuron fa1b0e9a-e974-4edd-bb1e-85a97e851ac7 1.0
+# MEMORY
+Neuron fe1b5ceb-e62a-4584-a640-2256c8004f0c 1.0
+# MEMORY
+Neuron 001b58f6-3d6e-4735-bded-996f0238c4f9 1.0
+# MEMORY
+Neuron 3b764dd1-20c5-41f6-95a5-66690beb7573 1.0
+# MEMORY
+Neuron 4f096ba2-9881-4dd1-b563-b7ba1a82e9fb 1.0
+# MEMORY
+Neuron 5d80b15c-aec6-41be-b1ac-8465149bbfee 1.0
+# MEMORY
+Neuron 19f32af3-f819-4409-9743-bca9acd4accf 1.0
+# MEMORY
+Neuron c5089474-e380-400a-8191-290779bd80d1 1.0
+# MEMORY
+Neuron 49418f07-20a1-417c-aae9-c0e135f98a6e 1.0
+# MEMORY
+Neuron 965f165e-b511-4885-89e3-ac396029bb52 0.0
+# MEMORY
+Neuron 3df1346a-328c-482e-b2be-ee1d51ae6307 1.0
+# MEMORY
+Neuron 6d3b1d45-e319-45a5-abf9-2f8ae1b83d67 1.0
+# MEMORY
+Neuron 879d9e98-903a-4f93-b33b-4270a90e0840 1.0
+# MEMORY
+Neuron f1780ae9-8629-4fca-bc47-f5fc363f33bd 1.0
+# MEMORY
+Neuron c672f0dc-caa9-4843-9ed8-548dea55cc9a 1.0
+# MEMORY
+Neuron 86f16e75-2344-4ea6-8c62-81712274e14a 1.0
+# MEMORY
+Neuron e1eb0325-f6d0-46c2-bf76-e0c0917aad0e 2.0
+# MEMORY
+Neuron ec676d16-5e44-4a60-aec2-81cc2121792f 1.0
+# MEMORY
+Neuron 1421f1c7-87c2-4724-aae1-3e23684918f5 0.0
+# MEMORY
+Neuron bb4e44e2-7fa1-4256-8fb2-2cbc7190fa0b 1.0
+# MEMORY
+Neuron 0543a8f6-35d2-41ad-8026-f91c88605245 1.0
+# MEMORY
+Neuron fb2e3969-229e-44d7-8a17-917861284597 1.0
+# MEMORY
+Neuron 5806b458-9ad0-4ede-a841-b3d6a71130ee 1.0
+# MEMORY
+Neuron d34d4518-399f-4cb0-9fc6-13fc11f86ef9 1.0
+# MEMORY
+Neuron a4c33045-f449-4ee0-aa86-d69d43546dde 1.0
+# MEMORY
+Neuron 365149e1-f0ff-4806-8978-f072be4ac16a 1.0
+# MEMORY
+Neuron c4bc176a-2a3a-4662-a928-f0fd58a8556a 1.0
+# MEMORY
+Neuron c4d5c7b7-390a-49ba-8fd9-a4291e5f247d 1.0
+# MEMORY
+Neuron 5e50124d-4aa8-446f-9852-f727f5227575 2.0
+# MEMORY
+Neuron 86a2fd2c-94f9-4370-96fb-608e73290816 1.0
+# MEMORY
+Neuron d15c4f4b-55be-488d-8098-e6280a9ab35b 1.0
+# MEMORY
+Neuron fe18e2f2-36b2-484c-a0fe-32d09d1b44c0 2.0
+# MEMORY
+Neuron 5b3cbd1d-4238-45f7-84d4-88eebb7b98e4 1.0
+# MEMORY
+Neuron 750fbc29-bb64-40be-a3c8-e48392fc42c0 1.0
+# MEMORY
+Neuron c7765509-ccfd-4fd6-8029-4a138c268e47 2.0
+# MEMORY
+Neuron c7990031-8f4b-49b0-b3ac-2b2db6f90c48 1.0
+# MEMORY
+Neuron 9ca77893-75a4-45cd-b0a1-ae57802e29e2 0.0
+# MEMORY
+Neuron 3fd4ec1a-4c8c-464a-afa8-a28ce5d12d77 1.0
+# MEMORY
+Neuron e3b22716-6905-44f4-8625-3a735902e492 1.0
+# MEMORY
+Neuron cc8e4c51-0ebf-4c17-b73b-6ba891b13a85 1.0
+# MEMORY
+Neuron 3cc3c146-ec3f-4706-9b64-981fe120a60e 2.0
+# MEMORY
+Neuron a5e336af-f2d8-4f8d-b095-00477dc959a6 1.0
+# MEMORY
+Neuron 845339ed-b570-4acb-9bdb-720bd4f817fb 1.0
+# MEMORY
+Neuron f71a2a6b-f0a5-45da-8ae2-786a3d368661 1.0
+# MEMORY
+Neuron 65e086e7-897b-489c-ab44-7533e9fd8025 1.0
+# MEMORY
+Neuron 581a3543-88d7-429f-ba5a-94083f47d25c 1.0
+# MEMORY
+Neuron b49f51a5-d046-489d-8f5c-b72b2f630574 1.0
+# MEMORY
+Neuron 139dba0f-9035-4f31-97c5-79a146240895 1.0
+# MEMORY
+Neuron 4bd68322-c3d2-4909-b3af-5355a53b8fef 1.0
+# MEMORY
+Neuron 29e713f4-9e2e-4da0-b43b-33a0ca2aed98 1.0
+# MEMORY
+Neuron 5fa04c49-17ab-4efe-b199-599e5326951c 1.0
+# MEMORY
+Neuron 4e0bf1a7-00bb-4c62-ad57-044e99a6f8ba 1.0
+# MEMORY
+Neuron 28ea7223-4e89-4c35-8a10-36ae6eeb5a46 1.0
+# MEMORY
+Neuron 80b6495c-60f3-4394-a342-031cfe312d70 0.0
+# MEMORY
+Neuron fbd9e5be-5c0a-46ef-be63-9266b325ab6b 1.0
+# MEMORY
+Neuron 5e39707c-a5f3-48a9-a22b-839ca8f71e76 1.0
+# MEMORY
+Neuron 1a589c6b-19c6-4309-aa6c-b87b9bdaa746 1.0
+# MEMORY
+Neuron 743203af-9c68-4c23-9acb-ebc0061a9b45 1.0
+# MEMORY
+Neuron 6312ed48-84d7-48f4-9c65-97953a6355c3 1.0
+# MEMORY
+Neuron 2c7fda44-a479-4cfa-9f48-1f280432aa59 1.0
+# MEMORY
+Neuron a8c61e77-5874-4a8b-8e61-45354b708b0d 2.0
+# MEMORY
+Neuron 6115c833-6d50-4419-bf2c-f70db290297c 1.0
+# MEMORY
+Neuron 8d20888f-19b6-4c84-8567-5e950db4e04b 0.0
+# MEMORY
+Neuron 07a02f4d-5c02-4498-848c-e5dff574a09f 1.0
+# MEMORY
+Neuron a58702ff-2f6e-48b7-9c0a-2523cfb14d58 1.0
+# MEMORY
+Neuron 6915e694-aef0-4f7a-bd84-2d8aab7fa831 1.0
+# MEMORY
+Neuron 7dd2cd3f-0bac-4c47-9813-0ca9c730d4fa 1.0
+# MEMORY
+Neuron dc861085-2116-448b-829e-36253ccb0d0f 1.0
+# MEMORY
+Neuron 49dda397-b41a-49ed-a9e3-2c6539150eea 1.0
+# MEMORY
+Neuron a55609e5-3e0c-4530-acef-a39bb0aea38f 1.0
+# MEMORY
+Neuron b6951387-4777-4044-998e-8ef8fe47cbdf 1.0
+# MEMORY
+Neuron 0beca04d-6ce9-4e79-a2cd-734d9255910a 1.0
+# MEMORY
+Neuron 762b45e5-ce62-426b-a872-b8f4f671b2e7 2.0
+# MEMORY
+Neuron 97a5498e-e06a-4c8c-9364-bb617c4d0c93 1.0
+# MEMORY
+Neuron 4687f755-8c9c-40ba-beae-a18a2698c592 1.0
+# MEMORY
+Neuron 8f79a80d-01d7-45c8-bf03-239bcab85168 2.0
+# MEMORY
+Neuron fa3f314a-f7e4-4650-9e00-61cfb5316379 1.0
+# MEMORY
+Neuron b4e6b88a-c4bd-4e96-ae80-5aecb1623c34 1.0
+# MEMORY
+Neuron 5a4dc4ab-0fb6-476e-9077-dbe452d4e178 1.0
+# MEMORY
+Neuron f887330b-c8f5-44ab-b755-b52a42d2c125 1.0
+# MEMORY
+Neuron c43b1a99-6c79-4449-a4b9-e837ddf4d8dd 1.0
+# MEMORY
+Neuron e9e59a9c-9dac-495e-b1a9-91df7af16866 1.0
+# MEMORY
+Neuron 6b7f9ea8-9cbc-401e-8ae6-cdf56d214f24 1.0
+# MEMORY
+Neuron c1f509d5-b2a3-4ab3-a90d-76fb28d07586 1.0
+# MEMORY
+Neuron 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 1.0
+# MEMORY
+Neuron 718bb6cf-f925-4e77-99ae-d3f4bb0c03b9 1.0
+# MEMORY
+Neuron e3aade59-47df-4f1b-ba5e-839db32a6a24 1.0
+# MEMORY
+Neuron f13bd4a5-bf38-425d-8da2-c9031b84f8d2 1.0
+# MEMORY
+Neuron 859cdc98-c31d-45e9-aacb-432a560bce64 1.0
+# MEMORY
+Neuron 331300e1-10a7-40a2-a89a-6562a7f5faa9 2.0
+# MEMORY
+Neuron 67d13f6e-9a75-4f22-a654-edae3df348e1 1.0
+# MEMORY
+Neuron 1736aed7-52d9-4d63-b351-8021d3031cfe 1.0
+# MEMORY
+Neuron fa6056f6-9105-46d2-8e2a-4312d919e286 2.0
+# MEMORY
+Neuron 4d4fdcb1-400b-42f3-b922-231c70a3755c 1.0
+# MEMORY
+Neuron 72213210-b28c-4b8d-a402-2054ee272027 1.0
+# MEMORY
+Neuron a9a040b0-dddd-4d1a-a7b7-6db4d3d982fc 2.0
+# MEMORY
+Neuron 3c48bee1-3198-4486-82bc-4ed7e96540a6 1.0
+# MEMORY
+Neuron 24953496-e1b6-4084-8b3f-c648437382b8 1.0
+# MEMORY
+Neuron 9c5d6946-dd04-4839-a838-acf7bdaa6158 2.0
+# MEMORY
+Neuron 6532ddb6-3f4b-4fd7-9b08-2fa4e0265658 1.0
+# MEMORY
+Neuron 756ec6b3-1a7c-4d2e-968a-3fb01b29efdd 1.0
+# MEMORY
+Neuron 703b2813-3c0f-4e9c-bde0-dc9537b70839 2.0
+# MEMORY
+Neuron 19e14b3f-a9f6-468b-b0fb-e93e87f757ab 1.0
+# MEMORY
+Neuron 845bc2f0-4192-452c-8090-98cae861de96 1.0
+# MEMORY
+Neuron 43c7d4bf-d8bd-4cb8-8f6d-741bbf376a86 2.0
+# MEMORY
+Neuron 46923f6d-35f6-44bd-a6b9-a341f69a077a 1.0
+# MEMORY
+Neuron 1284eefe-5836-4736-be04-3a923df5fa96 1.0
+# MEMORY
+Neuron 49bd8ebc-322f-4f5e-957b-4ce43540a9d4 2.0
+# MEMORY
+Neuron 910a48c9-8acc-433f-ace4-61265e02d6a1 1.0
+# MEMORY
+Neuron 8826f247-68bd-41e5-aa2d-83ebdc85e9c4 1.0
+# MEMORY
+Neuron b9e84f67-e416-4f9a-83bd-c8c6c9016f4f 2.0
+# MEMORY
+Neuron 038d7417-27fb-4ba6-abd3-b355435f7ea6 1.0
+# MEMORY
+Neuron d887095a-bfa0-44af-8ffb-6700af751656 1.0
+# MEMORY
+Neuron 470c1f6b-5f27-42c1-bd13-2a03bdea5c3e 2.0
+# MASK AND 0
+Neuron 2c090323-267f-4e8b-967d-7c24971989dc 1.0
+# MASK AND 0
+Neuron e6f6a6ef-d8a7-4ed5-90c6-9a449fdae7c0 1.0
+# MASK AND 0
+Neuron 231f6412-450a-480d-9dbf-ac5923613ae6 2.0
+# MASK AND 1
+Neuron 3eba9ca2-cb19-4336-adf1-657c68d24798 1.0
+# MASK AND 1
+Neuron 7af44e15-c539-4e11-9b7c-e662871b7d7e 1.0
+# MASK AND 1
+Neuron 3e60d377-97c7-49cb-90e1-341a59c38b95 2.0
+# MASK AND 2
+Neuron 4f421e9d-4198-45fe-b460-e86c1af4db74 1.0
+# MASK AND 2
+Neuron cf7acf13-ec9d-4b2b-afc3-87dcddf7103f 1.0
+# MASK AND 2
+Neuron 7c0625da-16cd-4447-a567-90f155800faf 2.0
+# MASK AND 3
+Neuron efa23889-15a8-4d71-aa70-3f0aed09e34a 1.0
+# MASK AND 3
+Neuron e7a316f2-b291-4ffa-b073-ad8d40c358c6 1.0
+# MASK AND 3
+Neuron d2655f8c-c366-4d59-ac3f-59e8b8cd6ee0 2.0
+# MASK AND 4
+Neuron c261d236-c467-492f-ae9c-ff690f145cde 1.0
+# MASK AND 4
+Neuron a9fe325e-150b-450f-8d91-2852fca7c065 1.0
+# MASK AND 4
+Neuron cfcabb88-30d6-4c92-aff2-3a0613d807fa 2.0
+# MASK AND 5
+Neuron 174e27ce-f428-488a-baa4-ac0fd3295511 1.0
+# MASK AND 5
+Neuron ca2647d5-7120-4e7a-bb3c-46124d240e2e 1.0
+# MASK AND 5
+Neuron 4df5127b-d334-4b15-ad9c-9b444af5f386 2.0
+# MASK AND 6
+Neuron ad554853-e4f0-4a6e-9934-a339398bf1f0 1.0
+# MASK AND 6
+Neuron f9d9a865-0831-4ea3-8a70-61152ba542cc 1.0
+# MASK AND 6
+Neuron c6d1151e-0022-4b65-9472-031434d3c062 2.0
+# MASK AND 7
+Neuron bfd84440-0c02-43b6-bbd9-41227b43cbe7 1.0
+# MASK AND 7
+Neuron bb77ed8c-ef74-4cab-83c1-fd51dc127bc3 1.0
+# MASK AND 7
+Neuron ff8d7233-f041-4afd-95af-aea85a76199b 2.0
+# TURN OR 1
+Neuron 6cfdd809-a761-404f-a3a2-fd03179678bb 1.0
+# TURN OR 1
+Neuron 6ca6c91a-ad50-409d-bc02-95b4bd9d5ee0 1.0
+# TURN OR 1
+Neuron 696e860e-2751-4719-819e-a1d6a16cc37d 1.0
+# TURN OR 2
+Neuron 01562c0d-556d-48df-be36-d09d99c3e506 1.0
+# TURN OR 2
+Neuron 5f2dfb2f-c6bf-40c7-b2ae-c12250828e41 1.0
+# TURN OR 2
+Neuron 87e28c98-31ef-45e0-9c8d-f062a276c955 1.0
+# TURN OR 3
+Neuron 2756c9b9-6da3-4902-9965-96d694200cbb 1.0
+# TURN OR 3
+Neuron 713a032c-44ef-4879-aecd-e17266ce0c3a 1.0
+# TURN OR 3
+Neuron abdfcd0b-ac4e-4971-a7ae-7d90506c36ce 1.0
+# TURN OR 4
+Neuron 8de6fa72-d2e6-4c4e-9c52-91ef093a0759 1.0
+# TURN OR 4
+Neuron b1d6f34b-4897-4dda-8c7d-6005d1c9f335 1.0
+# TURN OR 4
+Neuron 588c456c-f37a-4133-b459-a6704739306c 1.0
+# TURN OR 5
+Neuron 215e16dc-892b-4aac-8777-a75588f1f7c2 1.0
+# TURN OR 5
+Neuron 9e3906ab-7db8-4e2c-8a8c-60c87c061194 1.0
+# TURN OR 5
+Neuron f0701ddf-ad59-41aa-89fe-2b9cc70981cb 1.0
+# TURN OR 6
+Neuron 6c6c71e8-3b58-4958-a163-46140e2dc90e 1.0
+# TURN OR 6
+Neuron bfc446b0-844e-48a5-932a-5c8b70474b62 1.0
+# TURN OR 6
+Neuron 3fec9417-467a-488e-9ef6-7e32e3956cc0 1.0
+# TURN OR 7
+Neuron 0c38c9b0-dc74-4d8c-abee-9c5d6a757c5d 1.0
+# TURN OR 7
+Neuron 4b3b21fb-ca7f-4a3f-afbe-a24f3eb75691 1.0
+# TURN OR 7
+Neuron 1c3441d0-97c6-4240-82a7-0a1754feb5a7 1.0
+# OUT 0
+Neuron 06d6b9a6-7e48-4956-a307-67463c8131d6 1.0 isOutput
+# CLOCK_IN
+Neuron 0dae6721-bfb0-4c54-b211-0276d0e56800 1.0 isInput
+# CLOCK_0
+Neuron 9dde698f-5e8a-4826-ba65-3b617de89f8b 1.0
+# SPUR0
+Neuron 93332909-06aa-4ab0-a6da-835befad7828 1.0
+# CLOCK_1
+Neuron 807df43f-0c63-4969-9bdf-d9633acffc63 1.0
+# SPUR1
+Neuron 1fadab30-6a3c-4966-a5c8-fe6def82db55 1.0
+# CLOCK_2
+Neuron 397a3003-ba27-4e71-87b9-fc906ce5f435 1.0
+# SPUR2
+Neuron 94f70eb7-b7b6-4adf-a262-ff553d3b2a0a 1.0
+# CLOCK_3
+Neuron ca828e9c-9f00-4adc-9ea5-3dd8b845f724 1.0
+# SPUR3
+Neuron 4bfdd0bd-f1a3-4771-8100-b04a0a7571d5 1.0
+# CLOCK_4
+Neuron 70491eb9-7752-4451-a517-76c2ab4791a5 1.0
+# SPUR4
+Neuron 9ea32f39-6e76-4644-a3d9-a28f5a2f9ddb 1.0
+# CLOCK_5
+Neuron 113366db-85db-4f71-9fbd-05ffd5e2b1e1 1.0
+# SPUR5
+Neuron b4a90ec8-bfc2-4ea3-9d2d-7a2fad734958 1.0
+# CLOCK_AND_0
+Neuron 66c34f69-cbf4-4abe-92c0-33325c91c909 1.0
+# CLOCK_AND_0
+Neuron d7acfa64-c170-4512-b134-40b876a8e04a 1.0
+# CLOCK_AND_0
+Neuron 74c35261-9697-4f27-9da1-c846e24ffb17 2.0
+# CLOCK_AND_1
+Neuron ea28c35b-90c5-4880-bb9e-601bee20d10d 1.0
+# CLOCK_AND_1
+Neuron 4973f7b4-3207-4b6a-a880-799ba0ea1f71 1.0
+# CLOCK_AND_1
+Neuron eea4831e-1d2e-431c-84cf-4ef7f2afcd54 2.0
+# CLOCK_AND_2
+Neuron 1258904b-3276-4aac-a62b-de693ef94a66 1.0
+# CLOCK_AND_2
+Neuron ccd40163-0666-4483-b3dd-aae83e01ac52 1.0
+# CLOCK_AND_2
+Neuron 0c39fc71-f9a5-4f01-9e71-c25b3a819251 2.0
+# CLOCK_AND_3
+Neuron a11922e3-a500-4433-8cb1-15ec9be18a9b 1.0
+# CLOCK_AND_3
+Neuron bacc4441-3712-4b0d-9925-26886e417c64 1.0
+# CLOCK_AND_3
+Neuron 237e65d8-3e3b-4963-be01-2a863b5c91cb 2.0
+# CLOCK_AND_4
+Neuron b94dd87c-cff2-4228-b71a-4212fe687ba1 1.0
+# CLOCK_AND_4
+Neuron eae76674-0b1d-4478-a2fd-03002ad49f34 1.0
+# CLOCK_AND_4
+Neuron 2adef8a7-1444-496c-b4a5-a06257d5d081 2.0
+# CLOCK_AND_5
+Neuron 6d6f458c-d7f2-467a-832e-bc1917475c59 1.0
+# CLOCK_AND_5
+Neuron b82f2b98-c489-4ca2-a6dd-91002b2c72c1 1.0
+# CLOCK_AND_5
+Neuron 1496c479-7999-4627-87ff-d36727cace94 2.0
+# CLOCK_AND_6
+Neuron 8e2b0b9d-3298-4fbb-a386-2aab1e47d93e 1.0
+# CLOCK_AND_6
+Neuron 0dc732cc-696b-4852-9df9-1d82d6026668 1.0
+# CLOCK_AND_6
+Neuron d9785a9d-b22c-43bb-874a-2f6619939271 2.0
+# CLOCK_AND_7
+Neuron 0eccf1c7-dc6b-480d-99c6-50c3b0affd76 1.0
+# CLOCK_AND_7
+Neuron 84c3c2fb-609d-47bd-8056-b40e9f697f00 1.0
+# CLOCK_AND_7
+Neuron 747d09e1-aee8-4f68-9416-ae33b32ad6a0 2.0
+# CLOCK_AND_8
+Neuron 97ed439b-2026-4bb2-b99f-c960c8f6d39d 1.0
+# CLOCK_AND_8
+Neuron 24653340-5318-4195-865a-0c5a5d6dde18 1.0
+# CLOCK_AND_8
+Neuron a182e152-ce8b-4f92-879c-321a9644a6fb 2.0
+# CLOCK_AND_9
+Neuron f60f9359-396c-494f-87ac-81bb0d4053b5 1.0
+# CLOCK_AND_9
+Neuron a7b1562b-8f9c-4d2f-8b11-419975d6300f 1.0
+# CLOCK_AND_9
+Neuron e986629a-fba3-4d3d-a10b-8e1c7382aebd 2.0
+Connection 5d15b13b-1266-48a0-8b1a-cdee269f847c 1c409289-0eef-4162-8545-4a1a67a667b8 bda35c2e-7fa4-4437-b65c-33fffbfdeff4 2 1.0
+Connection 572f8bab-c021-448e-ae3e-f74bf459a63e f0c823f1-b2e5-4812-bf02-5efba360b117 bda35c2e-7fa4-4437-b65c-33fffbfdeff4 2 1.0
+Connection 353168bf-1e43-43c3-a9f3-4b847bbb0ffa fc35b293-6761-4516-93da-83c6cfd343a3 479cb6a8-7325-403e-9667-9d9bca955226 2 1.0
+Connection 584addbe-8f5a-4d5f-bf56-27fb0d5a584a bf4d8c0c-021b-4e31-86c1-e552a2f71086 479cb6a8-7325-403e-9667-9d9bca955226 2 1.0
+Connection 1bcd903b-37f1-4d48-aeeb-bbd1c0eb4981 0010420b-4416-4539-9948-99699ce70a04 4cbf0662-ea29-483a-9d6f-35fe35674d29 2 1.0
+Connection 51eca8c3-6bb6-4196-bb38-5c188283984a 6e8f758c-29eb-4678-a4bd-c734d501602f 7d92a734-03ed-4211-942c-9895bced8f68 2 1.0
+Connection 7115c818-c3d1-46f3-b3b4-0d7f249bf2f2 f782b7d9-2e16-431d-bd47-fcb4a2b7e7ba 0c29db63-c654-4a27-ba1b-8aca670976c1 2 1.0
+Connection d4b5074c-933e-4ae0-af55-40765a2b1c44 380d2b41-97f3-4513-a111-7681e6ccb968 4a84c94f-aba6-4ba1-831d-8a0020f164ad 2 -1.0
+Connection 75f138ef-b289-48b3-b4ef-7a058cdae9ee 4a84c94f-aba6-4ba1-831d-8a0020f164ad 5c9292bd-fcae-44a8-bacf-142ad8bb4f2f 2 1.0
+Connection 1c0f5c32-f059-4246-b1b7-fc7ae98e809c 9face5e8-8ada-46b9-9346-cc79c8050a6b 743aeee2-b386-439d-addf-d06107a48bd8 2 1.0
+Connection a0704b7c-ff8d-4099-a8c8-23dc90f3b607 46764f32-2337-4338-99d6-e77503c58c8a 743aeee2-b386-439d-addf-d06107a48bd8 2 1.0
+Connection 5a57ce2e-c1d7-4920-b97f-611ad912fbed 522247f5-b062-4991-9066-49bcafc078a3 ea327d37-9f06-4153-866b-2d3a7dbde650 2 1.0
+Connection 891e5a3c-0156-405e-9611-bca1e1391b51 28275f32-1682-4f79-baf2-4917f413c867 ea327d37-9f06-4153-866b-2d3a7dbde650 2 1.0
+Connection 098a0b35-08ee-4068-8dda-60c2a3984f27 ea327d37-9f06-4153-866b-2d3a7dbde650 78fd1d1f-a098-4bf7-b4be-1d4366f4cdf0 2 1.0
+Connection 58b4bd24-9174-4f9e-977d-6ad55a9c910f 0c29db63-c654-4a27-ba1b-8aca670976c1 380d2b41-97f3-4513-a111-7681e6ccb968 2 1.0
+Connection 30a2a898-2d4f-4aec-bab1-0b731ffe53fa 4cbf0662-ea29-483a-9d6f-35fe35674d29 9face5e8-8ada-46b9-9346-cc79c8050a6b 2 1.0
+Connection bb952e59-ce2f-4ff3-bb92-01b10909a33f 7d92a734-03ed-4211-942c-9895bced8f68 46764f32-2337-4338-99d6-e77503c58c8a 2 1.0
+Connection 36cc3223-9db4-48a1-9711-7e2f4b36d09e 5c9292bd-fcae-44a8-bacf-142ad8bb4f2f 522247f5-b062-4991-9066-49bcafc078a3 2 1.0
+Connection 876f0df2-b273-49a4-91ca-a39010985afc 743aeee2-b386-439d-addf-d06107a48bd8 28275f32-1682-4f79-baf2-4917f413c867 4 1.0
+Connection 5f563045-ef13-40ad-ad13-b29218c8e7e2 f0cfbce1-33e6-4ff9-8da4-c4f0e37f8559 a693fe5d-4f92-4735-b3da-ea6f19c0ff4f 2 -1.0
+Connection 3c88dea1-d1da-4edb-8789-f762e48e4542 a693fe5d-4f92-4735-b3da-ea6f19c0ff4f 7ac7f19d-6d1d-4b2d-b077-9cf4856e6f49 2 1.0
+Connection 3d46c3f2-ee44-4ce2-9429-e76409aa7ccf e675b04a-7e74-4482-a304-458e1df78ba1 17ba39e1-5fe3-4c9c-b69b-50658743e8f0 2 1.0
+Connection c4ec7815-349a-452f-8a9d-8cea0fee5900 2b762e6b-5be7-40e1-a169-165ecace2c2a 17ba39e1-5fe3-4c9c-b69b-50658743e8f0 2 1.0
+Connection c0797626-2a4b-4259-9a9c-9f27dcc4e109 17ba39e1-5fe3-4c9c-b69b-50658743e8f0 b0a7d2bc-a1d8-4242-9f7c-2890d0c84c09 8 1.0
+Connection 11525ae8-4fe5-43c8-a83f-96ad8da30079 7ac7f19d-6d1d-4b2d-b077-9cf4856e6f49 3f7580d3-811a-4ce8-ac99-a6ae823c34dc 2 1.0
+Connection fe1ad268-7909-4206-a0cd-35cdf2f84aca 17ba39e1-5fe3-4c9c-b69b-50658743e8f0 0010420b-4416-4539-9948-99699ce70a04 8 1.0
+Connection d090daad-7d18-4a61-93e7-3e495bbbb780 17ba39e1-5fe3-4c9c-b69b-50658743e8f0 f0cfbce1-33e6-4ff9-8da4-c4f0e37f8559 2 1.0
+Connection 880abe19-5f8a-4111-a869-1430b5c39987 78fd1d1f-a098-4bf7-b4be-1d4366f4cdf0 e675b04a-7e74-4482-a304-458e1df78ba1 2 1.0
+Connection 48e95c26-0e4b-42cf-8de2-e5cd763b751b 78fd1d1f-a098-4bf7-b4be-1d4366f4cdf0 2b762e6b-5be7-40e1-a169-165ecace2c2a 2 1.0
+Connection 165c69b2-3f20-4d20-be3e-8710d08fe9e1 715c1ddb-c5d5-43cd-9c65-e232da50240a 17804edb-33b0-44da-a533-b37f685ec82e 26 1.0
+Connection 86d4b611-3279-4882-8c9d-07b755a4d4a8 17804edb-33b0-44da-a533-b37f685ec82e 6fb0e927-81ba-4c70-808e-8c600eca1499 2 1.0
+Connection 648bbdf7-8cbe-48a3-a97b-2831622c511c 6fb0e927-81ba-4c70-808e-8c600eca1499 17804edb-33b0-44da-a533-b37f685ec82e 24 1.0
+Connection 1b78708a-524f-4488-ad7b-95acfe6a9ac6 715c1ddb-c5d5-43cd-9c65-e232da50240a 17804edb-33b0-44da-a533-b37f685ec82e 26 1.0
+Connection edc6108c-b59c-4ac4-bd98-003a9b5cec63 bce8bbae-c49d-403f-8356-7db2fa8bbc38 a95411ca-8912-4f3e-8886-2be64dfd44ce 2 1.0
+Connection 8571a807-f648-484a-bccc-4a6608cc2133 e3623a94-26a7-4e34-927b-86c467186576 a95411ca-8912-4f3e-8886-2be64dfd44ce 2 1.0
+Connection 6be1a38e-db48-4cde-b711-0b03eeca07c6 6fb0e927-81ba-4c70-808e-8c600eca1499 bce8bbae-c49d-403f-8356-7db2fa8bbc38 2 1.0
+Connection 1dc365ac-4b67-4722-8766-f51532423163 925eb8a9-4238-4229-9fd4-1a37cbf69886 e3623a94-26a7-4e34-927b-86c467186576 4 1.0
+Connection ab7a9a85-f5df-42e8-8ac4-22b02b832c39 a95411ca-8912-4f3e-8886-2be64dfd44ce 6e8f758c-29eb-4678-a4bd-c734d501602f 20 1.0
+Connection dd9a0a71-b58f-4491-a1dc-5da1e52edbae 673d81d9-7f42-4107-b8b7-330fbc6e66c0 3ac0f2bf-7746-4997-b728-11bcbf58a9b7 2 1.0
+Connection db624bdd-9581-4c95-96e6-b04df72c0ceb fa52592b-03e8-4ed9-9eb5-c5eaf404fd25 3ac0f2bf-7746-4997-b728-11bcbf58a9b7 2 1.0
+Connection 6ab2fb95-cb2d-492b-81b1-79302afcea23 6fb0e927-81ba-4c70-808e-8c600eca1499 673d81d9-7f42-4107-b8b7-330fbc6e66c0 2 1.0
+Connection a608bb61-e2e5-40ab-804a-d28d71da2bb8 419cd2c0-3131-41f1-a9c8-780b2621df36 fa52592b-03e8-4ed9-9eb5-c5eaf404fd25 4 1.0
+Connection 10af29fd-a05f-43ab-a5f0-0d011af540de 3ac0f2bf-7746-4997-b728-11bcbf58a9b7 f782b7d9-2e16-431d-bd47-fcb4a2b7e7ba 20 1.0
+Connection 420077e3-723d-4078-bd24-054b67b7d098 bda35c2e-7fa4-4437-b65c-33fffbfdeff4 925eb8a9-4238-4229-9fd4-1a37cbf69886 24 1.0
+Connection 4f4a2962-86b4-409e-9b7c-bdb74fb91e2c 479cb6a8-7325-403e-9667-9d9bca955226 419cd2c0-3131-41f1-a9c8-780b2621df36 24 1.0
+Connection 72006777-aaee-400b-90f9-01cfd830ac0c b0a7d2bc-a1d8-4242-9f7c-2890d0c84c09 bf4d8c0c-021b-4e31-86c1-e552a2f71086 26 1.0
+Connection 2c82e737-dadf-4cd5-81da-328767daa62b 3f7580d3-811a-4ce8-ac99-a6ae823c34dc f0c823f1-b2e5-4812-bf02-5efba360b117 26 1.0
+Connection e2d5b3ec-f0c4-413d-9c29-7e62c6e269b1 0c0af1a7-1315-47aa-81a2-cf8bd9432e7a 76586647-0f8e-4001-a0d3-f569ece69779 2 1.0
+Connection cf51b874-67a4-4035-a8b7-c2c49d8348c1 83653f2b-7748-49d2-90ae-16b3c469b764 76586647-0f8e-4001-a0d3-f569ece69779 2 1.0
+Connection 20b879d5-66fe-459a-b26d-3a1ee49100c2 5fe848ea-0ed4-425e-aafc-04dc8e540fff c63325bd-1730-45e0-b99f-0ec576fc5b1f 2 1.0
+Connection 7570a76d-c546-466f-bf85-6fe3db9aff41 8e1c75e6-9eee-4780-91bf-55396370047c c63325bd-1730-45e0-b99f-0ec576fc5b1f 2 1.0
+Connection 8419608b-cbde-40b5-b7a5-ed3b9bbca9fa 00eec87f-9d01-48fc-9219-b1679dd1f117 bc820ddf-59a6-40f6-a9cb-90c728abf2c1 2 1.0
+Connection 3a9ba907-ce9b-43c0-a276-8130832c8523 76bd5503-c847-495d-ac66-790c0a872cd4 bc820ddf-59a6-40f6-a9cb-90c728abf2c1 2 1.0
+Connection a10d107e-28c9-49b5-91d9-a08fe74f5e8e b0a7d2bc-a1d8-4242-9f7c-2890d0c84c09 00eec87f-9d01-48fc-9219-b1679dd1f117 26 1.0
+Connection e1ad437b-d5d2-452a-9500-6693203fe493 76586647-0f8e-4001-a0d3-f569ece69779 76bd5503-c847-495d-ac66-790c0a872cd4 24 1.0
+Connection 0833bebb-d448-4d93-b07c-46663589ca8d 4704a390-8778-4dfe-a05a-abedc45d4b7d d6036b45-16f6-4ec0-8cdd-430f78a82f2a 2 1.0
+Connection 8ae74098-8cec-4d16-ae6b-2141a6eda3ae ddda6bbb-66bf-4e7e-a659-53213ab19f2b d6036b45-16f6-4ec0-8cdd-430f78a82f2a 2 1.0
+Connection cc58b288-7769-45c2-86c9-e1fc8d36b03c b0a7d2bc-a1d8-4242-9f7c-2890d0c84c09 4704a390-8778-4dfe-a05a-abedc45d4b7d 26 1.0
+Connection bf76fd60-2ce3-44bf-b7ed-75eeb9cec547 c63325bd-1730-45e0-b99f-0ec576fc5b1f ddda6bbb-66bf-4e7e-a659-53213ab19f2b 24 1.0
+Connection 784154eb-ad39-49b2-b631-9db6800ccd94 026ea2bd-a9b5-448b-bf23-b62216eded5b e323754e-91f6-4072-bb66-88847629663b 2 1.0
+Connection 408599ff-f01b-419f-9eb1-f401ef321bfe 46e9c7ef-1045-49f0-9748-fbddd509f240 db967f6c-547e-40bf-8711-687fcc0dd2b2 2 1.0
+Connection 9c1e6ebc-2137-479a-9a52-6d89e131b117 e4e1bdfc-dea6-4afe-9e22-4667bbe024fc f607dfa2-b247-46c2-9a9c-1b0709866d0c 2 1.0
+Connection b6d03b0c-6214-4a01-9c8f-97b0f659d4be 6113432e-5f39-431b-b72f-5ef4adfce267 4f5c700a-7225-4e78-9934-db08d59c5dc7 2 -1.0
+Connection e27a9423-d7ca-496a-94b6-cf38e305406e 4f5c700a-7225-4e78-9934-db08d59c5dc7 25fd6ec5-ceba-4bae-947e-eebaa16505ef 2 1.0
+Connection 416a58ac-748a-4c37-8c36-5d868330f9d8 bd1a6720-7b4b-41d3-a567-db23d3eba6fc 28954ef2-52f0-4d0a-adff-c977832db9a0 2 1.0
+Connection d0f0235e-234e-461b-a3c7-7beb1c314f8d 616adeeb-88ba-43dc-a942-f12863ab1538 28954ef2-52f0-4d0a-adff-c977832db9a0 2 1.0
+Connection d6a8234c-cf38-4d17-a566-cec79bcdfd21 9a66543b-43b7-479a-9488-bc3a1a8fee47 4a2f0fbc-4e28-44a2-b3b2-c56158478157 2 1.0
+Connection f57d9b92-8d29-40b9-bbf1-4d73bd9e7ea5 80120002-0c0a-4d53-b6a2-c4f6cd3c9db5 4a2f0fbc-4e28-44a2-b3b2-c56158478157 2 1.0
+Connection 5b98e80e-3abe-4c54-b238-1c6d6bae2f0e 4a2f0fbc-4e28-44a2-b3b2-c56158478157 a36a7583-aaa8-443a-8be6-f880e65f8c48 2 1.0
+Connection 14d1e06f-33f6-4c8b-a045-8674d57c0025 f607dfa2-b247-46c2-9a9c-1b0709866d0c 6113432e-5f39-431b-b72f-5ef4adfce267 2 1.0
+Connection 1f98d7c8-9f93-4d04-a26f-42ec604fd652 e323754e-91f6-4072-bb66-88847629663b bd1a6720-7b4b-41d3-a567-db23d3eba6fc 2 1.0
+Connection 59f2afc1-7240-4b3d-a10c-cebbb7f6faed db967f6c-547e-40bf-8711-687fcc0dd2b2 616adeeb-88ba-43dc-a942-f12863ab1538 2 1.0
+Connection 11b3fb1a-ce99-4fe1-9029-c612c2b481ef 25fd6ec5-ceba-4bae-947e-eebaa16505ef 9a66543b-43b7-479a-9488-bc3a1a8fee47 2 1.0
+Connection 9fd9d4cc-5532-405f-9d59-f4294737a6a1 28954ef2-52f0-4d0a-adff-c977832db9a0 80120002-0c0a-4d53-b6a2-c4f6cd3c9db5 4 1.0
+Connection b1794f69-1717-4cb1-8b29-3c5e433d07ed 9f725e6f-6cc6-450c-9d19-e46bc384ec8d d23ed666-8f64-4868-b6c2-30d4aabe27da 2 -1.0
+Connection 81d0ccc2-2a98-416d-8449-6a6f11aa277c d23ed666-8f64-4868-b6c2-30d4aabe27da a6b93128-a6a1-48fc-8164-4978e3b1ca9b 2 1.0
+Connection 91a3aebf-122f-4911-999d-dae777824cb1 3e353133-7e59-4307-a6a5-7a3ee1e037c1 0704a800-4690-45cc-85ec-3de6acd5eba9 2 1.0
+Connection 7d668639-4bd8-4d9b-ac7a-c1775b50cee7 97531d03-db66-4e26-b221-1f7512833639 0704a800-4690-45cc-85ec-3de6acd5eba9 2 1.0
+Connection 3358dd29-d83a-4a02-a1e7-05fbb0d90536 0704a800-4690-45cc-85ec-3de6acd5eba9 2c77b9df-d8cf-410d-965f-aef38862a912 8 1.0
+Connection 7aa4e699-fc4f-44c6-84ba-693551494b09 a6b93128-a6a1-48fc-8164-4978e3b1ca9b 5c8e70a0-aa92-48e7-ac29-72f281b52c7d 2 1.0
+Connection 3f35829c-3a0c-4f0c-bd48-71ae8c3ee5da 0704a800-4690-45cc-85ec-3de6acd5eba9 026ea2bd-a9b5-448b-bf23-b62216eded5b 8 1.0
+Connection 700d0b5f-9255-40f8-a908-dc847e3bf72b 0704a800-4690-45cc-85ec-3de6acd5eba9 9f725e6f-6cc6-450c-9d19-e46bc384ec8d 2 1.0
+Connection 6099c685-d244-4d30-8a2c-5df555622c67 a36a7583-aaa8-443a-8be6-f880e65f8c48 3e353133-7e59-4307-a6a5-7a3ee1e037c1 2 1.0
+Connection fbb9df5e-0410-4cc3-9841-75756dccb23f a36a7583-aaa8-443a-8be6-f880e65f8c48 97531d03-db66-4e26-b221-1f7512833639 2 1.0
+Connection 2492456c-3d18-4480-a4f8-d072a6836e72 915ef8ab-dc00-41ea-9da6-31385d1a3afd fa4d36f8-4d0b-4883-9334-d71f191e3ed4 26 1.0
+Connection 76d21021-0ba5-4f22-948a-244f95c97fe3 fa4d36f8-4d0b-4883-9334-d71f191e3ed4 857f3b6f-f071-4a4a-b83a-fe576f64bf51 2 1.0
+Connection 7a1babb8-d066-4cde-9f59-3878dda42f20 857f3b6f-f071-4a4a-b83a-fe576f64bf51 fa4d36f8-4d0b-4883-9334-d71f191e3ed4 24 1.0
+Connection 4bd78938-b9cb-47db-a91a-e34a71ed8dae 915ef8ab-dc00-41ea-9da6-31385d1a3afd fa4d36f8-4d0b-4883-9334-d71f191e3ed4 26 1.0
+Connection 793691c3-f3dc-4f29-b5c5-c168bf2b8129 291c4273-7de2-408d-bba6-1aa61336da11 592b2739-e9af-4b44-98a1-c7806f860675 2 1.0
+Connection 26c861dc-7319-4d51-b686-803cb89424ad c2138bc9-20ae-498b-891c-4ab996e2c423 592b2739-e9af-4b44-98a1-c7806f860675 2 1.0
+Connection a3a3846e-bb1e-4a73-9652-a1021e7f29ac 857f3b6f-f071-4a4a-b83a-fe576f64bf51 291c4273-7de2-408d-bba6-1aa61336da11 2 1.0
+Connection f73ed85d-361e-4915-9084-06f7db4e0fcc 80482c46-ec86-4d76-807b-9bdd931b0b60 c2138bc9-20ae-498b-891c-4ab996e2c423 4 1.0
+Connection ebdebae0-31ed-4976-bce6-1733ef139276 592b2739-e9af-4b44-98a1-c7806f860675 46e9c7ef-1045-49f0-9748-fbddd509f240 20 1.0
+Connection e6abbe03-ac67-4b78-a225-f37297cab749 62cbe108-86df-4d19-bfd4-e0dd978a3264 0280fff5-0826-49bd-9c71-410f7958f7da 2 1.0
+Connection 93d5ba56-2a2c-452d-b941-225ca8095b88 3073eab2-4794-4a6e-8281-3a5fc39dc519 0280fff5-0826-49bd-9c71-410f7958f7da 2 1.0
+Connection b13a81e6-5844-4996-8432-3c77a4a4fe8d 857f3b6f-f071-4a4a-b83a-fe576f64bf51 62cbe108-86df-4d19-bfd4-e0dd978a3264 2 1.0
+Connection 7e02971a-b421-4e5f-90aa-ba3955df277e b1a05abe-1209-4f20-9a66-e6022eb235c0 3073eab2-4794-4a6e-8281-3a5fc39dc519 4 1.0
+Connection 1a853a64-cd3e-4281-9ca0-c6042e3413f8 0280fff5-0826-49bd-9c71-410f7958f7da e4e1bdfc-dea6-4afe-9e22-4667bbe024fc 20 1.0
+Connection e0a1c79e-3964-4905-b786-1c88d42693b8 bc820ddf-59a6-40f6-a9cb-90c728abf2c1 80482c46-ec86-4d76-807b-9bdd931b0b60 24 1.0
+Connection 74fce806-2539-416c-841a-8ba7e4372392 d6036b45-16f6-4ec0-8cdd-430f78a82f2a b1a05abe-1209-4f20-9a66-e6022eb235c0 24 1.0
+Connection f9bfb7df-2938-499f-a730-779584be0a18 5c8e70a0-aa92-48e7-ac29-72f281b52c7d 83653f2b-7748-49d2-90ae-16b3c469b764 26 1.0
+Connection c5a82b2c-36a7-4d9e-9706-084e3aa51f18 2c77b9df-d8cf-410d-965f-aef38862a912 8e1c75e6-9eee-4780-91bf-55396370047c 26 1.0
+Connection ae4da69d-e84a-4d3b-ad31-36a2235f7081 b0a7d2bc-a1d8-4242-9f7c-2890d0c84c09 652f6dbf-989d-4dd2-b2c3-62f79f60c1f0 26 1.0
+Connection 0e74f5bb-fdd8-4c32-915b-467428e30b03 2c77b9df-d8cf-410d-965f-aef38862a912 c771cc83-0abd-41fc-a3da-fcc81d45960c 26 1.0
+Connection 397e88ef-c897-45a8-877a-da08f8ff76e5 b28b6c06-3109-4060-9b9a-7c8c965b6a9c bb64bf2a-996f-4644-a6fb-6ef6c3fcadad 26 1.0
+Connection 3fb29b78-9119-4937-991c-4edfef509d48 31ff5e2d-298d-406a-a57f-358e31ad07da bb64bf2a-996f-4644-a6fb-6ef6c3fcadad 26 1.0
+Connection 2ee13636-eeda-4645-be7d-11c2d8d8a75d bb64bf2a-996f-4644-a6fb-6ef6c3fcadad de3ee32f-5d3a-4ffe-83b4-54d4c93c73db 26 1.0
+Connection 3cceb530-6216-43e2-868f-ccee75b3a3d8 3e4e89b4-6d2d-4732-b6f8-f6d092f5e21a de3ee32f-5d3a-4ffe-83b4-54d4c93c73db 26 1.0
+Connection df4e3704-7ea5-4846-93e2-1f960be7399e de3ee32f-5d3a-4ffe-83b4-54d4c93c73db 29e6150b-89d5-4ac5-bf9c-a5d7b56568df 26 1.0
+Connection 888bbbac-ccb1-4f0c-96b6-36b462277b81 156277d3-b134-4272-8d34-165d4413f162 29e6150b-89d5-4ac5-bf9c-a5d7b56568df 26 1.0
+Connection 224a9225-2a49-41c6-8611-3aa9da7e9493 29e6150b-89d5-4ac5-bf9c-a5d7b56568df 0111b2f7-30ef-4c55-95d7-d034c140022d 26 1.0
+Connection 4b8a52cd-bb7d-4484-813a-f1dae64fd517 c8923688-95b4-49ff-95d0-268d86386792 0111b2f7-30ef-4c55-95d7-d034c140022d 26 1.0
+Connection 53bbfa89-c35a-45d5-983c-4e0135cd5d7b 0111b2f7-30ef-4c55-95d7-d034c140022d 809d0652-96db-4a3b-a2a2-ff53af57f372 26 1.0
+Connection 5b93746b-55bb-4356-b18e-eadc01c51732 c3e9f1fb-6423-47e5-b892-148b384642d9 809d0652-96db-4a3b-a2a2-ff53af57f372 26 1.0
+Connection d069ee43-9d88-43f5-9446-119b239f2fd7 809d0652-96db-4a3b-a2a2-ff53af57f372 b113b793-68d0-4240-a710-1e202f8742d3 26 1.0
+Connection a536c5a0-08c5-48b0-b152-6219577ca270 eb735d0b-b527-4706-ae7e-896a5981f8dd b113b793-68d0-4240-a710-1e202f8742d3 26 1.0
+Connection bbf829bf-6018-4d4e-99a9-66994c23fa52 b113b793-68d0-4240-a710-1e202f8742d3 bb64bf2a-996f-4644-a6fb-6ef6c3fcadad 26 1.0
+Connection af88f45e-779d-42c3-8a8a-b3bb01735eaa b28b6c06-3109-4060-9b9a-7c8c965b6a9c bb64bf2a-996f-4644-a6fb-6ef6c3fcadad 26 1.0
+Connection f4faa614-073d-47be-93bb-a0ab4c2f22d5 eeee755f-caa2-4ec9-9150-e66a94d9093b 08712c76-a420-40e9-9de3-0ce1b3e620db 2 1.0
+Connection 8032d5c2-0862-4c3d-84b0-6f7a1e9b1fc7 18aab098-1788-47e0-a1c3-205ac77cf323 08712c76-a420-40e9-9de3-0ce1b3e620db 2 1.0
+Connection a7652b70-1eee-4ac6-bb00-1b54d793bdc2 b113b793-68d0-4240-a710-1e202f8742d3 eeee755f-caa2-4ec9-9150-e66a94d9093b 2 1.0
+Connection 80b3c967-1edf-419b-8f68-a8c9a6f18dd8 342b1ba6-d7ad-4751-9c99-b76d3d62fd35 18aab098-1788-47e0-a1c3-205ac77cf323 2 1.0
+Connection 11b6d097-e47a-4d66-8720-84a6495d4b36 08712c76-a420-40e9-9de3-0ce1b3e620db 1c409289-0eef-4162-8545-4a1a67a667b8 22 1.0
+Connection 20b2f71b-6ff3-4f12-b3f9-e706d5c44857 08712c76-a420-40e9-9de3-0ce1b3e620db fc35b293-6761-4516-93da-83c6cfd343a3 22 1.0
+Connection 099826ad-bfa5-4099-9c45-3d9c06e9088b 08712c76-a420-40e9-9de3-0ce1b3e620db 0c0af1a7-1315-47aa-81a2-cf8bd9432e7a 22 1.0
+Connection 56741690-fe19-4995-942c-d68d558512f9 08712c76-a420-40e9-9de3-0ce1b3e620db 5fe848ea-0ed4-425e-aafc-04dc8e540fff 22 1.0
+Connection 0887efcf-b963-49da-a292-e8e6cfa48256 b28b6c06-3109-4060-9b9a-7c8c965b6a9c 715c1ddb-c5d5-43cd-9c65-e232da50240a 26 1.0
+Connection b51e95c1-01b8-4ccc-b57e-c97ac6035bce b28b6c06-3109-4060-9b9a-7c8c965b6a9c 915ef8ab-dc00-41ea-9da6-31385d1a3afd 26 1.0
+Connection 188d98e4-9c86-4d17-a487-76ac3612c56e a301bc63-7fec-4bab-951a-b6e6167d7e43 988a4643-96ca-4883-a11d-53e74e3d3e90 1 1.0
+Connection 1675f04f-36d8-4710-88db-32d815f2d504 cab4e2f2-773a-4ce5-a482-ebde78889687 988a4643-96ca-4883-a11d-53e74e3d3e90 1 1.0
+Connection 5b03d59c-3305-4c9a-a4a0-7dea3746b69f 652f6dbf-989d-4dd2-b2c3-62f79f60c1f0 a301bc63-7fec-4bab-951a-b6e6167d7e43 1 1.0
+Connection e9042e0f-7831-401c-a742-8ec3ed393570 c771cc83-0abd-41fc-a3da-fcc81d45960c cab4e2f2-773a-4ce5-a482-ebde78889687 1 1.0
+Connection 0540ca93-5eb1-4e7a-9c41-e3e611582dad fad4225b-5a67-468d-9242-effaf661a322 06b3833b-8109-4229-9a9b-13b84dfd2394 1 1.0
+Connection 6d4ed2fb-1b56-4441-bb28-b8b967fa41be aa6120d9-10b3-4514-a356-ecc64115b83b 06b3833b-8109-4229-9a9b-13b84dfd2394 1 1.0
+Connection 88e9cbc5-c06c-48d4-8756-3b81d15d75b4 c05a44a1-3cb5-4906-bb2f-6897d4ffb97f 0b4d3c0f-36d4-4c7d-81e0-af1e76e9f52c 1 1.0
+Connection 9000ce94-844f-41a8-ac8a-bc3e09659a12 4f2a0e0b-3305-453e-869e-0aa6acf879ec 0b4d3c0f-36d4-4c7d-81e0-af1e76e9f52c 1 1.0
+Connection 53f66f90-14c9-424b-99d0-ae30e0053c12 988a4643-96ca-4883-a11d-53e74e3d3e90 c05a44a1-3cb5-4906-bb2f-6897d4ffb97f 1 1.0
+Connection 9201d1eb-bd4e-47a9-8fc9-cec698812a7d 06b3833b-8109-4229-9a9b-13b84dfd2394 4f2a0e0b-3305-453e-869e-0aa6acf879ec 2 1.0
+Connection 143e59de-0128-414d-8df4-181453a93d21 4a5e70d4-5bbc-446f-88a7-ed0318077cf9 6b6fbe4f-d1a4-4c93-bf68-1b3e72f5f709 2 1.0
+Connection bf6a7092-d224-4027-b154-a414abc690a4 752bdc7a-980f-4f29-bd20-caf803ab38b9 6b6fbe4f-d1a4-4c93-bf68-1b3e72f5f709 2 1.0
+Connection 1821371e-d230-4772-9320-d5d70befb081 fab52056-e9cc-46b5-b97d-c0139b1d8567 8f4e6b2b-39d9-4ddf-951d-8acc238b411d 2 1.0
+Connection 3c1db174-043b-41db-99d6-099a6401e448 a7409ac6-1b59-43b1-8a92-4e336a485bb8 8f4e6b2b-39d9-4ddf-951d-8acc238b411d 2 1.0
+Connection e61d75ed-21b2-482f-a18b-7fc8c57a9046 d9d79c0b-e6a5-4eca-9b30-82c5cefe5015 4d9e5416-cbb3-4051-a1f0-dc50ae82d442 2 1.0
+Connection 57626221-0d1e-4e77-b3d6-48191cc8695f 41ca6331-0ae3-483b-87eb-b4bb4f431875 7e2703e8-d355-4e2d-b7d5-a1a4e055c68f 2 1.0
+Connection 3da991c3-ca4c-4af2-aa78-42cc3a93c29e 90b96833-4d83-449a-9d62-9f0346a9eea0 b4a1d33b-4440-42aa-ab42-a61969d0079d 2 1.0
+Connection e8bdbb04-1eef-4a56-825d-37e93ab27bcb a04f576a-af7f-46e5-a9a0-8dede5e960ea 057dca85-c8da-41d7-8ad5-c2ff2ddc1558 2 -1.0
+Connection 564a793f-6259-41e4-961b-15f44ca3f5e9 057dca85-c8da-41d7-8ad5-c2ff2ddc1558 a8efb518-70e3-4609-9511-1fb4efedcf46 2 1.0
+Connection 53bab476-abb2-43d0-925e-9ee08d440ea1 ef555eea-2854-48eb-937e-6c2e35e5103d e16ff3af-6631-404a-adf1-665fc735bda5 2 1.0
+Connection f93b6c0f-102b-4410-a295-fbe3ea3e9efc 74df14e6-5203-49fa-945b-acc491922609 e16ff3af-6631-404a-adf1-665fc735bda5 2 1.0
+Connection 94f59e9f-71ce-4f59-a307-23a58b8b99c8 7a45895a-6383-4aa9-9897-e4892a3b3819 6da681ee-68b2-4f26-a1d6-a71d7e537d64 2 1.0
+Connection 5a121b4f-e767-44d1-a428-97aeb0d516fb 8c8258ed-b475-412a-aff9-34297933f22b 6da681ee-68b2-4f26-a1d6-a71d7e537d64 2 1.0
+Connection a4bf6cff-2e02-4d7b-ba41-cbc6a4666372 6da681ee-68b2-4f26-a1d6-a71d7e537d64 95f1b926-60f0-4cc3-a247-ccdfe065944a 2 1.0
+Connection 2d589332-1ec8-44cf-b0f1-9db2f5db99bd b4a1d33b-4440-42aa-ab42-a61969d0079d a04f576a-af7f-46e5-a9a0-8dede5e960ea 2 1.0
+Connection 5ccd5349-7ee9-4be0-b178-b8fd05019ad6 4d9e5416-cbb3-4051-a1f0-dc50ae82d442 ef555eea-2854-48eb-937e-6c2e35e5103d 2 1.0
+Connection 8d6cd122-4c91-43de-9d00-3e9bfe848ea6 7e2703e8-d355-4e2d-b7d5-a1a4e055c68f 74df14e6-5203-49fa-945b-acc491922609 2 1.0
+Connection cdbbed0b-2541-4c05-9390-38031e18935d a8efb518-70e3-4609-9511-1fb4efedcf46 7a45895a-6383-4aa9-9897-e4892a3b3819 2 1.0
+Connection e593412d-880f-4ddd-aaec-0995ac4ddf6b e16ff3af-6631-404a-adf1-665fc735bda5 8c8258ed-b475-412a-aff9-34297933f22b 4 1.0
+Connection f012c499-4697-45b0-88e9-4fd1b941faab 9d9b67ca-00e6-4768-8a70-0cc7d90ab045 7bda7cde-bc69-4e52-bec3-ee6f29385ed6 2 -1.0
+Connection f8a434c8-c714-41c2-a6d6-80c34b338ada 7bda7cde-bc69-4e52-bec3-ee6f29385ed6 756deb57-b2d7-41b4-85e7-4d7f9ab4b94e 2 1.0
+Connection c3bded4a-51ff-4e8f-9737-14e98ffda836 fe5f4960-c819-434f-8076-5b2cad29f061 a25de9f0-16a2-4cab-89ea-a28242f46d0c 2 1.0
+Connection 992dc217-e981-4625-aab8-6c294575876c e31e6082-b824-4242-ab40-17e744b9eb11 a25de9f0-16a2-4cab-89ea-a28242f46d0c 2 1.0
+Connection a9625fbb-8cdd-4ee9-b4e4-c425301d1985 a25de9f0-16a2-4cab-89ea-a28242f46d0c 1d809d3f-02b2-4031-a72a-6694fa231eba 8 1.0
+Connection 2bd6c1dd-9e94-4a51-988b-78819caa1647 756deb57-b2d7-41b4-85e7-4d7f9ab4b94e e05e3747-08f6-4894-b303-c3c3af971e3f 2 1.0
+Connection bfdfc267-ab3a-4292-ab58-927f25f9bb78 a25de9f0-16a2-4cab-89ea-a28242f46d0c d9d79c0b-e6a5-4eca-9b30-82c5cefe5015 8 1.0
+Connection 25f2a77f-ae6c-469d-891a-1fa8717ec44b a25de9f0-16a2-4cab-89ea-a28242f46d0c 9d9b67ca-00e6-4768-8a70-0cc7d90ab045 2 1.0
+Connection 3d0170c4-c6cd-4d09-b964-2651fcb0d153 95f1b926-60f0-4cc3-a247-ccdfe065944a fe5f4960-c819-434f-8076-5b2cad29f061 2 1.0
+Connection 15df65b2-15b0-43af-9157-fc4e2a9ade6d 95f1b926-60f0-4cc3-a247-ccdfe065944a e31e6082-b824-4242-ab40-17e744b9eb11 2 1.0
+Connection 1fa6931e-0e64-41b2-b829-20367a63e80f 0fcd06c4-2576-49bc-a9df-eb15a2bc5915 56949a40-687a-42bb-9024-52653b670464 26 1.0
+Connection fda03e38-10ad-4d8c-a06a-d61117187d6a 56949a40-687a-42bb-9024-52653b670464 5feedd96-5e41-4e61-806f-c7ee358877d7 2 1.0
+Connection f69a8bd3-436c-4380-8659-27bd04c263de 5feedd96-5e41-4e61-806f-c7ee358877d7 56949a40-687a-42bb-9024-52653b670464 24 1.0
+Connection 9ced1b92-28e8-49d0-b135-b929355b3f2c 0fcd06c4-2576-49bc-a9df-eb15a2bc5915 56949a40-687a-42bb-9024-52653b670464 26 1.0
+Connection 183638fa-c3b8-49f0-bc49-f79037c24deb 8539aa1c-5ee4-4d15-b7ff-1c516e2177a2 eda409c0-1636-44a8-a399-47721da08103 2 1.0
+Connection 31e9f09d-cd5a-43d0-9796-5f0274b1b253 db9d477c-3990-40ea-ba64-c616c2586471 eda409c0-1636-44a8-a399-47721da08103 2 1.0
+Connection 6b1cf7aa-69b2-468d-93ab-d2d177325fda 5feedd96-5e41-4e61-806f-c7ee358877d7 8539aa1c-5ee4-4d15-b7ff-1c516e2177a2 2 1.0
+Connection 3ec2ddc9-9d27-42f8-9024-a9e6241ae70f c6696a26-ba9b-4357-81f0-f453dbd427c5 db9d477c-3990-40ea-ba64-c616c2586471 4 1.0
+Connection ac7eb3c6-2e68-4518-a66f-0e6b473efc87 eda409c0-1636-44a8-a399-47721da08103 41ca6331-0ae3-483b-87eb-b4bb4f431875 20 1.0
+Connection 3581afe1-da43-4799-b6be-8d308fdf320a d7e1f315-f007-4586-a431-e8fd33997b44 dc060e38-3b84-41f6-a32f-3125cd6dbf7b 2 1.0
+Connection cbc96605-2291-403f-b2a9-704a5699530a f7423a92-b82f-4edc-90cd-62c293ce2056 dc060e38-3b84-41f6-a32f-3125cd6dbf7b 2 1.0
+Connection 6e3de076-5c16-4929-b6fd-a715af71ffbf 5feedd96-5e41-4e61-806f-c7ee358877d7 d7e1f315-f007-4586-a431-e8fd33997b44 2 1.0
+Connection d3fe4691-d6ec-4798-a84f-803b8a0cecd9 07417518-f5fe-4fd3-afea-513ad30336e6 f7423a92-b82f-4edc-90cd-62c293ce2056 4 1.0
+Connection 561d2b62-1926-4f5b-a570-41bc2fc7184e dc060e38-3b84-41f6-a32f-3125cd6dbf7b 90b96833-4d83-449a-9d62-9f0346a9eea0 20 1.0
+Connection 9e273616-48c6-4565-b01e-ae9923dd5c13 6b6fbe4f-d1a4-4c93-bf68-1b3e72f5f709 c6696a26-ba9b-4357-81f0-f453dbd427c5 24 1.0
+Connection 54016770-739a-4bb4-b6e3-b4b0f2a89a76 8f4e6b2b-39d9-4ddf-951d-8acc238b411d 07417518-f5fe-4fd3-afea-513ad30336e6 24 1.0
+Connection 2216729c-daea-44f5-923b-2b7ff8e08488 1d809d3f-02b2-4031-a72a-6694fa231eba a7409ac6-1b59-43b1-8a92-4e336a485bb8 26 1.0
+Connection 4a70606d-ef49-4c0c-8b09-7fc77a37abb8 e05e3747-08f6-4894-b303-c3c3af971e3f 752bdc7a-980f-4f29-bd20-caf803ab38b9 26 1.0
+Connection 8258fe41-49fb-4e03-81de-1f62aa590519 1d809d3f-02b2-4031-a72a-6694fa231eba 5bc1a8f8-67f1-4880-b25a-71295a6d53c0 26 1.0
+Connection 11ba1c71-d9bf-42f5-b228-3db7b46b0f3a 46c464c5-8a19-4e33-a2f4-fc183c4f4eca 614ba631-28e1-448e-98fd-79e662837b62 26 1.0
+Connection 52e9b277-155f-423b-98ff-47e550741388 585fe47d-cd89-440a-94e2-0d7f9782611a 614ba631-28e1-448e-98fd-79e662837b62 26 1.0
+Connection 9bea2623-c114-455c-815a-ae3262d4e399 614ba631-28e1-448e-98fd-79e662837b62 9bf97052-097f-44b5-8043-2a4e2a5c10bd 26 1.0
+Connection f29482d1-7043-4a4a-a2c8-6db91fbda41b 610bae3e-c88e-444e-849b-6456af6a8022 9bf97052-097f-44b5-8043-2a4e2a5c10bd 26 1.0
+Connection 6964ee1d-ca63-406a-87f5-cc79f69056b3 9bf97052-097f-44b5-8043-2a4e2a5c10bd 614ba631-28e1-448e-98fd-79e662837b62 26 1.0
+Connection 95c09e11-5f43-4a41-89fc-2c03eb9020d8 46c464c5-8a19-4e33-a2f4-fc183c4f4eca 614ba631-28e1-448e-98fd-79e662837b62 26 1.0
+Connection a750af2c-c593-40a7-bf30-f5304cbb05fd 25c1cad1-4064-4457-8684-91b1b2476162 9d9cac36-4a41-4590-a1f8-0ff789a99e31 2 1.0
+Connection f94988bc-bc84-46d4-895e-dd3546d1e715 e5bc494d-0bdc-468e-9c68-6cd4c9aa047a 9d9cac36-4a41-4590-a1f8-0ff789a99e31 2 1.0
+Connection 9649a452-72a0-47f2-8277-fb7122ae187b 9bf97052-097f-44b5-8043-2a4e2a5c10bd 25c1cad1-4064-4457-8684-91b1b2476162 2 1.0
+Connection 4413fd01-6e1f-425f-aba3-136002b4adf6 b9eacdcd-ed1a-4706-a19f-7ab1351f5b6c e5bc494d-0bdc-468e-9c68-6cd4c9aa047a 2 1.0
+Connection 586c2048-c397-44bf-a7c3-f2809bd80bb8 9d9cac36-4a41-4590-a1f8-0ff789a99e31 4a5e70d4-5bbc-446f-88a7-ed0318077cf9 22 1.0
+Connection cece2331-4ce7-4e26-a5e0-8436b089761d 9d9cac36-4a41-4590-a1f8-0ff789a99e31 fab52056-e9cc-46b5-b97d-c0139b1d8567 22 1.0
+Connection dbdc9074-5622-4bd8-9ff5-8387c4df55ac 46c464c5-8a19-4e33-a2f4-fc183c4f4eca 0fcd06c4-2576-49bc-a9df-eb15a2bc5915 26 1.0
+Connection 70854cc8-b8ad-4203-bfc9-a801bde22792 0b4d3c0f-36d4-4c7d-81e0-af1e76e9f52c b9eacdcd-ed1a-4706-a19f-7ab1351f5b6c 1 1.0
+Connection e1a3e6c6-8cfb-4450-8c7d-2b2b079e786d bd6f2cbf-71d0-4704-9458-736bfb6bda81 1bfd3973-1657-49b1-a3d0-e77b79cc8dd0 1 -1.0
+Connection 0694e8f2-c732-4583-b451-90331b3b51f9 1bfd3973-1657-49b1-a3d0-e77b79cc8dd0 e80a1999-8cb4-48b0-8256-b54b8cf71ec6 1 1.0
+Connection 7e385dce-493d-4eba-8890-89cfadabcf92 652f6dbf-989d-4dd2-b2c3-62f79f60c1f0 bd6f2cbf-71d0-4704-9458-736bfb6bda81 6 1.0
+Connection 7a1b62eb-d6cc-417e-9856-d0a895d5502c 91708f41-af60-4cbb-8456-3527bb7cfa8a e5ae1ed5-ca2e-40d5-88c3-6c837ac94e9a 1 -1.0
+Connection 55361334-acdc-4411-a19a-6ed3ff310ed5 e5ae1ed5-ca2e-40d5-88c3-6c837ac94e9a 50dea3f1-64c9-4c00-aa71-b101163970b2 1 1.0
+Connection ece021ec-e019-455e-83bd-e3c892302b37 c771cc83-0abd-41fc-a3da-fcc81d45960c 91708f41-af60-4cbb-8456-3527bb7cfa8a 1 1.0
+Connection 6f90dd79-1482-4485-9502-87784d27f0c7 2c724086-f66d-4487-ac6a-8aab40a6ba21 1286b631-24ae-49fc-a986-0705d0c20d3f 1 -1.0
+Connection 58df0793-3f8d-435b-9174-64790764516a 1286b631-24ae-49fc-a986-0705d0c20d3f f5665c35-6455-42b1-be1e-789fb83cafbb 1 1.0
+Connection a5179a8b-7084-418f-80d0-d2dbeb4b4b60 5bc1a8f8-67f1-4880-b25a-71295a6d53c0 2c724086-f66d-4487-ac6a-8aab40a6ba21 1 1.0
+Connection c1008d2d-b922-4302-baab-2d3a4830bc33 f0ac5c8e-3d53-4416-89d6-fd8914e4d824 dd455da9-25b8-4f58-8c6e-eac84289bc71 1 1.0
+Connection d3c7ae8b-0e48-4380-91f3-b74eaeb09476 2c3febb6-b0d7-4b5c-9d18-5eaa02d056ed dd455da9-25b8-4f58-8c6e-eac84289bc71 1 1.0
+Connection 28c83c62-2f3c-49e5-b842-0ae284a262d7 03738222-4dc8-40ab-bde6-804fcc63cdd3 dd455da9-25b8-4f58-8c6e-eac84289bc71 1 1.0
+Connection c583aa10-5805-43d4-b111-b44c982b239c e80a1999-8cb4-48b0-8256-b54b8cf71ec6 f0ac5c8e-3d53-4416-89d6-fd8914e4d824 1 1.0
+Connection b6232a6b-a51b-49b1-9ce9-d6c0ba615958 50dea3f1-64c9-4c00-aa71-b101163970b2 2c3febb6-b0d7-4b5c-9d18-5eaa02d056ed 6 1.0
+Connection 441fd3ef-82f1-4ee1-9fcf-c87d96124818 f5665c35-6455-42b1-be1e-789fb83cafbb 03738222-4dc8-40ab-bde6-804fcc63cdd3 1 1.0
+Connection e9c21aa1-5f03-46be-b631-f158e48fffa9 8c47e917-4611-4144-a68d-cab7782a38bb 2b6e1d9d-2f87-41e4-8cf0-7809fc3fb390 1 1.0
+Connection 0fe821d2-1df4-48b4-853f-2f01446e003c aa6d1c80-bf9f-4fa4-ad97-13c64e8d6538 2b6e1d9d-2f87-41e4-8cf0-7809fc3fb390 1 1.0
+Connection 36589aff-4210-4e9b-ab39-b040f860ce6a 11200c10-f5ed-48e5-999e-cc63618f36f3 2b6e1d9d-2f87-41e4-8cf0-7809fc3fb390 1 1.0
+Connection 9a703070-beab-4aa8-88d7-abce54ce7c5a 652f6dbf-989d-4dd2-b2c3-62f79f60c1f0 8c47e917-4611-4144-a68d-cab7782a38bb 9 1.0
+Connection 48476383-716d-4467-b7d8-232bf767f4cc 50dea3f1-64c9-4c00-aa71-b101163970b2 aa6d1c80-bf9f-4fa4-ad97-13c64e8d6538 6 1.0
+Connection bde92d7b-e4f7-4b0d-b023-0f51cce2a6c6 f5665c35-6455-42b1-be1e-789fb83cafbb 11200c10-f5ed-48e5-999e-cc63618f36f3 1 1.0
+Connection fd22666e-71d2-4068-bd6f-c4f0e6160f76 d32725e8-babe-4d50-a3c3-d0f5f4f87046 bc768267-4e02-4513-b67a-5c43fa55e252 1 1.0
+Connection 39bab139-6d60-452a-a174-da883a850f2f 75a2c5d1-e19f-49ef-a29e-aba4115cc346 bc768267-4e02-4513-b67a-5c43fa55e252 1 1.0
+Connection ae7a8a05-7168-422e-ac5d-a36311cea8bc ff335d12-a1df-49f1-8062-3326b252e376 bc768267-4e02-4513-b67a-5c43fa55e252 1 1.0
+Connection 745eb70d-1064-4adc-ab89-2a1499979541 e80a1999-8cb4-48b0-8256-b54b8cf71ec6 d32725e8-babe-4d50-a3c3-d0f5f4f87046 1 1.0
+Connection f1164da3-7ae1-4613-a6ec-c70164682da7 c771cc83-0abd-41fc-a3da-fcc81d45960c 75a2c5d1-e19f-49ef-a29e-aba4115cc346 9 1.0
+Connection 1a8552cc-c72a-4784-9c2e-c51ece189ded f5665c35-6455-42b1-be1e-789fb83cafbb ff335d12-a1df-49f1-8062-3326b252e376 1 1.0
+Connection 668be22d-8d9f-44f2-b47f-788f5ace8ac6 e0055438-6c49-4c6d-9e19-44f5b4f7c39c 4c203c64-1608-4db8-be64-0728e08938b8 1 1.0
+Connection 654a1bfa-63e4-4021-b6ce-bef040a8d2be e7a540e0-9659-4686-9cfe-e9866974fe33 4c203c64-1608-4db8-be64-0728e08938b8 1 1.0
+Connection 805ed5c2-ddac-490f-8101-02ff79d47a5f b742cbaa-b17b-45d3-a87c-09b3b4a16d2f 4c203c64-1608-4db8-be64-0728e08938b8 1 1.0
+Connection e38f641a-af08-4cc9-9060-c8feeb0df7d3 652f6dbf-989d-4dd2-b2c3-62f79f60c1f0 e0055438-6c49-4c6d-9e19-44f5b4f7c39c 9 1.0
+Connection e287a5ec-49d8-4ade-860e-459013009fdb c771cc83-0abd-41fc-a3da-fcc81d45960c e7a540e0-9659-4686-9cfe-e9866974fe33 9 1.0
+Connection aa6cfa34-a035-471f-b5d6-0edca1310f06 f5665c35-6455-42b1-be1e-789fb83cafbb b742cbaa-b17b-45d3-a87c-09b3b4a16d2f 1 1.0
+Connection 0c60cb7e-784f-4aa8-988b-3dea944ed0fc f45ef98f-3e48-4f68-b56e-fb179513f72f b628e7fc-29b6-424c-a98f-c9588819ee6e 1 1.0
+Connection 71e65d12-64c5-4835-98c9-c767d8c65927 3b72f8ba-f304-4290-8826-7f3ed4bea7f2 b628e7fc-29b6-424c-a98f-c9588819ee6e 1 1.0
+Connection 9360059f-aeb4-45a9-a58a-9a93adb02189 c399b4a9-ee60-45f2-8f51-2902788b6f47 b628e7fc-29b6-424c-a98f-c9588819ee6e 1 1.0
+Connection f875ba69-eae6-4c77-ad56-b49eb3433adb e80a1999-8cb4-48b0-8256-b54b8cf71ec6 f45ef98f-3e48-4f68-b56e-fb179513f72f 1 1.0
+Connection b3613949-106d-4877-bc2b-8e30cd8b3990 50dea3f1-64c9-4c00-aa71-b101163970b2 3b72f8ba-f304-4290-8826-7f3ed4bea7f2 6 1.0
+Connection 0f044652-0ad3-4758-8389-045b85157f72 5bc1a8f8-67f1-4880-b25a-71295a6d53c0 c399b4a9-ee60-45f2-8f51-2902788b6f47 4 1.0
+Connection 4a0fe21d-52e1-404d-9731-e899e62123fb 0222e38c-9ef7-4139-b1b8-0cc103cc5ec3 ad7300b4-2885-4e7d-b501-fbdf295e4e56 1 1.0
+Connection 4dd31c47-8376-4c82-80b9-ef162a4fe10d d9483735-30a9-46fc-bbd3-ec6687fdcb3e ad7300b4-2885-4e7d-b501-fbdf295e4e56 1 1.0
+Connection d92215cb-c917-421e-90f9-33c22533d845 091eb4ee-0395-415c-817c-972220fe7fd1 ad7300b4-2885-4e7d-b501-fbdf295e4e56 1 1.0
+Connection c78fd1d8-3f7f-49f4-89bc-662296a879fd 652f6dbf-989d-4dd2-b2c3-62f79f60c1f0 0222e38c-9ef7-4139-b1b8-0cc103cc5ec3 6 1.0
+Connection cc553c94-d8ab-4a5d-b05d-baf69c91f425 50dea3f1-64c9-4c00-aa71-b101163970b2 d9483735-30a9-46fc-bbd3-ec6687fdcb3e 3 1.0
+Connection 3e45daf7-ba73-414c-ba52-fcfbd6830f68 5bc1a8f8-67f1-4880-b25a-71295a6d53c0 091eb4ee-0395-415c-817c-972220fe7fd1 1 1.0
+Connection e54e8dd0-3456-40c6-9bad-31fd6e08b709 63b616e1-afe5-4e96-a74f-5aa11ce51304 13859b75-e179-4a47-9d68-f5c69925f8e3 1 1.0
+Connection 9622fdc7-2dd0-4122-9679-fe9f18be1269 b1451f75-176b-4efb-85c3-ae6143a4a41c 13859b75-e179-4a47-9d68-f5c69925f8e3 1 1.0
+Connection 0b9612ed-088b-4d30-bce2-13d02df74e2c d23ab9a2-6517-4b89-8b63-b45939cc6da5 13859b75-e179-4a47-9d68-f5c69925f8e3 1 1.0
+Connection 589d940c-ae85-4114-991b-78d78a578060 e80a1999-8cb4-48b0-8256-b54b8cf71ec6 63b616e1-afe5-4e96-a74f-5aa11ce51304 1 1.0
+Connection 584642ec-f983-4874-b63c-2855498e2415 c771cc83-0abd-41fc-a3da-fcc81d45960c b1451f75-176b-4efb-85c3-ae6143a4a41c 9 1.0
+Connection fb63c162-4677-452e-9942-bf0e29d4ec15 5bc1a8f8-67f1-4880-b25a-71295a6d53c0 d23ab9a2-6517-4b89-8b63-b45939cc6da5 4 1.0
+Connection 84679d5d-4c28-4c27-9671-1deed433020e 9c73e891-ab59-4cc8-a074-5733019438cf 4cf2892a-cc6d-4357-abb6-ea69a728d8b4 1 1.0
+Connection 487215e2-a8cf-48b0-80f7-ba64e5fb8c76 eb13dafe-10fc-4679-a3cc-d922748c6d6e 4cf2892a-cc6d-4357-abb6-ea69a728d8b4 1 1.0
+Connection eef42a0f-1b31-45b6-ad7e-ed1daf959995 7f7b4b62-f62b-4d4e-b140-c9738ef88244 4cf2892a-cc6d-4357-abb6-ea69a728d8b4 1 1.0
+Connection cbc92258-613a-4c3e-af73-7ca2068e09fb 652f6dbf-989d-4dd2-b2c3-62f79f60c1f0 9c73e891-ab59-4cc8-a074-5733019438cf 6 1.0
+Connection da64493f-ea04-4bdd-bfa9-5c6938b8e4a0 c771cc83-0abd-41fc-a3da-fcc81d45960c eb13dafe-10fc-4679-a3cc-d922748c6d6e 6 1.0
+Connection 77f063ee-2206-48b5-915b-6d875610d10f 5bc1a8f8-67f1-4880-b25a-71295a6d53c0 7f7b4b62-f62b-4d4e-b140-c9738ef88244 1 1.0
+Connection f0e81f9a-ed8c-495a-a622-fc515fa8c46d dd455da9-25b8-4f58-8c6e-eac84289bc71 9e6e6c8c-732d-4944-bdda-18cfb1b787e9 13 1.0
+Connection 0c5e7cd0-1129-48bc-99ad-5d546ef25a6a 2b6e1d9d-2f87-41e4-8cf0-7809fc3fb390 ced95554-c083-4658-b091-8081fa922ea6 13 1.0
+Connection 43c3130e-2295-457a-8f4c-3183c24b77e9 bc768267-4e02-4513-b67a-5c43fa55e252 6d38c54e-fc43-4609-949f-213607657128 13 1.0
+Connection e8f90718-7090-4797-b98b-ae6d50c35167 4c203c64-1608-4db8-be64-0728e08938b8 3053aa83-fa28-452c-bb6a-d2ad98fa725a 13 1.0
+Connection ccf29801-9806-4ffb-aadc-c112ac0ac48e b628e7fc-29b6-424c-a98f-c9588819ee6e 7a68bbbe-5050-4b8b-bd95-bc0d10634caf 13 1.0
+Connection 19d81b77-7661-4678-a4a6-abace92705ec ad7300b4-2885-4e7d-b501-fbdf295e4e56 77a35976-39ac-4fa6-b24d-0824062fc27a 16 1.0
+Connection ad156ffe-916f-4cca-a042-423692850324 13859b75-e179-4a47-9d68-f5c69925f8e3 a38dcad3-cb2c-467a-9e00-8392b713fb95 13 1.0
+Connection 946f6f37-dabd-4652-867b-900dd6591aa2 4cf2892a-cc6d-4357-abb6-ea69a728d8b4 19b61789-894e-4bcd-990e-706115226e59 16 1.0
+Connection 1ebf24f8-adc5-445c-8b34-fc7250af3764 a85ae2b1-4962-45df-8c45-e8f01caea8e6 8ae1ceb6-8afa-4587-a9b1-c40d32b99611 26 1.0
+Connection eec11835-6f90-4232-9aff-3576bf5378a9 6669139e-2ffb-4ba3-a92d-96e39bd0254c 8ae1ceb6-8afa-4587-a9b1-c40d32b99611 26 1.0
+Connection 61c42e2a-314b-44ea-a454-f5eabc4f3151 8ae1ceb6-8afa-4587-a9b1-c40d32b99611 f253d632-fe4e-4151-a1e5-e8018a5fa7dd 26 1.0
+Connection d6dff990-5d95-4149-8572-2091f9ee7c56 974c7754-f198-4e9e-ac7b-091ad9588bdd f253d632-fe4e-4151-a1e5-e8018a5fa7dd 26 1.0
+Connection 6e77214a-6e97-4135-acfd-49c316b9b634 f253d632-fe4e-4151-a1e5-e8018a5fa7dd ae3f08d0-937a-4283-9108-afcc970e1f2b 26 1.0
+Connection 3d068338-e715-4402-9637-c401ba30006f 60ec0d47-89fb-4fad-a6e6-24b959ae4eb0 ae3f08d0-937a-4283-9108-afcc970e1f2b 26 1.0
+Connection 9280f7a2-3cd2-409d-b319-7513d77dafdc ae3f08d0-937a-4283-9108-afcc970e1f2b 2be176aa-860c-4600-8ac7-588a587ba794 26 1.0
+Connection 6001d1bf-b35e-4d77-ab4e-2bd6295b41fa 11a3b224-4219-4c31-90e2-1a562ddb2382 2be176aa-860c-4600-8ac7-588a587ba794 26 1.0
+Connection afe46c45-ecc4-4b62-b972-43d1965693cb 2be176aa-860c-4600-8ac7-588a587ba794 2763a0f1-88da-43c6-b00c-3bb175c9a9f5 26 1.0
+Connection 9dba9c39-2bdd-4b55-afe5-77384b0f5c06 90382248-6656-4d85-82bc-2b9908290ebe 2763a0f1-88da-43c6-b00c-3bb175c9a9f5 26 1.0
+Connection 6124449a-5065-4897-8cd6-f6195fe2845e 2763a0f1-88da-43c6-b00c-3bb175c9a9f5 9629ae05-46be-482c-9167-4cd6e794e881 26 1.0
+Connection 7cb10c3c-6064-4b7d-accd-8d7d91385607 5b5ff00b-226c-4c86-81cf-e2f129dc41da 9629ae05-46be-482c-9167-4cd6e794e881 26 1.0
+Connection b0d96340-c88b-4b8d-b187-4501191233a4 9629ae05-46be-482c-9167-4cd6e794e881 8ae1ceb6-8afa-4587-a9b1-c40d32b99611 26 1.0
+Connection ee49dc69-4055-4b72-b3a7-064c0ffe9c52 a85ae2b1-4962-45df-8c45-e8f01caea8e6 8ae1ceb6-8afa-4587-a9b1-c40d32b99611 26 1.0
+Connection dff1b2ac-fe34-4f2f-a0a2-e16d8917e2d8 2d73a0af-e5f0-41bc-a5ef-cb75feafdb04 52e3d709-85fa-474f-99de-3fa80f3e0fd5 1 1.0
+Connection 6afa7118-d65f-41ec-ba5b-c8132cfebdf6 3fa8fb33-3613-4698-8b23-1c8c28cc7737 52e3d709-85fa-474f-99de-3fa80f3e0fd5 1 1.0
+Connection 6a900354-0c49-4073-ae7d-ff435e890dfb 9629ae05-46be-482c-9167-4cd6e794e881 2d73a0af-e5f0-41bc-a5ef-cb75feafdb04 1 1.0
+Connection 08895944-739d-44ab-94d6-008a56010553 fb6bc207-4b51-4544-9507-a30fea0cca84 3fa8fb33-3613-4698-8b23-1c8c28cc7737 1 1.0
+Connection ac524795-b231-4a58-adc9-4a8dbad3371c 52e3d709-85fa-474f-99de-3fa80f3e0fd5 342b1ba6-d7ad-4751-9c99-b76d3d62fd35 1 1.0
+Connection d2126f3f-0689-471a-868e-74d692116f97 52e3d709-85fa-474f-99de-3fa80f3e0fd5 fad4225b-5a67-468d-9242-effaf661a322 1 1.0
+Connection 99490903-debf-47d9-8944-cd939822c926 52e3d709-85fa-474f-99de-3fa80f3e0fd5 aa6120d9-10b3-4514-a356-ecc64115b83b 1 1.0
+Connection c47d2866-886d-43c2-a347-a53ef28dba8c a85ae2b1-4962-45df-8c45-e8f01caea8e6 b28b6c06-3109-4060-9b9a-7c8c965b6a9c 3 1.0
+Connection bc87b179-46de-4725-b912-249e23a030ed a85ae2b1-4962-45df-8c45-e8f01caea8e6 46c464c5-8a19-4e33-a2f4-fc183c4f4eca 8 1.0
+Connection 6521d21c-686a-4811-b9c8-486c7e236403 539caddc-803c-4c53-ac5e-7a82df62ba07 765b9678-c771-467a-9c8e-0e972d35d41e 4 1.0
+Connection f5b8d727-a5e1-43ff-b418-456a05f00eec b32b2312-1b0f-4d29-a1c6-f15d0cfb699a 765b9678-c771-467a-9c8e-0e972d35d41e 4 1.0
+Connection 353ae1af-b393-40d8-9e54-6ac689b226fb 643fb936-5cc4-43f1-b2d0-5ebed5728399 8dd6b6f8-b7ea-44a0-a1f2-2a1eb9087ff0 4 -1.0
+Connection c7ab885c-8738-4c93-87a3-a9ca44a30d0c 8dd6b6f8-b7ea-44a0-a1f2-2a1eb9087ff0 1d38ad67-a494-41c7-8f14-c5c4c451e058 4 1.0
+Connection da1291cd-145f-472b-945f-a5d3ff1ec629 35ba7df3-8da6-4f30-9698-cf4cf1fa8ff6 a76a120f-7613-405d-b4b3-4102842a2880 4 1.0
+Connection 647b2747-4933-4f3c-827b-e880522d7624 340aeddc-feba-4bb3-8dda-5c996407bfdc a76a120f-7613-405d-b4b3-4102842a2880 4 1.0
+Connection 731fbc38-649d-43a6-bcb5-8ab1c92dfa37 1d38ad67-a494-41c7-8f14-c5c4c451e058 340aeddc-feba-4bb3-8dda-5c996407bfdc 4 1.0
+Connection 8ee44f52-f433-4845-a609-c1f14976dc17 19fa3889-6bb6-4e95-baaf-682f7d1d8639 004e284b-8f3e-4b2b-b8c4-83eef9f3ca27 4 1.0
+Connection 9cc78683-5cac-4695-923c-6ba5a0b7e3a6 361152c9-c275-4143-9598-ff43f2fbd00d b7917c8e-f9e5-432a-8cd1-34d0e9bc91c8 4 1.0
+Connection 59cbe99f-5d07-42e8-98f2-8817b6b3f1ac 4ffec587-74e9-49bc-9c11-57bec31e26c6 fbf064d9-5338-4a4c-b636-d519d627a442 4 1.0
+Connection d17eb205-6b9e-474b-a67b-76815428428b b11e1ff6-9590-4948-af3f-262a157a0bfa 78990ba6-f95e-44ad-a645-c91f56f86d38 4 -1.0
+Connection a1da5cc9-341c-44e3-91b1-71a9330089cc 78990ba6-f95e-44ad-a645-c91f56f86d38 d5d84de9-6f1b-4310-9ab8-44ea5886dc8d 4 1.0
+Connection a1938c9e-f64f-4489-b368-0dc716cb737d 67102ca0-d0bf-4f5e-9c65-e77ab97f3a1f be6d790b-c1e4-407c-9053-69b504a3d6b4 4 1.0
+Connection 9d832e8c-58c2-4c52-9571-830a75ca4318 1440359b-ab4b-47e6-a12c-f911d0555cc8 be6d790b-c1e4-407c-9053-69b504a3d6b4 4 1.0
+Connection 6b06500c-8c1a-4517-ac47-ef23ac2ca5fd 7f43ac52-ace6-4e2d-873d-2ea4868157ea 8879c02d-1f93-421d-ab31-13514c232fb5 4 1.0
+Connection 54f71b1c-ca00-47b7-a2ad-d6f63145e2af 9aae95be-256d-4e4a-abf1-4e66c8c3bf0f 8879c02d-1f93-421d-ab31-13514c232fb5 4 1.0
+Connection 59996e33-049b-49e8-8fdb-150ab4c1a419 8879c02d-1f93-421d-ab31-13514c232fb5 5befdb36-fd38-41b1-8496-fe0c7f573a06 4 1.0
+Connection 61ec68a6-cef0-40a0-8b70-03513b7ff02a fbf064d9-5338-4a4c-b636-d519d627a442 b11e1ff6-9590-4948-af3f-262a157a0bfa 4 1.0
+Connection f1dd4479-da52-4f7b-8261-c8210637c318 004e284b-8f3e-4b2b-b8c4-83eef9f3ca27 67102ca0-d0bf-4f5e-9c65-e77ab97f3a1f 4 1.0
+Connection a9ddc364-2ecb-4b26-adde-7a613488c570 b7917c8e-f9e5-432a-8cd1-34d0e9bc91c8 1440359b-ab4b-47e6-a12c-f911d0555cc8 4 1.0
+Connection 2ec97369-83ce-4435-be1a-f491f5b90bf4 d5d84de9-6f1b-4310-9ab8-44ea5886dc8d 7f43ac52-ace6-4e2d-873d-2ea4868157ea 4 1.0
+Connection 2b275cfa-4e61-4a68-8858-e10dd2f3eaae be6d790b-c1e4-407c-9053-69b504a3d6b4 9aae95be-256d-4e4a-abf1-4e66c8c3bf0f 8 1.0
+Connection 9bbbf5e1-9925-40cf-9054-52f590f76889 5d643494-2f00-4263-bf35-0422234e49f8 52feff93-f9cf-445b-a386-de180820d447 4 -1.0
+Connection 7e376be4-960b-46d4-8a3b-c7ff5d7839d8 52feff93-f9cf-445b-a386-de180820d447 d43a796d-8548-4f87-966b-9679eefddad7 4 1.0
+Connection fa1836af-cc59-4e2e-93ff-f660bc9af2fa 069617fb-099b-42a2-b853-2b3813d60299 0dda08be-8230-4f03-a516-19c89d869074 4 1.0
+Connection 6e8dc3f4-7add-476d-85ca-b133601dc446 a8ab4030-82f5-4ef0-b99d-bb293e59f10f 0dda08be-8230-4f03-a516-19c89d869074 4 1.0
+Connection 801f6923-9b59-40f1-85e0-55d1428529e2 0dda08be-8230-4f03-a516-19c89d869074 874b6a76-b1b8-4976-a1f0-9d0b8438f265 16 1.0
+Connection dec5b899-cb27-4246-95df-4afab3bcdf16 d43a796d-8548-4f87-966b-9679eefddad7 97918f1e-4a85-4fbf-b713-c09ab6e7c968 4 1.0
+Connection 1f8279b6-7e1a-45b0-bb11-60402a24ebe5 0dda08be-8230-4f03-a516-19c89d869074 19fa3889-6bb6-4e95-baaf-682f7d1d8639 16 1.0
+Connection 08c41d82-ccdb-402e-8760-29ce99214064 0dda08be-8230-4f03-a516-19c89d869074 5d643494-2f00-4263-bf35-0422234e49f8 4 1.0
+Connection 7a76c810-4b01-43c1-afad-14df7fc1aae1 5befdb36-fd38-41b1-8496-fe0c7f573a06 069617fb-099b-42a2-b853-2b3813d60299 4 1.0
+Connection 2f2d4da4-217a-47fc-b3a1-93259be20100 5befdb36-fd38-41b1-8496-fe0c7f573a06 a8ab4030-82f5-4ef0-b99d-bb293e59f10f 4 1.0
+Connection c11804bf-4db0-469b-b2ef-d7fda73eadb9 434b7559-0d0a-470f-a149-2e8c2b5f1312 ee0335ef-ed71-462b-aaf0-e1f444159e08 52 1.0
+Connection df2490d5-162d-475d-b683-99842d900cef ee0335ef-ed71-462b-aaf0-e1f444159e08 12968bab-0e68-4d6e-a3de-ff29218bb539 4 1.0
+Connection 9474c2c5-b658-4236-a069-07c4787facd6 12968bab-0e68-4d6e-a3de-ff29218bb539 ee0335ef-ed71-462b-aaf0-e1f444159e08 48 1.0
+Connection a4932142-2c66-41a3-b6c9-704ba8fe8cdd 434b7559-0d0a-470f-a149-2e8c2b5f1312 ee0335ef-ed71-462b-aaf0-e1f444159e08 52 1.0
+Connection 5136a4f6-f0f0-4264-95da-a36f90c59271 7a664187-5a16-4c64-b8e4-b20e9ffcae78 6600ad95-9942-44c8-8ba1-b45fe8120dc8 4 1.0
+Connection 33c5e7dc-4d21-4ae0-9202-ef2e432fc059 8130584e-06ff-411a-942f-ce2fde7f8924 6600ad95-9942-44c8-8ba1-b45fe8120dc8 4 1.0
+Connection b7cae4a8-ce9b-4bb9-93d1-4655cc2ddef2 12968bab-0e68-4d6e-a3de-ff29218bb539 7a664187-5a16-4c64-b8e4-b20e9ffcae78 4 1.0
+Connection bc6a5a65-8ebf-43f8-8bc5-7078d320d464 2d285d94-49a0-4ecb-ab13-8f32a2771ab9 8130584e-06ff-411a-942f-ce2fde7f8924 8 1.0
+Connection 65c4eccb-6038-4da0-bb22-db1f4d60becc 6600ad95-9942-44c8-8ba1-b45fe8120dc8 361152c9-c275-4143-9598-ff43f2fbd00d 40 1.0
+Connection 6622ba7c-c668-4be5-b4c8-bf2cce6c3af2 6f28c6da-a6cf-487b-9a09-256a820c8c9f bcb8bdd2-ef7f-4778-b0c1-7ad18deb0b7b 4 1.0
+Connection 64fffd48-75b1-4273-bbca-838395a761d8 c73d7cbc-1fd2-48f5-b3ed-0f560ef5656b bcb8bdd2-ef7f-4778-b0c1-7ad18deb0b7b 4 1.0
+Connection d0a3cc90-a670-4763-971c-7657c940a6c1 12968bab-0e68-4d6e-a3de-ff29218bb539 6f28c6da-a6cf-487b-9a09-256a820c8c9f 4 1.0
+Connection 1293bea8-1cf3-4c5a-9127-1fbc22cf8a65 3b897cfd-4286-457e-8cab-73163ede0c30 c73d7cbc-1fd2-48f5-b3ed-0f560ef5656b 8 1.0
+Connection cc192d78-fd9f-472a-aad8-8f0836b5ee58 bcb8bdd2-ef7f-4778-b0c1-7ad18deb0b7b 4ffec587-74e9-49bc-9c11-57bec31e26c6 40 1.0
+Connection 23affc53-feb6-498b-b757-ee2f13568ec6 765b9678-c771-467a-9c8e-0e972d35d41e 2d285d94-49a0-4ecb-ab13-8f32a2771ab9 28 1.0
+Connection d9a982be-3bc4-45ca-a4f3-d73502270eae a76a120f-7613-405d-b4b3-4102842a2880 3b897cfd-4286-457e-8cab-73163ede0c30 16 1.0
+Connection b8171605-f7f5-4fc5-947a-8b5aa38972e9 c111c75d-01b3-4d8b-bac0-5d146ae4e828 1d4bca5d-3bc2-456d-a911-f310a2d7da50 4 1.0
+Connection 2e0cda4b-1cf3-46ee-b8f9-0a8c0bc7781a bb1ce52f-b941-4ea8-9e4a-78e6c8feaa8a 1d4bca5d-3bc2-456d-a911-f310a2d7da50 4 1.0
+Connection 24990876-1acc-4cfb-833d-3c5e9a70c558 365c9119-1b40-4098-b704-3ba287686ae7 998d69bd-6722-4f24-892f-93dc12446a2c 4 -1.0
+Connection d9816110-caeb-4e4d-9331-b537c298d9a0 998d69bd-6722-4f24-892f-93dc12446a2c db580618-0d81-43ba-a97e-da2a6a87fa6e 4 1.0
+Connection 75134126-1c5a-4f8e-bac5-4f86d697c15d fafdd986-6260-4ea7-a90a-ae614a81021e 2a1b4b98-8371-4384-ac4a-8b45c8429af5 4 1.0
+Connection 7df97e97-4c1a-4fcb-9a70-bfb1df040a60 406b6069-17a9-423c-a51e-ae4b371792ec 2a1b4b98-8371-4384-ac4a-8b45c8429af5 4 1.0
+Connection 6f64d17c-efe1-4482-ac07-0ddc221637dc db580618-0d81-43ba-a97e-da2a6a87fa6e 406b6069-17a9-423c-a51e-ae4b371792ec 4 1.0
+Connection 2d757736-f84a-4b3e-b3aa-bf02f16d820f 816af141-17bc-4fa0-a464-08b250c4f266 7753d872-b741-40b9-81d9-10ce1b727ea9 4 1.0
+Connection 97c7ac5e-dc9d-4888-a2ca-27123e07b42c 9265fb78-401d-44dd-8281-0bffe04331db 44053ed4-62fb-4cbd-9f91-e0801301bf5b 4 1.0
+Connection dcff36d3-89d1-4cb6-ac49-6a3e0ba2f28e 3dc2baea-6715-45f1-a392-c261f4474e4b 8bf676ef-2fde-4e38-8c0a-168bb5664c5a 4 1.0
+Connection beab082a-b76f-46b1-a6cf-00be50a0463e ae291974-4610-4552-86c5-d265007d7de4 d4937275-ba92-4551-a320-698c7956e03e 4 -1.0
+Connection 942295c5-2c31-441e-b25b-b7677757ed9a d4937275-ba92-4551-a320-698c7956e03e 59fd8f6e-c938-46a1-8d88-141dbecb18d4 4 1.0
+Connection 9b8df398-1772-4797-a466-ad78a14fc180 779c5666-1086-4432-a4b8-3e12cbd10e6a 5a1903fe-0d2e-48bd-bbd3-819c685f194b 4 1.0
+Connection 8cfcf90a-a1b1-4658-86cf-192045ebe2d5 ab4da2a5-c61a-4cd8-ad27-a4e8e432909c 5a1903fe-0d2e-48bd-bbd3-819c685f194b 4 1.0
+Connection 014f0da3-29cb-4310-9d51-e7cccbb8b249 ab5d28ec-6c07-4bdd-ad97-ceba49a81623 691b756e-2be2-46f2-bb95-6b0a4f4932b6 4 1.0
+Connection 3f8ba661-f3bb-410c-a16b-7f0e0a5cb372 a5e4b385-a624-4da9-a7f6-35d4bba9dcab 691b756e-2be2-46f2-bb95-6b0a4f4932b6 4 1.0
+Connection 44b44fe8-05ca-4fb9-98e0-359f5424325b 691b756e-2be2-46f2-bb95-6b0a4f4932b6 000b44eb-7066-45a6-995d-3b154577d704 4 1.0
+Connection 3e736a69-8978-4c13-ba98-7c3f1f0ac3ab 8bf676ef-2fde-4e38-8c0a-168bb5664c5a ae291974-4610-4552-86c5-d265007d7de4 4 1.0
+Connection 2370ed2b-c0c5-46cd-a675-ac4a342be092 7753d872-b741-40b9-81d9-10ce1b727ea9 779c5666-1086-4432-a4b8-3e12cbd10e6a 4 1.0
+Connection bf1c00ee-44e6-4e8f-b8b7-07bb75bf9d58 44053ed4-62fb-4cbd-9f91-e0801301bf5b ab4da2a5-c61a-4cd8-ad27-a4e8e432909c 4 1.0
+Connection 830e4fdc-7737-4c7a-b6a1-aa2a6dcbd530 59fd8f6e-c938-46a1-8d88-141dbecb18d4 ab5d28ec-6c07-4bdd-ad97-ceba49a81623 4 1.0
+Connection 2f7216b1-9177-46c0-b599-d75ccd082887 5a1903fe-0d2e-48bd-bbd3-819c685f194b a5e4b385-a624-4da9-a7f6-35d4bba9dcab 8 1.0
+Connection 578ff0cc-1d7c-464e-9303-9db73e185e04 92c55af1-da1c-4b8c-8c90-2e0301f6dd54 174312bb-7615-4f33-a390-1150825f60a7 4 -1.0
+Connection ace9aaca-be40-475e-b0fc-0e5e3891f1d9 174312bb-7615-4f33-a390-1150825f60a7 957d20ca-543d-4d16-bb6a-175695d3c858 4 1.0
+Connection dc869a44-2fdb-42ed-a8a4-bb838a30d7b5 e3569b56-caf9-404e-9ecd-b43c89cf12f9 ee5884cf-0d2b-46bf-9ab3-fd5f2b1b7b57 4 1.0
+Connection 1b1469c1-a73b-4b6b-b549-521bd6c9d771 f1516586-e334-48cb-b64a-5c73eb5fc360 ee5884cf-0d2b-46bf-9ab3-fd5f2b1b7b57 4 1.0
+Connection 736c8d54-725a-412c-875a-9beae0077c82 ee5884cf-0d2b-46bf-9ab3-fd5f2b1b7b57 c98715b9-70ac-4364-98c5-961585917493 16 1.0
+Connection c8471e68-b64d-4471-b91e-3d32cf7f83b3 957d20ca-543d-4d16-bb6a-175695d3c858 bc572285-687a-435f-a9e7-14dad1cee350 4 1.0
+Connection 1e198725-6bf1-4ccd-a90d-23e1cc77a166 ee5884cf-0d2b-46bf-9ab3-fd5f2b1b7b57 816af141-17bc-4fa0-a464-08b250c4f266 16 1.0
+Connection 7139f25c-e4bd-4142-9137-a960129167aa ee5884cf-0d2b-46bf-9ab3-fd5f2b1b7b57 92c55af1-da1c-4b8c-8c90-2e0301f6dd54 4 1.0
+Connection 9459fd6e-92e3-4159-9bee-62c899de09bf 000b44eb-7066-45a6-995d-3b154577d704 e3569b56-caf9-404e-9ecd-b43c89cf12f9 4 1.0
+Connection 5302f101-61a2-42a9-9d0d-314b7c2052e6 000b44eb-7066-45a6-995d-3b154577d704 f1516586-e334-48cb-b64a-5c73eb5fc360 4 1.0
+Connection 00331c4c-984f-465d-a136-0404224e3a61 500a767e-142d-458e-ac65-9f9bfe120c12 2746e7b0-3666-46e9-bd83-d581b33b0e33 52 1.0
+Connection f2c57748-b001-4498-bbff-b9bdbfb45b46 2746e7b0-3666-46e9-bd83-d581b33b0e33 4db229b7-167a-4cd9-a67e-4c51cf03567f 4 1.0
+Connection 851ed5c1-494f-4bfa-9806-a4e834a58ec9 4db229b7-167a-4cd9-a67e-4c51cf03567f 2746e7b0-3666-46e9-bd83-d581b33b0e33 48 1.0
+Connection ac8822b4-3fa0-4b0e-a580-c93695d7ddc3 500a767e-142d-458e-ac65-9f9bfe120c12 2746e7b0-3666-46e9-bd83-d581b33b0e33 52 1.0
+Connection 1fbef036-2cd1-430a-8bad-304c0eb31b81 414e0aa1-a72f-4a49-9d97-d9881e50a84f f4b2d412-c034-4247-9202-b9b2d1711a91 4 1.0
+Connection ab4737fb-d400-4f5c-843f-c1f8399255cf b258ba57-d831-4cbd-b085-b5b3483a23b7 f4b2d412-c034-4247-9202-b9b2d1711a91 4 1.0
+Connection ea94f31b-ea40-461c-9031-3ba4d42a2dab 4db229b7-167a-4cd9-a67e-4c51cf03567f 414e0aa1-a72f-4a49-9d97-d9881e50a84f 4 1.0
+Connection b0268819-197d-4179-973c-a3cfb187199e bf0dcff5-ef58-470f-b58c-7afc43a72aee b258ba57-d831-4cbd-b085-b5b3483a23b7 8 1.0
+Connection 5652fdd7-a449-4607-b8c2-f4d88c41d4a8 f4b2d412-c034-4247-9202-b9b2d1711a91 9265fb78-401d-44dd-8281-0bffe04331db 40 1.0
+Connection 7f39cff6-07a2-4bcc-a7fa-3f77dd23e0b0 80e5d820-bf1c-4fea-bd43-fdb8e58c25d1 7286a485-d2d9-4180-a238-7195e2d8ca84 4 1.0
+Connection 85e35e64-59ec-4746-a3b2-dc9a516246e2 9cf6be90-7725-411c-a607-a95c62b60fe9 7286a485-d2d9-4180-a238-7195e2d8ca84 4 1.0
+Connection ad365f47-12ac-4801-b10d-c04712b8f3bf 4db229b7-167a-4cd9-a67e-4c51cf03567f 80e5d820-bf1c-4fea-bd43-fdb8e58c25d1 4 1.0
+Connection 2e892d8e-706b-4379-8088-53c20959804a 61a1f87f-4ef1-4795-acef-00c4c2679d0d 9cf6be90-7725-411c-a607-a95c62b60fe9 8 1.0
+Connection 301fc825-36e6-4143-9f1c-6fed2f71ae58 7286a485-d2d9-4180-a238-7195e2d8ca84 3dc2baea-6715-45f1-a392-c261f4474e4b 40 1.0
+Connection c7cf9c01-4813-4dbc-b042-a3fe48af3107 1d4bca5d-3bc2-456d-a911-f310a2d7da50 bf0dcff5-ef58-470f-b58c-7afc43a72aee 4 1.0
+Connection d6684c0d-4efa-4ebb-a68b-5a4a69951b56 2a1b4b98-8371-4384-ac4a-8b45c8429af5 61a1f87f-4ef1-4795-acef-00c4c2679d0d 4 1.0
+Connection 1c35536c-ffd9-454a-bc39-f10a8c30e6b0 b0c76547-ce0e-440d-8e45-62e39036ca66 4d45876f-27ae-4069-8666-116ac6b8ccbb 4 1.0
+Connection 6a6af9a2-9d6a-4a53-8a51-d5c85ad964b4 c0f4f204-4dc1-4465-bae1-fc792a0d65af 4d45876f-27ae-4069-8666-116ac6b8ccbb 4 1.0
+Connection 37b93f54-de32-485f-a37a-8e2b0042bf18 dab6cf7d-56ac-47ed-800c-bd46dfbccddc d43410fe-fef1-4b1e-b7ac-e51ae5e1ee97 4 -1.0
+Connection b635d5e3-be5f-41d8-a7e9-4dfab948b9aa d43410fe-fef1-4b1e-b7ac-e51ae5e1ee97 ba511660-48d2-42e4-bb3e-f0255972e210 4 1.0
+Connection 7a9f4d96-b028-4e23-a464-7fb56ab64dac cdad06ed-a3b4-4d8d-8830-c09362b3d3bb f5074b2f-b6e7-4ce4-b13d-54eb0ab45baa 4 1.0
+Connection 3a7080de-6b1f-4d2a-838d-f3193072294a 0c86b489-835d-498c-8945-a2ee6f5b84cd f5074b2f-b6e7-4ce4-b13d-54eb0ab45baa 4 1.0
+Connection d62e289e-a4ba-4da5-a562-71fad3abe0b4 ba511660-48d2-42e4-bb3e-f0255972e210 0c86b489-835d-498c-8945-a2ee6f5b84cd 4 1.0
+Connection 5e7a89b4-543a-45ce-b44a-3e4bd2eef1eb edcaef37-4cac-44f6-aefd-1f620529c694 c4070a95-e52b-43a7-bdb8-f99893cce4a5 4 1.0
+Connection cdf5b392-2d70-4092-af76-1b5658318433 4972ee84-5e06-4371-8f62-9a70002d4f42 a91bbe30-351c-4942-b476-187066fd51c3 4 1.0
+Connection 3f96de1a-53d2-4edd-aec8-a2f186e4dc4f 135347c9-4f10-43e3-bb8b-a71c0fc2993a 963fc298-0ca5-4cd9-804b-8b63904f379f 4 1.0
+Connection 6aa849ac-0f1d-459b-a4a1-95857d23b000 49956c11-9ea9-46a3-a617-98736a8f9e21 5d021f02-4b90-4a09-9288-394bb6ae61c8 4 -1.0
+Connection 0f5c69d8-2960-4a7e-917c-85ff04a43f5f 5d021f02-4b90-4a09-9288-394bb6ae61c8 ca7949be-ba87-4494-bdc4-84f66bd74af9 4 1.0
+Connection 4a5dbf69-13ff-4eeb-84ad-1b6ed110440e eb0bddbb-f864-43ee-a1a2-6c4e2c876ac6 bdd81c5a-05af-4a52-a95e-83e93c7c0098 4 1.0
+Connection 2e108d71-1200-496e-90ac-694287ee6552 59f95710-13e2-4e02-b295-2e20339b9c29 bdd81c5a-05af-4a52-a95e-83e93c7c0098 4 1.0
+Connection 1eb6642a-bb6d-411f-b545-555f8479eda6 379fce12-8c28-4ad2-a857-8f1898f9f67a 7ac8f49e-ca31-4844-b282-bb72f37b527c 4 1.0
+Connection a8f538a0-9d51-4af9-bde6-16d6d8e3734f d841d4ce-d0de-47ba-b0c4-de8b3bf956a5 7ac8f49e-ca31-4844-b282-bb72f37b527c 4 1.0
+Connection 91786505-1199-4781-9e02-c1657b7560ab 7ac8f49e-ca31-4844-b282-bb72f37b527c 00f13276-68b4-4ef2-acb8-42ba573f6150 4 1.0
+Connection 8c303382-eabd-4450-8f6c-d3faa541eb94 963fc298-0ca5-4cd9-804b-8b63904f379f 49956c11-9ea9-46a3-a617-98736a8f9e21 4 1.0
+Connection bd684120-bd44-4e07-8ff6-9c492500b600 c4070a95-e52b-43a7-bdb8-f99893cce4a5 eb0bddbb-f864-43ee-a1a2-6c4e2c876ac6 4 1.0
+Connection 9d2f818c-a9fa-4e06-92d3-fa4a6397cd79 a91bbe30-351c-4942-b476-187066fd51c3 59f95710-13e2-4e02-b295-2e20339b9c29 4 1.0
+Connection 6678d050-03e6-4ae8-867d-3e7636563287 ca7949be-ba87-4494-bdc4-84f66bd74af9 379fce12-8c28-4ad2-a857-8f1898f9f67a 4 1.0
+Connection 9625e8fa-9999-4387-a289-8ef5df872253 bdd81c5a-05af-4a52-a95e-83e93c7c0098 d841d4ce-d0de-47ba-b0c4-de8b3bf956a5 8 1.0
+Connection 147cf8a9-600a-4e79-b46a-a90631cb1d23 dce2fe3d-747d-4633-ae09-a1616ae39eb1 3bd6154e-8017-48a8-a4ae-6b2ed3dd6ace 4 -1.0
+Connection eb04fe60-3328-4cec-ad2e-8b58aee63b7a 3bd6154e-8017-48a8-a4ae-6b2ed3dd6ace b6fbf5ba-814c-42bc-aa3b-13b4d9dcb796 4 1.0
+Connection b12a4b96-06ac-46d3-84d8-4d733296ec4a a08ce550-f8f6-465f-905a-5885aaa05d5f 383b1825-b883-4fa1-a768-5cbac020515f 4 1.0
+Connection b7c3fb14-4072-4b96-919e-93d4f0a50138 646eaa0b-34f4-4854-970d-71ada41bf391 383b1825-b883-4fa1-a768-5cbac020515f 4 1.0
+Connection 8254d832-1a3c-4899-8f10-b11abd42daf7 383b1825-b883-4fa1-a768-5cbac020515f 4ff7a022-6816-4fe8-93f9-390ef8d00d0a 16 1.0
+Connection 8450a7c0-42ad-4ab9-aff1-b730edb9eac6 b6fbf5ba-814c-42bc-aa3b-13b4d9dcb796 d53a05bb-3736-417c-b330-76954c705c65 4 1.0
+Connection fe390a35-3341-4c2c-bc0a-5a6bc0baea6e 383b1825-b883-4fa1-a768-5cbac020515f edcaef37-4cac-44f6-aefd-1f620529c694 16 1.0
+Connection d1ba8710-f603-4151-93b7-cc22759bb64c 383b1825-b883-4fa1-a768-5cbac020515f dce2fe3d-747d-4633-ae09-a1616ae39eb1 4 1.0
+Connection f9ad4fa8-71cb-427a-acb6-e137a6a8bc96 00f13276-68b4-4ef2-acb8-42ba573f6150 a08ce550-f8f6-465f-905a-5885aaa05d5f 4 1.0
+Connection 0bb968c7-351e-4fe3-be51-e7f54401fe86 00f13276-68b4-4ef2-acb8-42ba573f6150 646eaa0b-34f4-4854-970d-71ada41bf391 4 1.0
+Connection 141ec789-9df3-4a2e-b7a0-1afdadf77c02 fc68406a-7c29-47e4-ab6c-88a81413deef b73943e4-031f-4c7c-b081-f269435b7553 52 1.0
+Connection 6cd84dc1-61f1-4394-b315-aa5ae5635aa6 b73943e4-031f-4c7c-b081-f269435b7553 597404fe-0e02-4907-b466-38ca26d2cfa8 4 1.0
+Connection 2d8ced3d-93c8-4e88-abcb-6d08e73d15b5 597404fe-0e02-4907-b466-38ca26d2cfa8 b73943e4-031f-4c7c-b081-f269435b7553 48 1.0
+Connection c1be4637-d408-4812-9bb1-3a3acaaab57f fc68406a-7c29-47e4-ab6c-88a81413deef b73943e4-031f-4c7c-b081-f269435b7553 52 1.0
+Connection 1197e26a-13cb-41b0-9b3a-3d77fe6eb5d0 135642bd-0038-499d-9ae1-2fcd52f95ef9 9e58f865-c106-4145-9e06-ae635cd4baba 4 1.0
+Connection e66173d2-bfd5-489c-beb1-1c4d914e8909 0a238e7a-c909-4b46-bb78-582c07e94cb0 9e58f865-c106-4145-9e06-ae635cd4baba 4 1.0
+Connection c001ec5a-4485-40cf-b8b9-80825ac2ef31 597404fe-0e02-4907-b466-38ca26d2cfa8 135642bd-0038-499d-9ae1-2fcd52f95ef9 4 1.0
+Connection c13e1c5d-770a-438d-8dce-544c892189f6 8a3c51bf-ef07-4819-b17f-04da05bcc203 0a238e7a-c909-4b46-bb78-582c07e94cb0 8 1.0
+Connection c4a729e8-7c00-4c8f-8b9a-7c7534e23827 9e58f865-c106-4145-9e06-ae635cd4baba 4972ee84-5e06-4371-8f62-9a70002d4f42 40 1.0
+Connection f5499eee-cd8f-45e3-8955-dc3dd730dda1 bfbdaa4a-15a0-422e-9b06-fe6732c63234 e36e40c8-c7d5-4364-aa89-952a5d38d69b 4 1.0
+Connection 9e661d27-61e5-49f2-bfe5-0fb9807c8ad5 95ce8aed-612c-46d3-ac60-38f4ba60ae47 e36e40c8-c7d5-4364-aa89-952a5d38d69b 4 1.0
+Connection 0d629e3d-d325-4f15-bb87-1b76d4a95f37 597404fe-0e02-4907-b466-38ca26d2cfa8 bfbdaa4a-15a0-422e-9b06-fe6732c63234 4 1.0
+Connection 3d90a120-abb0-4265-888a-b5b616d2141f e607e50f-6572-4718-bfcb-3b9fe3989a76 95ce8aed-612c-46d3-ac60-38f4ba60ae47 8 1.0
+Connection d2b57838-c24b-4385-bf7a-852143f01251 e36e40c8-c7d5-4364-aa89-952a5d38d69b 135347c9-4f10-43e3-bb8b-a71c0fc2993a 40 1.0
+Connection 0f85b21a-1b2e-43bb-b1ba-2a3b4577b9e7 4d45876f-27ae-4069-8666-116ac6b8ccbb 8a3c51bf-ef07-4819-b17f-04da05bcc203 4 1.0
+Connection d2af3f35-2398-4ee1-9326-a6a2672d4c2f f5074b2f-b6e7-4ce4-b13d-54eb0ab45baa e607e50f-6572-4718-bfcb-3b9fe3989a76 4 1.0
+Connection f9b9f7c7-9cda-4039-b03c-2be9290fd3e5 1fa45c7a-7407-4700-9fa5-4607dddb313a 9ffbae9b-6a61-4f5f-a753-add6d1de6cf7 4 1.0
+Connection 481b8c19-e7e2-41c6-be9f-a3a1c42557ad b70e9d30-eba3-49c2-a271-be751c6cef41 9ffbae9b-6a61-4f5f-a753-add6d1de6cf7 4 1.0
+Connection 3a4cb0a4-7ca5-4f94-bef5-21e877646226 69f88981-32cc-4f73-8a02-bf29a42dcaba 13a9db87-7734-4cf7-a14d-f3640b0f2973 4 -1.0
+Connection aac84c35-cca6-494c-927f-73ec1a9d016e 13a9db87-7734-4cf7-a14d-f3640b0f2973 df36433b-b99f-4d6f-8da0-ffb2239285eb 4 1.0
+Connection 0a08140b-1103-4e60-a712-262f4fee87be ad379a68-3c75-4dc8-bc6b-f4e448e010f5 c36f4c4a-fbbb-45fd-a856-61f46c489843 4 1.0
+Connection a6a66242-4336-4ba1-a5dd-a5f7b3da7d04 471cb3a9-6cb8-430b-ab66-60f1deb96408 c36f4c4a-fbbb-45fd-a856-61f46c489843 4 1.0
+Connection d0069b33-4eea-4c2d-be6b-588421a65464 df36433b-b99f-4d6f-8da0-ffb2239285eb 471cb3a9-6cb8-430b-ab66-60f1deb96408 4 1.0
+Connection e8398884-5e48-484c-a4eb-040a14d976e0 ea6542a0-fd07-4cf5-bb98-843db5ffb9ae 86cdfd1d-e22b-457b-ac66-d2f9c64e2238 4 1.0
+Connection d18998d9-1cc4-4df6-af9b-4e68df341489 30e30583-23c7-4e36-8540-2aa337e46f1e e90f528a-6146-4b15-95e7-58e7e7683c04 4 1.0
+Connection 0b849c81-98a7-4037-8d4c-e2db8deddf1c 93368e6d-87c5-4de3-8a41-07866f456f48 99ebe23c-7eb5-47b1-9ce4-a2a66d757eb0 4 1.0
+Connection e8b0bfce-1fa4-47ad-95a4-cdaac9dcdb5b 179d9e4e-6f79-49ce-8f06-10c10ef44dbf 6fcb7ebc-8a12-413c-be41-126ab342c0e3 4 -1.0
+Connection e345f8c4-f19b-4670-8c12-49089b33b416 6fcb7ebc-8a12-413c-be41-126ab342c0e3 9615db78-cce3-41b7-a781-117721c3c53c 4 1.0
+Connection eb907a1e-1b9b-43f0-8a44-4e3cedfb79be ca34d5cc-0184-4228-bd0b-3f70a0490fe1 894fe2dd-4017-44b2-8891-85c5b47d4f06 4 1.0
+Connection 4799cf1b-b74d-4cca-ba88-359f992e6789 7744c3f1-b653-4ce9-b761-5a07c7cdc507 894fe2dd-4017-44b2-8891-85c5b47d4f06 4 1.0
+Connection e51b47b6-3849-4d15-9887-03d10c8eca4b 73b8f05f-ca51-4ebf-87d7-0a10dda0419c 0a37c907-2b0a-4fae-bddb-4ee058b2da55 4 1.0
+Connection 391e53a2-52f5-4686-8092-4ffb2b0cf416 e907dbb0-d9f8-4d1d-9cba-3203cb43567d 0a37c907-2b0a-4fae-bddb-4ee058b2da55 4 1.0
+Connection 61f05658-c874-4d65-b137-9a12d9ca5994 0a37c907-2b0a-4fae-bddb-4ee058b2da55 32ded4ed-10c3-4d92-8134-918489f0a70d 4 1.0
+Connection 9684522c-6edb-4977-bfb3-ecce61cafa2c 99ebe23c-7eb5-47b1-9ce4-a2a66d757eb0 179d9e4e-6f79-49ce-8f06-10c10ef44dbf 4 1.0
+Connection b1ad5283-a51e-4b1f-b368-4efe2a588c85 86cdfd1d-e22b-457b-ac66-d2f9c64e2238 ca34d5cc-0184-4228-bd0b-3f70a0490fe1 4 1.0
+Connection d6b24295-b0df-434c-b027-f7ec9e7894b7 e90f528a-6146-4b15-95e7-58e7e7683c04 7744c3f1-b653-4ce9-b761-5a07c7cdc507 4 1.0
+Connection 68fd0443-c8a7-4df1-bf22-480be2f3680a 9615db78-cce3-41b7-a781-117721c3c53c 73b8f05f-ca51-4ebf-87d7-0a10dda0419c 4 1.0
+Connection 50dcc364-4520-48c7-9b29-9077880ceb05 894fe2dd-4017-44b2-8891-85c5b47d4f06 e907dbb0-d9f8-4d1d-9cba-3203cb43567d 8 1.0
+Connection 00b1bc01-f4ef-4bfb-bc27-4df0f2e565aa 4fdc1628-9231-4ca1-8496-6c0d29f43aa4 d74d435a-4e7a-4891-af54-315362ab2dd3 4 -1.0
+Connection 6d16c26d-d7f4-40b1-b16f-b4890ea8a97d d74d435a-4e7a-4891-af54-315362ab2dd3 08f67d8b-5d66-4cc9-8968-50c47e1c2c02 4 1.0
+Connection 03347561-e113-448a-96fd-ab893b20e4cc abdfe597-fd21-409a-a934-2d8f27837665 5b1fca52-b174-493e-bde8-b71b052ed248 4 1.0
+Connection 266ab9bb-3b06-4321-8ca3-0e324295c186 3aa28cfb-58bf-401a-97d3-fe80a810bcc6 5b1fca52-b174-493e-bde8-b71b052ed248 4 1.0
+Connection 6175fa73-c6f3-4fec-94e2-0806c1a82be1 5b1fca52-b174-493e-bde8-b71b052ed248 f2428495-5f0f-453f-b614-cf16b5a67d5a 16 1.0
+Connection fd6938c0-eadb-4e50-ae3a-1bced77426ee 08f67d8b-5d66-4cc9-8968-50c47e1c2c02 8de4ed38-fb91-4de7-a7cc-03698876930d 4 1.0
+Connection dc9ebce4-5911-4c23-9e85-09da3c98de90 5b1fca52-b174-493e-bde8-b71b052ed248 ea6542a0-fd07-4cf5-bb98-843db5ffb9ae 16 1.0
+Connection 9d2802d0-2d74-4fe1-a1ef-c624fed23983 5b1fca52-b174-493e-bde8-b71b052ed248 4fdc1628-9231-4ca1-8496-6c0d29f43aa4 4 1.0
+Connection f02b0a44-fb67-4d38-83c5-af5d480cd3a2 32ded4ed-10c3-4d92-8134-918489f0a70d abdfe597-fd21-409a-a934-2d8f27837665 4 1.0
+Connection 2bf6abe8-b14f-43ad-9e71-1400fbd9fd36 32ded4ed-10c3-4d92-8134-918489f0a70d 3aa28cfb-58bf-401a-97d3-fe80a810bcc6 4 1.0
+Connection a1096f1a-b662-434f-9ad5-ee428b2ad8f8 3413bc8f-510a-45ef-9903-e18d0226572a 3c93bdf7-1805-454a-a374-e0f3f7a63f6f 52 1.0
+Connection 095797fb-33b0-4183-8cf2-6b90e5ff59be 3c93bdf7-1805-454a-a374-e0f3f7a63f6f f3387576-d9e9-41b4-b2c6-09b13c162968 4 1.0
+Connection 388412c5-c0e7-4147-b42c-32c2d85c4711 f3387576-d9e9-41b4-b2c6-09b13c162968 3c93bdf7-1805-454a-a374-e0f3f7a63f6f 48 1.0
+Connection bbffab86-f079-467d-a79a-fd0121eb80c8 3413bc8f-510a-45ef-9903-e18d0226572a 3c93bdf7-1805-454a-a374-e0f3f7a63f6f 52 1.0
+Connection 5520e60a-dafa-43f4-a0b2-29942d31d524 e43e4048-0961-45e3-88ed-793536a97bb1 ed4f2f72-2629-494a-91cb-1d92297b9127 4 1.0
+Connection e2d84e40-982f-4a08-beea-60ae0a3a6086 ded7dbcf-390f-46fe-b24e-b3559641eaca ed4f2f72-2629-494a-91cb-1d92297b9127 4 1.0
+Connection 753a2954-bf35-4d53-8859-1f0fef8ee57f f3387576-d9e9-41b4-b2c6-09b13c162968 e43e4048-0961-45e3-88ed-793536a97bb1 4 1.0
+Connection a2e68200-f2c1-4299-a4cb-2160f2c12b7d f2c004ae-db41-48f3-b1fa-05ef5c824e87 ded7dbcf-390f-46fe-b24e-b3559641eaca 8 1.0
+Connection f532fb89-3fd1-43ba-9184-457d284e8e89 ed4f2f72-2629-494a-91cb-1d92297b9127 30e30583-23c7-4e36-8540-2aa337e46f1e 40 1.0
+Connection 384513b4-44fb-452b-b9d0-20997ed295cb 1576eab5-2c44-4c46-b0d7-b2c0d94f53da 7487fea9-88d2-414f-b832-ccd70d4d28a4 4 1.0
+Connection 8bdb6c56-191e-4dbc-a37a-eced305e43d7 b56ae229-b511-4956-a066-5900ad0d4754 7487fea9-88d2-414f-b832-ccd70d4d28a4 4 1.0
+Connection 70f9b9d6-e483-4d98-bd3a-1ef784fe1732 f3387576-d9e9-41b4-b2c6-09b13c162968 1576eab5-2c44-4c46-b0d7-b2c0d94f53da 4 1.0
+Connection 6d3be9c2-c65e-455d-b4ae-502aa78a94c1 97aa4e53-e69d-4867-a5b1-38fd467fdccd b56ae229-b511-4956-a066-5900ad0d4754 8 1.0
+Connection b0146629-fa45-4ebc-9887-37338667fb4e 7487fea9-88d2-414f-b832-ccd70d4d28a4 93368e6d-87c5-4de3-8a41-07866f456f48 40 1.0
+Connection b1a19510-fcdd-44b8-9a13-4185e5f12893 9ffbae9b-6a61-4f5f-a753-add6d1de6cf7 f2c004ae-db41-48f3-b1fa-05ef5c824e87 16 1.0
+Connection de2f0287-e77c-4433-8771-c4d3eb477b20 c36f4c4a-fbbb-45fd-a856-61f46c489843 97aa4e53-e69d-4867-a5b1-38fd467fdccd 4 1.0
+Connection 5f4a5629-412d-49be-b61c-03f69629c063 218c4fbb-173f-4f83-9266-42495b05f673 25c649bf-8365-41cd-b0d1-98d80965cd87 4 1.0
+Connection 1c7b9c43-eee1-476a-84b7-329e7d1bf061 c7f75649-b602-4e49-bf86-e014e149afe8 25c649bf-8365-41cd-b0d1-98d80965cd87 4 1.0
+Connection a76a2a9a-2a9e-425e-b2c2-f3fff6586a52 c07c323b-a118-497e-9e27-c852c2bf8b98 4d49992a-5c05-49e6-9614-877376dadb7e 4 -1.0
+Connection 349f5175-c6e1-422f-8fe5-24fcea57a9bf 4d49992a-5c05-49e6-9614-877376dadb7e f3388186-a11d-4bcc-b150-affc41c635c9 4 1.0
+Connection dbc843eb-4471-439a-b17d-779cd0a34b80 82bb7c3f-034c-44c9-b172-befad8c125bb 6776bf1a-0798-47be-bc98-0c1957af2a4f 4 1.0
+Connection 9f9c5dd5-6a05-406a-9f7a-dedd653a30e7 feab5cf3-9ab3-4aaa-8afa-d275c969c225 6776bf1a-0798-47be-bc98-0c1957af2a4f 4 1.0
+Connection ecbf5cb3-3ff5-44bf-82d2-131cc568ad3d f3388186-a11d-4bcc-b150-affc41c635c9 feab5cf3-9ab3-4aaa-8afa-d275c969c225 4 1.0
+Connection 4e048f62-4efa-4f4b-b5e6-b334237f98d2 7f3477ff-681e-43b3-903d-6b5899c81af7 5a393eaf-e0ee-4431-93ee-87f25718cba4 4 1.0
+Connection 579fad19-e088-4bff-8b05-7ca64e974539 282d2319-c537-4b3b-90fe-7d0d5493ce0e f9bf3222-1454-45e9-a6bd-543a637f6b8d 4 1.0
+Connection 35ade5ed-058f-4229-8993-eab6c0b82b4b af61deb6-01c2-4c8c-9744-9ed6b114a646 144f46d5-d97b-4b6a-b4dd-66b5e150c14f 4 1.0
+Connection bf14538f-4cb5-4812-8593-1d009fbfd0be 93861eb2-0169-4051-8fa5-f37de1c2947f 5ef2dfb1-f03a-4dd2-a272-84374d312c47 4 -1.0
+Connection 556353a6-f78c-4af6-a5ba-5b6350ef2a95 5ef2dfb1-f03a-4dd2-a272-84374d312c47 a10175b4-3d59-4bc4-bb9d-5731460a3f17 4 1.0
+Connection af305115-aaa9-425f-b97b-a3daa685e90f 7c396228-c61b-4e0d-a0cf-018290d7418e 38206378-0364-46f6-b7f5-d3a536aa3d8b 4 1.0
+Connection 95ae8785-edd5-430c-9985-dcabf4ac01cd db350c23-65ca-42b7-b658-a6d29ab89b75 38206378-0364-46f6-b7f5-d3a536aa3d8b 4 1.0
+Connection c297485d-a38b-401e-b4eb-50a068319a98 26981d4b-858b-4695-b351-072f29d5ea13 518bfe1d-d543-4130-8a1d-b8434e9d4ef3 4 1.0
+Connection 9b4c6124-309b-488e-9e4e-cdd53bd4aca6 6845c87d-cb97-49c4-914d-7b3cc578b7fb 518bfe1d-d543-4130-8a1d-b8434e9d4ef3 4 1.0
+Connection 7df317f2-713d-4b2c-830e-e35e74c83718 518bfe1d-d543-4130-8a1d-b8434e9d4ef3 ffa7cc04-a217-4d28-88b8-e00c27801795 4 1.0
+Connection fba9047d-f161-496f-91ff-77ea3da8a83e 144f46d5-d97b-4b6a-b4dd-66b5e150c14f 93861eb2-0169-4051-8fa5-f37de1c2947f 4 1.0
+Connection 3c937dee-3f25-4c26-98f2-542cdac273f0 5a393eaf-e0ee-4431-93ee-87f25718cba4 7c396228-c61b-4e0d-a0cf-018290d7418e 4 1.0
+Connection 058282cb-0a4d-46ec-95cf-fdd1c75a9dcc f9bf3222-1454-45e9-a6bd-543a637f6b8d db350c23-65ca-42b7-b658-a6d29ab89b75 4 1.0
+Connection 7177eb89-6b24-4921-b687-2890349d5afb a10175b4-3d59-4bc4-bb9d-5731460a3f17 26981d4b-858b-4695-b351-072f29d5ea13 4 1.0
+Connection 281c5514-9f67-425a-8b9a-a36b42625ccf 38206378-0364-46f6-b7f5-d3a536aa3d8b 6845c87d-cb97-49c4-914d-7b3cc578b7fb 8 1.0
+Connection 773a0dc9-b608-44bb-abb7-c503b4affe20 ab89640b-3c47-4bb4-9f95-89dca6831402 8d1d8fa2-61b3-4e8a-a455-5d90ac4b7db5 4 -1.0
+Connection b0fe8152-e51a-45fe-92f7-08b2afd499be 8d1d8fa2-61b3-4e8a-a455-5d90ac4b7db5 67f63e54-f505-4300-944d-f107c8cc9c6e 4 1.0
+Connection adc9764b-2c83-49fa-8b13-4c4d4a3d5bc1 dd3b99cd-afc9-4162-beba-8c4f1b8e3339 2db895e3-6212-42d6-ad0b-677fa6c13f78 4 1.0
+Connection f89b02dc-9ec5-4098-aec7-1c422bf38eb4 264b3e64-323b-4ed3-b597-b2e806917b9d 2db895e3-6212-42d6-ad0b-677fa6c13f78 4 1.0
+Connection cfd2b22f-24cd-4054-ac1a-8016d737c615 2db895e3-6212-42d6-ad0b-677fa6c13f78 769fa46d-8dc4-4c90-9a3e-1820865e2ac4 16 1.0
+Connection 80356a67-7e9f-470e-92fb-963f0c558cdd 67f63e54-f505-4300-944d-f107c8cc9c6e 734ddc80-c1c1-45ec-9045-8fdb456250c4 4 1.0
+Connection 038e4399-8ef5-4f2f-b3f6-bd51d8e114d9 2db895e3-6212-42d6-ad0b-677fa6c13f78 7f3477ff-681e-43b3-903d-6b5899c81af7 16 1.0
+Connection edd18f77-bccd-4f3f-87eb-4d53138069b4 2db895e3-6212-42d6-ad0b-677fa6c13f78 ab89640b-3c47-4bb4-9f95-89dca6831402 4 1.0
+Connection e907a89c-3288-4c17-9287-79cb0535ffb4 ffa7cc04-a217-4d28-88b8-e00c27801795 dd3b99cd-afc9-4162-beba-8c4f1b8e3339 4 1.0
+Connection e0efda69-9967-4566-97c1-6199637d863c ffa7cc04-a217-4d28-88b8-e00c27801795 264b3e64-323b-4ed3-b597-b2e806917b9d 4 1.0
+Connection 0d77b277-2cb1-43ca-91ce-4804f05d9d17 0bb1f6d8-11a0-47db-a189-4522adc121ff bed36282-2843-4503-af2f-5766c7fe08b2 52 1.0
+Connection c75d55a6-d905-42f9-ad6d-5e504ef8c066 bed36282-2843-4503-af2f-5766c7fe08b2 4f9978ba-ff60-4e17-897a-27267042f68b 4 1.0
+Connection 28ac073b-9435-4d4e-b7e7-586b29de1750 4f9978ba-ff60-4e17-897a-27267042f68b bed36282-2843-4503-af2f-5766c7fe08b2 48 1.0
+Connection 7347bd12-4ac7-4081-9e2c-1c4c408e0b5d 0bb1f6d8-11a0-47db-a189-4522adc121ff bed36282-2843-4503-af2f-5766c7fe08b2 52 1.0
+Connection 88021585-c3e8-4d86-aacc-f4b272e1a6b9 52cb55f9-2e85-43b5-ab40-a6469b07625c df14e046-90b5-4378-8f69-ba3de854aa89 4 1.0
+Connection 6be82a55-d314-4867-940d-c848cfc551d4 429c73e9-f1a5-47cb-b67e-cb242ccc4073 df14e046-90b5-4378-8f69-ba3de854aa89 4 1.0
+Connection c538a6c6-d750-49c3-a16a-726794593d9f 4f9978ba-ff60-4e17-897a-27267042f68b 52cb55f9-2e85-43b5-ab40-a6469b07625c 4 1.0
+Connection 41c40d56-c0eb-471a-b5c9-98be83b6a6a5 ef79c41e-b08d-491c-b49c-88a672d92968 429c73e9-f1a5-47cb-b67e-cb242ccc4073 8 1.0
+Connection 8c70a408-b7dc-4f1c-9125-7c46d8642d21 df14e046-90b5-4378-8f69-ba3de854aa89 282d2319-c537-4b3b-90fe-7d0d5493ce0e 40 1.0
+Connection 24300089-2711-475a-acad-2cd3dc569299 e5541260-d073-4b11-85ea-1ce9acf495f1 87cae756-669e-4418-bda0-3ea76f6a4b03 4 1.0
+Connection 32279298-9327-4c4c-8556-29512a62049f a476f2ea-f610-40b8-944f-f01f6ec2d077 87cae756-669e-4418-bda0-3ea76f6a4b03 4 1.0
+Connection 7d38b1a8-5d65-4aed-b146-c3b581d3f3e5 4f9978ba-ff60-4e17-897a-27267042f68b e5541260-d073-4b11-85ea-1ce9acf495f1 4 1.0
+Connection 88c9d2f0-66df-4a70-b6b0-bf06d3eec82d c22c3bcd-e16a-4345-b5f5-1011a8f87419 a476f2ea-f610-40b8-944f-f01f6ec2d077 8 1.0
+Connection 28432b84-bee5-45b6-a576-40d621ed9048 87cae756-669e-4418-bda0-3ea76f6a4b03 af61deb6-01c2-4c8c-9744-9ed6b114a646 40 1.0
+Connection 2a2767f6-68b3-4273-ae60-33e5c237e572 25c649bf-8365-41cd-b0d1-98d80965cd87 ef79c41e-b08d-491c-b49c-88a672d92968 4 1.0
+Connection 0f13836b-0157-4a53-a661-379aa7a9b055 6776bf1a-0798-47be-bc98-0c1957af2a4f c22c3bcd-e16a-4345-b5f5-1011a8f87419 16 1.0
+Connection 3a1709de-e596-413c-a091-fdeb2da8020a 58280243-aa6d-4934-b669-6eb474b115ac 6dac9db5-86d5-41cc-8cf9-a491841f3630 4 1.0
+Connection 7d21edde-00a3-4b02-84ef-127d52b04b85 84ffb964-b258-45f0-9707-fa0c9195c21e 6dac9db5-86d5-41cc-8cf9-a491841f3630 4 1.0
+Connection 60294bf3-046f-40eb-a4d6-e758db076619 fc92407e-00d0-4773-8069-f790b7707f3f 88f3c7e2-d664-4ecb-a07a-5ee075317611 4 -1.0
+Connection aab5aff9-9808-4fb5-9faa-32c30a569af7 88f3c7e2-d664-4ecb-a07a-5ee075317611 4d08f332-587c-4272-98f7-b212f401473d 4 1.0
+Connection 3e63d33e-d87a-4080-b337-f5fd191b0937 48d7a459-5bfd-42c8-933c-b3d1beb18b0b ed344ac3-0aa6-43bf-a0cf-9c6cc16a363a 4 1.0
+Connection ca125a26-9f32-4973-bd26-272baa039f2d c5229d73-29b9-4dce-ba1c-0a25a6f112d6 ed344ac3-0aa6-43bf-a0cf-9c6cc16a363a 4 1.0
+Connection 851584a2-00a8-4e51-bc44-07f5cc3f08c4 4d08f332-587c-4272-98f7-b212f401473d c5229d73-29b9-4dce-ba1c-0a25a6f112d6 4 1.0
+Connection f5c836c6-f890-4623-9e55-73d277ab4634 4ca6d48d-4ec0-42b3-a354-ceddec410da4 af84ddd1-6b07-4185-9e7f-f38402670443 4 1.0
+Connection e4b4d53e-255c-4c59-b8a9-12750ea7b394 68b93fa7-d44a-4cb7-ba2e-a0687f7ae5e7 3a0af319-69df-4250-a338-29704b632e54 4 1.0
+Connection 83d88a2c-63dc-4bd5-a792-d59cc36af811 231e7005-f56c-4701-824b-608d76c7f6ea 70c9b53f-1cf0-437a-89a3-1fa6a6fbe137 4 1.0
+Connection b5414ce3-b50d-4078-ad59-9c6fb149b52a 0db44436-7f23-4211-99a5-6990381ea2be 2b08ec9a-ddfb-4939-a189-04ba5768e1f7 4 -1.0
+Connection b78421c8-6f3b-46da-9b3d-cbff993700be 2b08ec9a-ddfb-4939-a189-04ba5768e1f7 60dcebc4-ecf0-4205-8389-26a975af0d02 4 1.0
+Connection 5e513ebd-0eae-40c3-8c06-e990401fd725 018525bc-861b-4116-8a0e-944650896cf8 92016e29-0032-499b-93bf-d2129791df46 4 1.0
+Connection 708b7009-a47a-4812-bc37-5956680dc1c2 635d179c-8cc1-4556-b2a2-7e46939073f6 92016e29-0032-499b-93bf-d2129791df46 4 1.0
+Connection 74cebdd5-d5f3-47ee-a3a6-4aa23df70bb6 da974dde-b894-43cf-8c38-5b6f948bafa0 7d5c3bca-8c0e-498c-95ef-c09e2ff54e27 4 1.0
+Connection 5d67c0c6-cf74-49b9-8151-980a7aa79705 15fbf292-7f2b-426c-b19d-42a192fcf37f 7d5c3bca-8c0e-498c-95ef-c09e2ff54e27 4 1.0
+Connection 0a6dc346-687c-43d9-8ce4-1f734df1837c 7d5c3bca-8c0e-498c-95ef-c09e2ff54e27 2eb1d3cb-6a2e-4d6e-821e-25014df37304 4 1.0
+Connection 154e492f-e639-4e53-a74e-54f6e0a3b71c 70c9b53f-1cf0-437a-89a3-1fa6a6fbe137 0db44436-7f23-4211-99a5-6990381ea2be 4 1.0
+Connection 4fd275e4-b013-4b48-93db-f0d2694c9f09 af84ddd1-6b07-4185-9e7f-f38402670443 018525bc-861b-4116-8a0e-944650896cf8 4 1.0
+Connection e7053915-8a6d-448c-a7e2-08d739db4497 3a0af319-69df-4250-a338-29704b632e54 635d179c-8cc1-4556-b2a2-7e46939073f6 4 1.0
+Connection 5b3c9406-b368-45bf-8fa0-011c2e757073 60dcebc4-ecf0-4205-8389-26a975af0d02 da974dde-b894-43cf-8c38-5b6f948bafa0 4 1.0
+Connection 2464ee10-056e-4780-b02d-6ac0aaf01d74 92016e29-0032-499b-93bf-d2129791df46 15fbf292-7f2b-426c-b19d-42a192fcf37f 8 1.0
+Connection f8343524-a608-4a9b-8516-0cbd28fc2b23 6f763400-2de0-4ad8-97a8-660a97866787 9c441051-ecb0-459d-a9c2-460defd7ffa0 4 -1.0
+Connection 51e99004-d0c7-4467-ada4-a2ba6ad73f7a 9c441051-ecb0-459d-a9c2-460defd7ffa0 0b8e48da-fe29-48de-8847-526080f95d66 4 1.0
+Connection c305b5ce-d028-4e76-aa44-4a3a8e4d052b 3f91ab5f-1463-4017-9e40-fd5d21e220f0 18b5bb99-4661-4ef7-9ffa-49e019c5146d 4 1.0
+Connection dfcf49e5-cd9e-4a04-9a89-46530d236829 c7218b57-53ba-4c1d-9799-66ffbd6c40e6 18b5bb99-4661-4ef7-9ffa-49e019c5146d 4 1.0
+Connection 8b8800a0-b5b2-40fb-b6b3-cb25f39bef66 18b5bb99-4661-4ef7-9ffa-49e019c5146d f3b67b38-cbd5-4fae-be7f-edb12e775508 16 1.0
+Connection 0cea6ed6-0f32-4ea6-b14b-1691f8a9df3b 0b8e48da-fe29-48de-8847-526080f95d66 0bf6a7d7-cdc1-435b-b72b-d14f612e20e0 4 1.0
+Connection 450938f6-6db8-4218-b20f-1b54cfebc2af 18b5bb99-4661-4ef7-9ffa-49e019c5146d 4ca6d48d-4ec0-42b3-a354-ceddec410da4 16 1.0
+Connection c663ee5d-2af2-40cd-8dd7-23b88cbe621a 18b5bb99-4661-4ef7-9ffa-49e019c5146d 6f763400-2de0-4ad8-97a8-660a97866787 4 1.0
+Connection 15be3748-1cbc-4fc5-8ce0-0043b4b2877e 2eb1d3cb-6a2e-4d6e-821e-25014df37304 3f91ab5f-1463-4017-9e40-fd5d21e220f0 4 1.0
+Connection d4bd62a9-d9d3-4e4d-a5a7-17c802e6dce1 2eb1d3cb-6a2e-4d6e-821e-25014df37304 c7218b57-53ba-4c1d-9799-66ffbd6c40e6 4 1.0
+Connection cf50234a-e3cc-4a87-9752-0743c454d7ff 2ff6098e-49b0-470a-b282-a69c946b93cc de22d910-87e7-4574-b942-7ae9f8d23995 52 1.0
+Connection a56e62db-bb63-46bb-96c7-688f82d3c9cc de22d910-87e7-4574-b942-7ae9f8d23995 ef1aa39a-a456-4348-adc8-3013bc127c9f 4 1.0
+Connection bebe60f1-12fc-4798-a248-8832e8987148 ef1aa39a-a456-4348-adc8-3013bc127c9f de22d910-87e7-4574-b942-7ae9f8d23995 48 1.0
+Connection b2f8d4bf-ab12-4543-8e5d-8b28ce3b1abf 2ff6098e-49b0-470a-b282-a69c946b93cc de22d910-87e7-4574-b942-7ae9f8d23995 52 1.0
+Connection 66935713-e4a1-402f-a604-92751930f7f3 f9e8305a-a2f1-43f7-a898-33f8535507ad 08d22e2a-c0b9-4085-a8db-2a33b2fb19a4 4 1.0
+Connection e40d3994-d1ef-4fde-86f9-bd8654752fcf bdd5db7a-6795-498f-a918-14e62e589da5 08d22e2a-c0b9-4085-a8db-2a33b2fb19a4 4 1.0
+Connection 093ad7ca-ccdb-4cd3-99af-dc15b8fc9f7c ef1aa39a-a456-4348-adc8-3013bc127c9f f9e8305a-a2f1-43f7-a898-33f8535507ad 4 1.0
+Connection 269ea074-a15e-451d-9f4c-1738df6fea0f eebfe3ac-0ef3-451c-894f-7c5a7248702d bdd5db7a-6795-498f-a918-14e62e589da5 8 1.0
+Connection 440f959d-db99-4a3f-95a3-ac0cdc30b895 08d22e2a-c0b9-4085-a8db-2a33b2fb19a4 68b93fa7-d44a-4cb7-ba2e-a0687f7ae5e7 40 1.0
+Connection 581cd483-bb39-4012-8950-dbf8ba956c86 df19889c-8826-4b09-8306-8c348c58ecb3 96eb247c-eb65-44b8-aa57-70ea6961d42e 4 1.0
+Connection f34acd34-2389-4598-813b-1db72357d7a0 7bef6f57-1dac-4a19-93d3-1491e77c0bc5 96eb247c-eb65-44b8-aa57-70ea6961d42e 4 1.0
+Connection 795d4813-ff0d-4dee-be0a-11d438b2a54b ef1aa39a-a456-4348-adc8-3013bc127c9f df19889c-8826-4b09-8306-8c348c58ecb3 4 1.0
+Connection ecd88cf9-fa98-4504-9bfc-33944a629d41 9d28490b-2bd5-4a7b-9a72-264cf74aff95 7bef6f57-1dac-4a19-93d3-1491e77c0bc5 8 1.0
+Connection 952a72a8-103a-47ba-a36e-0abe94ff5b1c 96eb247c-eb65-44b8-aa57-70ea6961d42e 231e7005-f56c-4701-824b-608d76c7f6ea 40 1.0
+Connection 3d90fb53-bf66-4942-ab9d-f390e56990ff 6dac9db5-86d5-41cc-8cf9-a491841f3630 eebfe3ac-0ef3-451c-894f-7c5a7248702d 16 1.0
+Connection 87d83b72-9f38-49dc-adb2-d03fb6016438 ed344ac3-0aa6-43bf-a0cf-9c6cc16a363a 9d28490b-2bd5-4a7b-9a72-264cf74aff95 4 1.0
+Connection 192fb144-880d-490f-b2a5-4490194d7f26 d5289730-a3a6-497c-ac0d-f1444c0244c8 4b15d878-6b65-459c-a041-816e1d27472e 4 1.0
+Connection b9a76787-94b8-4193-b83d-cac8200c297d 1c52b3c4-f806-4cf0-b420-643a3e558be0 4b15d878-6b65-459c-a041-816e1d27472e 4 1.0
+Connection 9b95ae79-9e89-4888-a6d3-ddf421f653bb 49122ccc-ac21-4fb6-8578-30fb317685ef b41f19fc-973c-461e-8eeb-d3cee192b0f5 4 -1.0
+Connection c6c93927-335e-4282-a1ed-517866261fd7 b41f19fc-973c-461e-8eeb-d3cee192b0f5 ecdb89f7-7bd7-441b-b064-71468bcfaaca 4 1.0
+Connection 1ec4a16d-eda7-4faf-b7fc-57f5b83d3b70 e65c7195-3c6f-45f3-bb7b-29c65b3b8da0 bc29a24c-8412-4123-b53f-776e1f39820f 4 1.0
+Connection 45b042da-201a-450f-8bf3-76919c6a50c9 da768f28-1c0f-4081-a931-1626d7686c23 bc29a24c-8412-4123-b53f-776e1f39820f 4 1.0
+Connection 7302527e-06a2-4de7-91ab-05618dbcb6ff ecdb89f7-7bd7-441b-b064-71468bcfaaca da768f28-1c0f-4081-a931-1626d7686c23 4 1.0
+Connection af43da73-cdaf-4892-a320-755b3b57b89d 001b58f6-3d6e-4735-bded-996f0238c4f9 fe1b5ceb-e62a-4584-a640-2256c8004f0c 4 1.0
+Connection 063a9c1d-1227-4880-8da1-b7f9f73d4a98 4f096ba2-9881-4dd1-b563-b7ba1a82e9fb 3b764dd1-20c5-41f6-95a5-66690beb7573 4 1.0
+Connection a9f730d9-63e7-4ab3-a919-62a9c1cdc607 19f32af3-f819-4409-9743-bca9acd4accf 5d80b15c-aec6-41be-b1ac-8465149bbfee 4 1.0
+Connection 43f3f238-7578-4272-92b1-41e909b6ba22 49418f07-20a1-417c-aae9-c0e135f98a6e 965f165e-b511-4885-89e3-ac396029bb52 4 -1.0
+Connection f557511a-5683-491d-8592-797e46d932cf 965f165e-b511-4885-89e3-ac396029bb52 3df1346a-328c-482e-b2be-ee1d51ae6307 4 1.0
+Connection 04757a3d-8056-4520-973c-3d53550c21b4 6d3b1d45-e319-45a5-abf9-2f8ae1b83d67 f1780ae9-8629-4fca-bc47-f5fc363f33bd 4 1.0
+Connection d42b674f-d7e1-4c9b-87c3-0559a8cf9cb4 879d9e98-903a-4f93-b33b-4270a90e0840 f1780ae9-8629-4fca-bc47-f5fc363f33bd 4 1.0
+Connection 2eecc295-3825-4460-9edc-b277e15b2ee2 c672f0dc-caa9-4843-9ed8-548dea55cc9a e1eb0325-f6d0-46c2-bf76-e0c0917aad0e 4 1.0
+Connection e170e9d2-2b04-4989-962f-25fb9fa19c70 86f16e75-2344-4ea6-8c62-81712274e14a e1eb0325-f6d0-46c2-bf76-e0c0917aad0e 4 1.0
+Connection ccd9ee96-d338-4615-84a1-3496a0adc445 e1eb0325-f6d0-46c2-bf76-e0c0917aad0e c5089474-e380-400a-8191-290779bd80d1 4 1.0
+Connection 524e4ffe-1869-4f0d-b932-e1a1a5f16a10 5d80b15c-aec6-41be-b1ac-8465149bbfee 49418f07-20a1-417c-aae9-c0e135f98a6e 4 1.0
+Connection 647cea93-27ab-45d5-9498-6f5f7cf90740 fe1b5ceb-e62a-4584-a640-2256c8004f0c 6d3b1d45-e319-45a5-abf9-2f8ae1b83d67 4 1.0
+Connection e70f9f14-548e-4b1a-83ef-fd1c1d4d2b76 3b764dd1-20c5-41f6-95a5-66690beb7573 879d9e98-903a-4f93-b33b-4270a90e0840 4 1.0
+Connection daded65c-11af-4aec-88fa-296a9435d227 3df1346a-328c-482e-b2be-ee1d51ae6307 c672f0dc-caa9-4843-9ed8-548dea55cc9a 4 1.0
+Connection 0436fb1e-3a54-4f11-88c2-e7c802574130 f1780ae9-8629-4fca-bc47-f5fc363f33bd 86f16e75-2344-4ea6-8c62-81712274e14a 8 1.0
+Connection 21093ac5-6488-45ba-895d-867534d4b046 ec676d16-5e44-4a60-aec2-81cc2121792f 1421f1c7-87c2-4724-aae1-3e23684918f5 4 -1.0
+Connection 6ed5e07b-a41a-4841-bd8d-e34ff3f7ac2e 1421f1c7-87c2-4724-aae1-3e23684918f5 bb4e44e2-7fa1-4256-8fb2-2cbc7190fa0b 4 1.0
+Connection d770db9a-c3ad-4035-a9c1-2f56aeae860d 0543a8f6-35d2-41ad-8026-f91c88605245 5806b458-9ad0-4ede-a841-b3d6a71130ee 4 1.0
+Connection 7e1b0627-0405-48a7-88bc-cc2e50457da9 fb2e3969-229e-44d7-8a17-917861284597 5806b458-9ad0-4ede-a841-b3d6a71130ee 4 1.0
+Connection 9e53bd4b-ea1c-431d-8b0c-12aeb276e3d2 5806b458-9ad0-4ede-a841-b3d6a71130ee f14542b7-8c5c-4fe3-8d04-7a093da07144 16 1.0
+Connection df3cbef8-450e-4e84-9800-be364fa638de bb4e44e2-7fa1-4256-8fb2-2cbc7190fa0b fa1b0e9a-e974-4edd-bb1e-85a97e851ac7 4 1.0
+Connection fe2c3001-e155-4c8f-9099-82d319fea84a 5806b458-9ad0-4ede-a841-b3d6a71130ee 001b58f6-3d6e-4735-bded-996f0238c4f9 16 1.0
+Connection 7843ace5-d237-46b2-bf34-100a4e6c4789 5806b458-9ad0-4ede-a841-b3d6a71130ee ec676d16-5e44-4a60-aec2-81cc2121792f 4 1.0
+Connection 2b9d5c61-a6ee-446c-958a-b3c923f8c01a c5089474-e380-400a-8191-290779bd80d1 0543a8f6-35d2-41ad-8026-f91c88605245 4 1.0
+Connection 1f2fa2f1-bc02-4cac-b56e-5bd9dc5c103f c5089474-e380-400a-8191-290779bd80d1 fb2e3969-229e-44d7-8a17-917861284597 4 1.0
+Connection be16784b-116a-440c-a7cb-1569553f58e6 d34d4518-399f-4cb0-9fc6-13fc11f86ef9 a4c33045-f449-4ee0-aa86-d69d43546dde 52 1.0
+Connection e3e1fd42-4586-45b7-9475-fad1c22f3c1e a4c33045-f449-4ee0-aa86-d69d43546dde 365149e1-f0ff-4806-8978-f072be4ac16a 4 1.0
+Connection 055c6b8e-be99-475a-a6b3-29a48094ae9c 365149e1-f0ff-4806-8978-f072be4ac16a a4c33045-f449-4ee0-aa86-d69d43546dde 48 1.0
+Connection 7ecff3bd-c990-44cf-988f-052e016c1018 d34d4518-399f-4cb0-9fc6-13fc11f86ef9 a4c33045-f449-4ee0-aa86-d69d43546dde 52 1.0
+Connection e7806489-8b09-4623-9cdd-025a3bf39c8e c4bc176a-2a3a-4662-a928-f0fd58a8556a 5e50124d-4aa8-446f-9852-f727f5227575 4 1.0
+Connection 9322fda6-9a9e-4187-adfa-56435d039b27 c4d5c7b7-390a-49ba-8fd9-a4291e5f247d 5e50124d-4aa8-446f-9852-f727f5227575 4 1.0
+Connection 3d347cfa-dd25-4983-b197-0cd32c7cb9fe 365149e1-f0ff-4806-8978-f072be4ac16a c4bc176a-2a3a-4662-a928-f0fd58a8556a 4 1.0
+Connection 73f91ad9-9999-40a0-91ac-9cd0d30af416 f3880d49-50da-4e10-a4d5-2ccaa960e99c c4d5c7b7-390a-49ba-8fd9-a4291e5f247d 8 1.0
+Connection 21e6b9d3-4db9-4e25-85c8-7738e59a6d05 5e50124d-4aa8-446f-9852-f727f5227575 4f096ba2-9881-4dd1-b563-b7ba1a82e9fb 40 1.0
+Connection cc7ae9e7-879e-4dc2-a2a4-6a7009125010 86a2fd2c-94f9-4370-96fb-608e73290816 fe18e2f2-36b2-484c-a0fe-32d09d1b44c0 4 1.0
+Connection 6de8853f-a548-4785-89b8-0318b3763a64 d15c4f4b-55be-488d-8098-e6280a9ab35b fe18e2f2-36b2-484c-a0fe-32d09d1b44c0 4 1.0
+Connection 690933e3-30bb-4094-a540-22bd03f02f8a 365149e1-f0ff-4806-8978-f072be4ac16a 86a2fd2c-94f9-4370-96fb-608e73290816 4 1.0
+Connection 39fc1a5c-886d-4362-8185-f93fec895569 1a350a43-cfd1-4295-8c92-894f728ae551 d15c4f4b-55be-488d-8098-e6280a9ab35b 8 1.0
+Connection 2ca8725e-0abb-4174-bc86-1ef15d821405 fe18e2f2-36b2-484c-a0fe-32d09d1b44c0 19f32af3-f819-4409-9743-bca9acd4accf 40 1.0
+Connection 70e35769-6ca0-4453-ba16-25f9fef102a5 4b15d878-6b65-459c-a041-816e1d27472e f3880d49-50da-4e10-a4d5-2ccaa960e99c 4 1.0
+Connection 83d53775-56f3-4523-93d6-0712949a2a2d bc29a24c-8412-4123-b53f-776e1f39820f 1a350a43-cfd1-4295-8c92-894f728ae551 4 1.0
+Connection 964b132a-39fa-46c8-b5a4-909d59d293de 5b3cbd1d-4238-45f7-84d4-88eebb7b98e4 c7765509-ccfd-4fd6-8029-4a138c268e47 4 1.0
+Connection a65696c5-e0cc-4bcd-88eb-1bd5ad70f463 750fbc29-bb64-40be-a3c8-e48392fc42c0 c7765509-ccfd-4fd6-8029-4a138c268e47 4 1.0
+Connection f8c4dba2-ccd3-42d9-a773-8b36c6b3a3a9 c7990031-8f4b-49b0-b3ac-2b2db6f90c48 9ca77893-75a4-45cd-b0a1-ae57802e29e2 4 -1.0
+Connection 3a319013-0f8c-4889-8f21-5bf5d21c82a3 9ca77893-75a4-45cd-b0a1-ae57802e29e2 3fd4ec1a-4c8c-464a-afa8-a28ce5d12d77 4 1.0
+Connection e1e9f966-ee74-4a50-bef4-d8e838bfca60 e3b22716-6905-44f4-8625-3a735902e492 3cc3c146-ec3f-4706-9b64-981fe120a60e 4 1.0
+Connection f884b7c2-279d-4d7a-b1a3-a120e9b4bc93 cc8e4c51-0ebf-4c17-b73b-6ba891b13a85 3cc3c146-ec3f-4706-9b64-981fe120a60e 4 1.0
+Connection 1d04e5c9-7cf0-4658-a72e-8d084d99efdb 3fd4ec1a-4c8c-464a-afa8-a28ce5d12d77 cc8e4c51-0ebf-4c17-b73b-6ba891b13a85 4 1.0
+Connection fd7d7658-5f52-4deb-bbe2-b16f91eb7727 b49f51a5-d046-489d-8f5c-b72b2f630574 581a3543-88d7-429f-ba5a-94083f47d25c 4 1.0
+Connection bedd1ec3-fdc0-40e5-8f9f-0d9f79126752 4bd68322-c3d2-4909-b3af-5355a53b8fef 139dba0f-9035-4f31-97c5-79a146240895 4 1.0
+Connection b8c7a72a-30c7-4d26-b239-adbcdc71165e 5fa04c49-17ab-4efe-b199-599e5326951c 29e713f4-9e2e-4da0-b43b-33a0ca2aed98 4 1.0
+Connection 126ae7cd-34af-4fbf-88cb-c3d252f4ae60 28ea7223-4e89-4c35-8a10-36ae6eeb5a46 80b6495c-60f3-4394-a342-031cfe312d70 4 -1.0
+Connection 97ea89b8-00cd-4710-8ba9-36ac873db6cc 80b6495c-60f3-4394-a342-031cfe312d70 fbd9e5be-5c0a-46ef-be63-9266b325ab6b 4 1.0
+Connection 8e00d01c-db28-4207-a7ef-b271556c1571 5e39707c-a5f3-48a9-a22b-839ca8f71e76 743203af-9c68-4c23-9acb-ebc0061a9b45 4 1.0
+Connection 94f168ab-a56e-4da7-a4e9-128023140548 1a589c6b-19c6-4309-aa6c-b87b9bdaa746 743203af-9c68-4c23-9acb-ebc0061a9b45 4 1.0
+Connection 6310f8e0-ef2f-46bf-8201-2a5e27b9e363 6312ed48-84d7-48f4-9c65-97953a6355c3 a8c61e77-5874-4a8b-8e61-45354b708b0d 4 1.0
+Connection bbcdeae8-c3da-44d4-996f-9751fd71faa1 2c7fda44-a479-4cfa-9f48-1f280432aa59 a8c61e77-5874-4a8b-8e61-45354b708b0d 4 1.0
+Connection f97a8c08-7dda-48fb-abdf-d2aae224be76 a8c61e77-5874-4a8b-8e61-45354b708b0d 4e0bf1a7-00bb-4c62-ad57-044e99a6f8ba 4 1.0
+Connection 1f576e0d-8c26-4e90-b36e-063f62d3ed96 29e713f4-9e2e-4da0-b43b-33a0ca2aed98 28ea7223-4e89-4c35-8a10-36ae6eeb5a46 4 1.0
+Connection dd737a2b-5eea-4d28-82ae-5886d45dc194 581a3543-88d7-429f-ba5a-94083f47d25c 5e39707c-a5f3-48a9-a22b-839ca8f71e76 4 1.0
+Connection f83b5226-1421-45b5-bf01-5da8d1567b2e 139dba0f-9035-4f31-97c5-79a146240895 1a589c6b-19c6-4309-aa6c-b87b9bdaa746 4 1.0
+Connection be493dae-d407-4552-a67f-39ff4ae7595f fbd9e5be-5c0a-46ef-be63-9266b325ab6b 6312ed48-84d7-48f4-9c65-97953a6355c3 4 1.0
+Connection 2e43610c-2976-438f-9b10-3ea672baff5c 743203af-9c68-4c23-9acb-ebc0061a9b45 2c7fda44-a479-4cfa-9f48-1f280432aa59 8 1.0
+Connection f5766270-7716-47a2-aa78-171e3c379aca 6115c833-6d50-4419-bf2c-f70db290297c 8d20888f-19b6-4c84-8567-5e950db4e04b 4 -1.0
+Connection c7e467f9-e07a-458a-8b68-f7986bfbfc6f 8d20888f-19b6-4c84-8567-5e950db4e04b 07a02f4d-5c02-4498-848c-e5dff574a09f 4 1.0
+Connection 9ea80b79-8fc1-4441-8b58-6af3e4f78d31 a58702ff-2f6e-48b7-9c0a-2523cfb14d58 7dd2cd3f-0bac-4c47-9813-0ca9c730d4fa 4 1.0
+Connection 2f7232f8-bddd-43de-9962-545a85593c87 6915e694-aef0-4f7a-bd84-2d8aab7fa831 7dd2cd3f-0bac-4c47-9813-0ca9c730d4fa 4 1.0
+Connection 28b61bf9-79a8-44e4-87e1-514725424413 7dd2cd3f-0bac-4c47-9813-0ca9c730d4fa f71a2a6b-f0a5-45da-8ae2-786a3d368661 16 1.0
+Connection e3c72c98-cd1c-40ee-a036-27c84c150815 07a02f4d-5c02-4498-848c-e5dff574a09f 65e086e7-897b-489c-ab44-7533e9fd8025 4 1.0
+Connection 41d09bc3-054d-4f4b-9538-057aa9422501 7dd2cd3f-0bac-4c47-9813-0ca9c730d4fa b49f51a5-d046-489d-8f5c-b72b2f630574 16 1.0
+Connection 3cf68fc0-93af-4c99-af21-7ec69e84d17b 7dd2cd3f-0bac-4c47-9813-0ca9c730d4fa 6115c833-6d50-4419-bf2c-f70db290297c 4 1.0
+Connection 0287121e-60aa-40e4-962e-bd437f415479 4e0bf1a7-00bb-4c62-ad57-044e99a6f8ba a58702ff-2f6e-48b7-9c0a-2523cfb14d58 4 1.0
+Connection c06b2eea-6870-4959-963f-9c3e09f4b4b3 4e0bf1a7-00bb-4c62-ad57-044e99a6f8ba 6915e694-aef0-4f7a-bd84-2d8aab7fa831 4 1.0
+Connection acedf4c6-ac87-4483-9a10-9b17f2a778ff dc861085-2116-448b-829e-36253ccb0d0f 49dda397-b41a-49ed-a9e3-2c6539150eea 52 1.0
+Connection 32c037d4-2160-4278-aaf0-1991a65e7017 49dda397-b41a-49ed-a9e3-2c6539150eea a55609e5-3e0c-4530-acef-a39bb0aea38f 4 1.0
+Connection 43fd090e-0edf-40b0-a162-39abb2080587 a55609e5-3e0c-4530-acef-a39bb0aea38f 49dda397-b41a-49ed-a9e3-2c6539150eea 48 1.0
+Connection 2734f2e3-4947-4b61-8698-9878b7e9a7be dc861085-2116-448b-829e-36253ccb0d0f 49dda397-b41a-49ed-a9e3-2c6539150eea 52 1.0
+Connection eef59bab-fcd7-4417-b7ee-92235eb095de b6951387-4777-4044-998e-8ef8fe47cbdf 762b45e5-ce62-426b-a872-b8f4f671b2e7 4 1.0
+Connection f1431df9-f76e-44c5-9bba-0adbd6427485 0beca04d-6ce9-4e79-a2cd-734d9255910a 762b45e5-ce62-426b-a872-b8f4f671b2e7 4 1.0
+Connection c2a54a27-d4b9-49f2-abd5-071d018b1df2 a55609e5-3e0c-4530-acef-a39bb0aea38f b6951387-4777-4044-998e-8ef8fe47cbdf 4 1.0
+Connection 6d98b752-e75c-40c1-bf95-83d8f75d06a0 a5e336af-f2d8-4f8d-b095-00477dc959a6 0beca04d-6ce9-4e79-a2cd-734d9255910a 8 1.0
+Connection 167879bb-fbe9-49f6-ae20-8d4261abfdba 762b45e5-ce62-426b-a872-b8f4f671b2e7 4bd68322-c3d2-4909-b3af-5355a53b8fef 40 1.0
+Connection bb0d02c1-9760-49ee-9045-837763655774 97a5498e-e06a-4c8c-9364-bb617c4d0c93 8f79a80d-01d7-45c8-bf03-239bcab85168 4 1.0
+Connection b6b7fc94-1bdb-40c7-857b-828465d06377 4687f755-8c9c-40ba-beae-a18a2698c592 8f79a80d-01d7-45c8-bf03-239bcab85168 4 1.0
+Connection 66f8caca-7cf1-4246-b2a3-073b778985cc a55609e5-3e0c-4530-acef-a39bb0aea38f 97a5498e-e06a-4c8c-9364-bb617c4d0c93 4 1.0
+Connection 1db595a8-0706-41e8-9770-969ac95674a0 845339ed-b570-4acb-9bdb-720bd4f817fb 4687f755-8c9c-40ba-beae-a18a2698c592 8 1.0
+Connection 4f021e35-0579-4fd5-8f32-eeceabcdb656 8f79a80d-01d7-45c8-bf03-239bcab85168 5fa04c49-17ab-4efe-b199-599e5326951c 40 1.0
+Connection ab2f5553-2290-4395-88dc-1fa2fd6b9ec6 c7765509-ccfd-4fd6-8029-4a138c268e47 a5e336af-f2d8-4f8d-b095-00477dc959a6 16 1.0
+Connection 9f3c9a5a-324f-4d30-8592-879c88393acc 3cc3c146-ec3f-4706-9b64-981fe120a60e 845339ed-b570-4acb-9bdb-720bd4f817fb 4 1.0
+Connection 353dba23-fe9e-4630-897a-a5f246d272f5 874b6a76-b1b8-4976-a1f0-9d0b8438f265 fa3f314a-f7e4-4650-9e00-61cfb5316379 4 1.0
+Connection 63cac718-dba8-4f27-a748-e6ffbb649856 c98715b9-70ac-4364-98c5-961585917493 b4e6b88a-c4bd-4e96-ae80-5aecb1623c34 4 1.0
+Connection a36fba8a-86c8-4e66-ab83-b3e181d56d86 4ff7a022-6816-4fe8-93f9-390ef8d00d0a 5a4dc4ab-0fb6-476e-9077-dbe452d4e178 16 1.0
+Connection 5fae4a5e-002c-4c01-89f0-b404468b800b f2428495-5f0f-453f-b614-cf16b5a67d5a f887330b-c8f5-44ab-b755-b52a42d2c125 16 1.0
+Connection 51e7f498-009a-4694-9827-d6085bf0aa65 769fa46d-8dc4-4c90-9a3e-1820865e2ac4 c43b1a99-6c79-4449-a4b9-e837ddf4d8dd 4 1.0
+Connection 56d2d6e9-e3f9-4d88-9b9e-dbc5c4403905 f3b67b38-cbd5-4fae-be7f-edb12e775508 e9e59a9c-9dac-495e-b1a9-91df7af16866 16 1.0
+Connection 1d6cac92-5911-4180-a380-bd647f518ab9 f14542b7-8c5c-4fe3-8d04-7a093da07144 6b7f9ea8-9cbc-401e-8ae6-cdf56d214f24 16 1.0
+Connection de81e0b0-a9f9-40aa-89e5-9ea2ca80da6f f71a2a6b-f0a5-45da-8ae2-786a3d368661 c1f509d5-b2a3-4ab3-a90d-76fb28d07586 16 1.0
+Connection 8b517ce0-dcea-431c-a5f6-ed3747a8a7f0 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 718bb6cf-f925-4e77-99ae-d3f4bb0c03b9 52 1.0
+Connection 4acd8b03-6a05-4298-86a8-acf4b0d55d3c 718bb6cf-f925-4e77-99ae-d3f4bb0c03b9 e3aade59-47df-4f1b-ba5e-839db32a6a24 4 1.0
+Connection afb61159-36cf-45a9-86d5-56f04ef160d3 e3aade59-47df-4f1b-ba5e-839db32a6a24 718bb6cf-f925-4e77-99ae-d3f4bb0c03b9 48 1.0
+Connection eb44c98c-c55d-4bbe-97a8-20248625d82b 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 718bb6cf-f925-4e77-99ae-d3f4bb0c03b9 52 1.0
+Connection 8270ba04-0f6e-444c-aa89-a5d84a16fb43 f13bd4a5-bf38-425d-8da2-c9031b84f8d2 331300e1-10a7-40a2-a89a-6562a7f5faa9 4 1.0
+Connection 805b7202-95aa-4794-9ff7-752162aa601e 859cdc98-c31d-45e9-aacb-432a560bce64 331300e1-10a7-40a2-a89a-6562a7f5faa9 4 1.0
+Connection c596e1d7-ea22-4df3-aeb7-0c4e0813f16c e3aade59-47df-4f1b-ba5e-839db32a6a24 f13bd4a5-bf38-425d-8da2-c9031b84f8d2 4 1.0
+Connection 9926da1b-8229-4b7b-b660-020ab604caca 813e2e3b-ddd3-4185-8535-7ba6f4e93ead 859cdc98-c31d-45e9-aacb-432a560bce64 8 1.0
+Connection 9b21bc8d-3cd1-45f8-ad30-574239ebe12d 331300e1-10a7-40a2-a89a-6562a7f5faa9 539caddc-803c-4c53-ac5e-7a82df62ba07 4 1.0
+Connection 9cb83299-751c-4af9-b858-b2943f5da542 331300e1-10a7-40a2-a89a-6562a7f5faa9 35ba7df3-8da6-4f30-9698-cf4cf1fa8ff6 16 1.0
+Connection 0f5806af-c8a7-42e5-a07b-f6766271b187 331300e1-10a7-40a2-a89a-6562a7f5faa9 c111c75d-01b3-4d8b-bac0-5d146ae4e828 28 1.0
+Connection 067d8cb6-6ebb-45c2-b3d7-3d0d068be80d 331300e1-10a7-40a2-a89a-6562a7f5faa9 fafdd986-6260-4ea7-a90a-ae614a81021e 28 1.0
+Connection 038fd2d9-e0e2-4bf0-8b9a-591c3ce41e1c 331300e1-10a7-40a2-a89a-6562a7f5faa9 b0c76547-ce0e-440d-8e45-62e39036ca66 16 1.0
+Connection 86764219-00a8-4fd2-b62a-d2589422000d 331300e1-10a7-40a2-a89a-6562a7f5faa9 cdad06ed-a3b4-4d8d-8830-c09362b3d3bb 16 1.0
+Connection dbdc51df-3cde-4e62-86bd-1b22053af87b 331300e1-10a7-40a2-a89a-6562a7f5faa9 1fa45c7a-7407-4700-9fa5-4607dddb313a 4 1.0
+Connection 4ae4754b-8d69-4c6b-b384-5de35ae6eb0c 331300e1-10a7-40a2-a89a-6562a7f5faa9 ad379a68-3c75-4dc8-bc6b-f4e448e010f5 16 1.0
+Connection ef2e2a9e-d330-486c-a6fb-9d9f6033fbef 331300e1-10a7-40a2-a89a-6562a7f5faa9 218c4fbb-173f-4f83-9266-42495b05f673 28 1.0
+Connection f188cb97-c902-4461-8710-8edc38f8e26f 331300e1-10a7-40a2-a89a-6562a7f5faa9 82bb7c3f-034c-44c9-b172-befad8c125bb 16 1.0
+Connection 2ddf0f4e-ecd8-4eec-acd6-4819f1ef946c 331300e1-10a7-40a2-a89a-6562a7f5faa9 58280243-aa6d-4934-b669-6eb474b115ac 4 1.0
+Connection 6d889563-d3bd-4b5e-ac44-1bfe01dbcb83 331300e1-10a7-40a2-a89a-6562a7f5faa9 48d7a459-5bfd-42c8-933c-b3d1beb18b0b 16 1.0
+Connection 06afeffd-2e73-48af-accc-cf716979d6eb 331300e1-10a7-40a2-a89a-6562a7f5faa9 d5289730-a3a6-497c-ac0d-f1444c0244c8 16 1.0
+Connection bdf9ba3d-f862-4880-8d3b-17d02d8afa3f 331300e1-10a7-40a2-a89a-6562a7f5faa9 e65c7195-3c6f-45f3-bb7b-29c65b3b8da0 16 1.0
+Connection fae12a3b-cd30-4343-8f52-71d6969cc982 331300e1-10a7-40a2-a89a-6562a7f5faa9 5b3cbd1d-4238-45f7-84d4-88eebb7b98e4 4 1.0
+Connection 4923f8a0-9cf1-44a7-8554-c5a306f308d4 331300e1-10a7-40a2-a89a-6562a7f5faa9 e3b22716-6905-44f4-8625-3a735902e492 16 1.0
+Connection 4435a6ec-47cc-4b2b-8711-a1fca3720f4c 67d13f6e-9a75-4f22-a654-edae3df348e1 fa6056f6-9105-46d2-8e2a-4312d919e286 4 1.0
+Connection 95bdfe75-acb2-4c17-8561-f7053526c94b 1736aed7-52d9-4d63-b351-8021d3031cfe fa6056f6-9105-46d2-8e2a-4312d919e286 4 1.0
+Connection 85649cc7-84f9-49eb-963f-5fc4763fcd6b e3aade59-47df-4f1b-ba5e-839db32a6a24 67d13f6e-9a75-4f22-a654-edae3df348e1 4 1.0
+Connection e00ff172-a41d-4e7d-82e4-563225842e36 38453a51-f930-4dca-90e0-3eb4edca7ed7 1736aed7-52d9-4d63-b351-8021d3031cfe 8 1.0
+Connection 15a0f96b-464c-4b47-a47b-6ebe827eb688 fa6056f6-9105-46d2-8e2a-4312d919e286 b32b2312-1b0f-4d29-a1c6-f15d0cfb699a 4 1.0
+Connection fd1b7633-8d0e-4d7f-8261-e9cf4701b386 fa6056f6-9105-46d2-8e2a-4312d919e286 643fb936-5cc4-43f1-b2d0-5ebed5728399 4 1.0
+Connection 8a084a3f-01e6-45ce-9d57-9c84c8ea0ad9 4d4fdcb1-400b-42f3-b922-231c70a3755c a9a040b0-dddd-4d1a-a7b7-6db4d3d982fc 4 1.0
+Connection 2bf7f231-ab5f-4179-806d-a61d4b0a91d0 72213210-b28c-4b8d-a402-2054ee272027 a9a040b0-dddd-4d1a-a7b7-6db4d3d982fc 4 1.0
+Connection 78a286b9-2d7a-4df3-8d67-6c9fb2d2f8e9 e3aade59-47df-4f1b-ba5e-839db32a6a24 4d4fdcb1-400b-42f3-b922-231c70a3755c 16 1.0
+Connection 02625bb5-d9b0-4578-8eaf-d267c60995d1 951f718f-8913-42d2-ab2f-fc92da21f9a4 72213210-b28c-4b8d-a402-2054ee272027 20 1.0
+Connection 708f190a-b436-4b4e-8146-c2a6ebe16327 a9a040b0-dddd-4d1a-a7b7-6db4d3d982fc bb1ce52f-b941-4ea8-9e4a-78e6c8feaa8a 16 1.0
+Connection a5ccf283-15db-4756-8b9f-c4e0f3f74b93 a9a040b0-dddd-4d1a-a7b7-6db4d3d982fc 365c9119-1b40-4098-b704-3ba287686ae7 4 1.0
+Connection 99450146-ee56-44c3-bc2c-aef085930be8 3c48bee1-3198-4486-82bc-4ed7e96540a6 9c5d6946-dd04-4839-a838-acf7bdaa6158 4 1.0
+Connection f9ebda00-0f68-4a97-8090-77000b55ff90 24953496-e1b6-4084-8b3f-c648437382b8 9c5d6946-dd04-4839-a838-acf7bdaa6158 4 1.0
+Connection 23cd275a-8e7f-4ed1-97ca-4049868c0601 e3aade59-47df-4f1b-ba5e-839db32a6a24 3c48bee1-3198-4486-82bc-4ed7e96540a6 4 1.0
+Connection ac50c80b-ae32-4e89-8fb8-da0786d59c26 7858ba57-eb6f-4f08-9ab0-d6758cca2b87 24953496-e1b6-4084-8b3f-c648437382b8 8 1.0
+Connection 0048d82f-0d4b-4a9b-98ef-a7cf9c1041c4 9c5d6946-dd04-4839-a838-acf7bdaa6158 c0f4f204-4dc1-4465-bae1-fc792a0d65af 16 1.0
+Connection f636215b-7b09-42d5-9796-c485fc073182 9c5d6946-dd04-4839-a838-acf7bdaa6158 dab6cf7d-56ac-47ed-800c-bd46dfbccddc 4 1.0
+Connection 73dcda03-0de8-44ea-ad0a-53f5746cd567 6532ddb6-3f4b-4fd7-9b08-2fa4e0265658 703b2813-3c0f-4e9c-bde0-dc9537b70839 4 1.0
+Connection b8754def-13bd-46a1-91bb-74f7eb47b416 756ec6b3-1a7c-4d2e-968a-3fb01b29efdd 703b2813-3c0f-4e9c-bde0-dc9537b70839 4 1.0
+Connection 7e2a6bbd-af92-4515-a8ba-f59d1d29c108 e3aade59-47df-4f1b-ba5e-839db32a6a24 6532ddb6-3f4b-4fd7-9b08-2fa4e0265658 4 1.0
+Connection f0652481-5261-4fdf-834c-8881b1c81cff 5e5567e6-dbfa-4f78-980a-824d0b355da8 756ec6b3-1a7c-4d2e-968a-3fb01b29efdd 8 1.0
+Connection 648ce5af-fa4e-4428-84db-fe8f0fcd367f 703b2813-3c0f-4e9c-bde0-dc9537b70839 b70e9d30-eba3-49c2-a271-be751c6cef41 4 1.0
+Connection 96321a47-1030-4ea4-a093-45243e996dad 703b2813-3c0f-4e9c-bde0-dc9537b70839 69f88981-32cc-4f73-8a02-bf29a42dcaba 4 1.0
+Connection b8635492-1bf2-449c-ad3a-7797c993bbfe 19e14b3f-a9f6-468b-b0fb-e93e87f757ab 43c7d4bf-d8bd-4cb8-8f6d-741bbf376a86 4 1.0
+Connection 0ded5766-338e-43d9-830a-2ce7f2de19e2 845bc2f0-4192-452c-8090-98cae861de96 43c7d4bf-d8bd-4cb8-8f6d-741bbf376a86 4 1.0
+Connection fc6992b3-a3af-4c76-a0cd-5470d020ba6c e3aade59-47df-4f1b-ba5e-839db32a6a24 19e14b3f-a9f6-468b-b0fb-e93e87f757ab 4 1.0
+Connection 2b9dc687-b8fa-4374-ae67-5a07d037d35c ac2ef76a-4dbc-47b3-8477-acc2f6bf9d19 845bc2f0-4192-452c-8090-98cae861de96 8 1.0
+Connection 906c6c0a-984d-4218-92f0-f9fb70e0cfdb 43c7d4bf-d8bd-4cb8-8f6d-741bbf376a86 c7f75649-b602-4e49-bf86-e014e149afe8 28 1.0
+Connection f94bc4c9-4d07-4065-9478-8a005e83b669 43c7d4bf-d8bd-4cb8-8f6d-741bbf376a86 c07c323b-a118-497e-9e27-c852c2bf8b98 4 1.0
+Connection c9e2919c-a10e-4d9d-ac9e-7fe5af3236bf 46923f6d-35f6-44bd-a6b9-a341f69a077a 49bd8ebc-322f-4f5e-957b-4ce43540a9d4 4 1.0
+Connection 3ac2625d-ef40-46c6-9d2f-04db6aa96264 1284eefe-5836-4736-be04-3a923df5fa96 49bd8ebc-322f-4f5e-957b-4ce43540a9d4 4 1.0
+Connection 032beb58-fb3b-4c35-bde8-6abf3f76c544 e3aade59-47df-4f1b-ba5e-839db32a6a24 46923f6d-35f6-44bd-a6b9-a341f69a077a 4 1.0
+Connection c3ab13a9-2be9-45eb-9ce9-714e446c358d 6f2bae0a-30b5-4c9a-bc1a-98dbe2de45dd 1284eefe-5836-4736-be04-3a923df5fa96 8 1.0
+Connection 07ed1ee1-6e29-4e50-9ee2-eec60bb45321 49bd8ebc-322f-4f5e-957b-4ce43540a9d4 84ffb964-b258-45f0-9707-fa0c9195c21e 4 1.0
+Connection 0d38743c-cb5b-4468-92e1-35d1b4c5052f 49bd8ebc-322f-4f5e-957b-4ce43540a9d4 fc92407e-00d0-4773-8069-f790b7707f3f 4 1.0
+Connection d460b585-d12b-41e6-b24e-3cf9d1e0c182 910a48c9-8acc-433f-ace4-61265e02d6a1 b9e84f67-e416-4f9a-83bd-c8c6c9016f4f 4 1.0
+Connection 508cc0e4-f876-4aad-b623-9c3ddd57a4b0 8826f247-68bd-41e5-aa2d-83ebdc85e9c4 b9e84f67-e416-4f9a-83bd-c8c6c9016f4f 4 1.0
+Connection 5755739d-cf0c-4c56-b940-d9aaa0a352dd e3aade59-47df-4f1b-ba5e-839db32a6a24 910a48c9-8acc-433f-ace4-61265e02d6a1 4 1.0
+Connection 029f033d-1248-42df-8cbb-d5d2e3be6651 49a3fc9f-8209-4593-81ad-9faa0d3f1895 8826f247-68bd-41e5-aa2d-83ebdc85e9c4 8 1.0
+Connection 2eee51d5-59de-4fab-8b48-f9160e410c13 b9e84f67-e416-4f9a-83bd-c8c6c9016f4f 1c52b3c4-f806-4cf0-b420-643a3e558be0 16 1.0
+Connection 29339950-f89c-4a71-bbf0-4b6f170a9c33 b9e84f67-e416-4f9a-83bd-c8c6c9016f4f 49122ccc-ac21-4fb6-8578-30fb317685ef 4 1.0
+Connection f4076ab2-b32f-4f4e-ac5a-5a3e21a5861b 038d7417-27fb-4ba6-abd3-b355435f7ea6 470c1f6b-5f27-42c1-bd13-2a03bdea5c3e 4 1.0
+Connection 21b603aa-c99f-4283-a2c1-ded14fef5fb0 d887095a-bfa0-44af-8ffb-6700af751656 470c1f6b-5f27-42c1-bd13-2a03bdea5c3e 4 1.0
+Connection 40daaeb4-7bea-4c86-a4e1-b82b6a6d1d34 e3aade59-47df-4f1b-ba5e-839db32a6a24 038d7417-27fb-4ba6-abd3-b355435f7ea6 4 1.0
+Connection 7f5e0509-1670-4226-9419-96aedf2d9ff9 cd8a64e0-4c16-4452-8215-f0954f05e1e9 d887095a-bfa0-44af-8ffb-6700af751656 8 1.0
+Connection 299bc619-f0ba-4d5c-8626-3debfd9d7a43 470c1f6b-5f27-42c1-bd13-2a03bdea5c3e 750fbc29-bb64-40be-a3c8-e48392fc42c0 4 1.0
+Connection 5a867686-f9b8-47eb-bde9-9ebf63f755f9 470c1f6b-5f27-42c1-bd13-2a03bdea5c3e c7990031-8f4b-49b0-b3ac-2b2db6f90c48 4 1.0
+Connection f31e8ea8-2dff-4ee4-82e6-7ff1eaf0a8d4 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 434b7559-0d0a-470f-a149-2e8c2b5f1312 48 1.0
+Connection 1668ec56-f67c-4deb-b42c-c6a60568724c 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 500a767e-142d-458e-ac65-9f9bfe120c12 48 1.0
+Connection 3892ee14-69ba-4dec-9308-14dd59220992 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe fc68406a-7c29-47e4-ab6c-88a81413deef 36 1.0
+Connection 3139f362-c8a7-4d89-95c2-2bfd121f13f2 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 3413bc8f-510a-45ef-9903-e18d0226572a 36 1.0
+Connection a47acbab-d82a-4261-8d6e-ada49f8a7acf 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 0bb1f6d8-11a0-47db-a189-4522adc121ff 48 1.0
+Connection 7531b3ff-34dc-4798-a0f1-663ed95fba80 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 2ff6098e-49b0-470a-b282-a69c946b93cc 36 1.0
+Connection 15863cbe-5aff-4d5b-921e-1255b79c6b4c 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe d34d4518-399f-4cb0-9fc6-13fc11f86ef9 36 1.0
+Connection e120ad40-b5ce-4587-a92d-9a5889abf97a 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe dc861085-2116-448b-829e-36253ccb0d0f 36 1.0
+Connection 6bc4b915-4356-435c-8e53-0c7142eaa641 2c090323-267f-4e8b-967d-7c24971989dc 231f6412-450a-480d-9dbf-ac5923613ae6 1 1.0
+Connection 3677dbcd-89ec-4c43-8cf7-d19876866f59 e6f6a6ef-d8a7-4ed5-90c6-9a449fdae7c0 231f6412-450a-480d-9dbf-ac5923613ae6 1 1.0
+Connection 0c7c6707-9be5-4016-8a27-22a516c0f875 9e6e6c8c-732d-4944-bdda-18cfb1b787e9 2c090323-267f-4e8b-967d-7c24971989dc 1 1.0
+Connection 73226636-673b-4350-a6dd-ff06859437a6 fa3f314a-f7e4-4650-9e00-61cfb5316379 e6f6a6ef-d8a7-4ed5-90c6-9a449fdae7c0 1 1.0
+Connection 0715c8c3-7d93-4fd3-bb0e-f7b0c2784a15 3eba9ca2-cb19-4336-adf1-657c68d24798 3e60d377-97c7-49cb-90e1-341a59c38b95 1 1.0
+Connection 716f9fc8-b82b-4d5c-85d9-65ac4972f8ed 7af44e15-c539-4e11-9b7c-e662871b7d7e 3e60d377-97c7-49cb-90e1-341a59c38b95 1 1.0
+Connection 87c6b144-e6cd-4e4e-bfe2-c9bc3caf4d2d ced95554-c083-4658-b091-8081fa922ea6 3eba9ca2-cb19-4336-adf1-657c68d24798 1 1.0
+Connection 31857d4c-f2d5-47ee-8599-2b4dc5da430d b4e6b88a-c4bd-4e96-ae80-5aecb1623c34 7af44e15-c539-4e11-9b7c-e662871b7d7e 1 1.0
+Connection a4bf4bb7-ba92-47e1-9fa4-97e16e95b3fd 4f421e9d-4198-45fe-b460-e86c1af4db74 7c0625da-16cd-4447-a567-90f155800faf 1 1.0
+Connection a242d59a-d8fa-4bf3-a53e-2038f4968d21 cf7acf13-ec9d-4b2b-afc3-87dcddf7103f 7c0625da-16cd-4447-a567-90f155800faf 1 1.0
+Connection 0f9d38c6-8218-4cb1-9b33-8b73a1ee45ae 6d38c54e-fc43-4609-949f-213607657128 4f421e9d-4198-45fe-b460-e86c1af4db74 3 1.0
+Connection 6d0ba7d1-ea51-4e4e-8e77-328faf2d559c 5a4dc4ab-0fb6-476e-9077-dbe452d4e178 cf7acf13-ec9d-4b2b-afc3-87dcddf7103f 3 1.0
+Connection 73d139e2-c0e7-460e-ab2c-5e882e3bef4a efa23889-15a8-4d71-aa70-3f0aed09e34a d2655f8c-c366-4d59-ac3f-59e8b8cd6ee0 1 1.0
+Connection 53157eae-02f1-4e45-b94e-0533087b8c41 e7a316f2-b291-4ffa-b073-ad8d40c358c6 d2655f8c-c366-4d59-ac3f-59e8b8cd6ee0 1 1.0
+Connection 5bf3251b-2ccb-40ce-9763-deac55176279 3053aa83-fa28-452c-bb6a-d2ad98fa725a efa23889-15a8-4d71-aa70-3f0aed09e34a 5 1.0
+Connection 6f7e6d1a-e3b6-424f-806b-1c0d9f423748 f887330b-c8f5-44ab-b755-b52a42d2c125 e7a316f2-b291-4ffa-b073-ad8d40c358c6 5 1.0
+Connection 4cb7ff9f-ba56-4315-9b8a-40eb387fd862 c261d236-c467-492f-ae9c-ff690f145cde cfcabb88-30d6-4c92-aff2-3a0613d807fa 1 1.0
+Connection 72a1c102-8190-4ae8-ad98-3c80a073d9da a9fe325e-150b-450f-8d91-2852fca7c065 cfcabb88-30d6-4c92-aff2-3a0613d807fa 1 1.0
+Connection 84f26060-3122-4a39-8d56-8f6228e6f548 7a68bbbe-5050-4b8b-bd95-bc0d10634caf c261d236-c467-492f-ae9c-ff690f145cde 1 1.0
+Connection 2207d54e-04e6-4c1c-b5ba-81a0c543467a c43b1a99-6c79-4449-a4b9-e837ddf4d8dd a9fe325e-150b-450f-8d91-2852fca7c065 1 1.0
+Connection 1544cc09-f2ba-43f2-99b7-360a6e80a005 174e27ce-f428-488a-baa4-ac0fd3295511 4df5127b-d334-4b15-ad9c-9b444af5f386 1 1.0
+Connection dcfcf22d-861a-4873-b32f-16b3a5238951 ca2647d5-7120-4e7a-bb3c-46124d240e2e 4df5127b-d334-4b15-ad9c-9b444af5f386 1 1.0
+Connection 61adcc1a-eda2-409d-9c1e-423e3edbf77d 77a35976-39ac-4fa6-b24d-0824062fc27a 174e27ce-f428-488a-baa4-ac0fd3295511 1 1.0
+Connection d55f6a2e-7ec7-4005-86da-c03de9115b5c e9e59a9c-9dac-495e-b1a9-91df7af16866 ca2647d5-7120-4e7a-bb3c-46124d240e2e 1 1.0
+Connection a1de9fc9-e7a4-4cbd-8008-d5820dbad512 ad554853-e4f0-4a6e-9934-a339398bf1f0 c6d1151e-0022-4b65-9472-031434d3c062 1 1.0
+Connection 3f5bec19-c3af-49e6-b7ca-d40e08fd803d f9d9a865-0831-4ea3-8a70-61152ba542cc c6d1151e-0022-4b65-9472-031434d3c062 1 1.0
+Connection 29d84669-716e-4df7-ab38-8962c954a8e3 a38dcad3-cb2c-467a-9e00-8392b713fb95 ad554853-e4f0-4a6e-9934-a339398bf1f0 1 1.0
+Connection 68371260-a2dc-4a14-a1af-684adf76cea0 6b7f9ea8-9cbc-401e-8ae6-cdf56d214f24 f9d9a865-0831-4ea3-8a70-61152ba542cc 1 1.0
+Connection 2543b45d-8a20-4a89-818d-8c46d5a10ba7 bfd84440-0c02-43b6-bbd9-41227b43cbe7 ff8d7233-f041-4afd-95af-aea85a76199b 1 1.0
+Connection 418b15a0-7051-4dab-81b7-5bbe38ba40bd bb77ed8c-ef74-4cab-83c1-fd51dc127bc3 ff8d7233-f041-4afd-95af-aea85a76199b 1 1.0
+Connection d90adc11-05bf-409a-bc8b-c06e944465a7 19b61789-894e-4bcd-990e-706115226e59 bfd84440-0c02-43b6-bbd9-41227b43cbe7 19 1.0
+Connection 37fe5605-4091-4c05-add1-82ce31383e6b c1f509d5-b2a3-4ab3-a90d-76fb28d07586 bb77ed8c-ef74-4cab-83c1-fd51dc127bc3 19 1.0
+Connection 4eb76fe8-5426-4878-98a6-a46475381eac 6cfdd809-a761-404f-a3a2-fd03179678bb 696e860e-2751-4719-819e-a1d6a16cc37d 1 1.0
+Connection d9ad2f30-5c8f-47a4-a600-9eb1de1bff28 6ca6c91a-ad50-409d-bc02-95b4bd9d5ee0 696e860e-2751-4719-819e-a1d6a16cc37d 1 1.0
+Connection 4852c839-3323-42a6-9635-7848277c63b2 231f6412-450a-480d-9dbf-ac5923613ae6 6cfdd809-a761-404f-a3a2-fd03179678bb 1 1.0
+Connection 0663e150-5faf-406f-acc4-5c9a9ff81973 3e60d377-97c7-49cb-90e1-341a59c38b95 6ca6c91a-ad50-409d-bc02-95b4bd9d5ee0 1 1.0
+Connection e75679e2-457c-4dc6-af6e-dd45ec113aa7 01562c0d-556d-48df-be36-d09d99c3e506 87e28c98-31ef-45e0-9c8d-f062a276c955 1 1.0
+Connection 2a1d0944-fe1b-4189-abe7-bff200dd722c 5f2dfb2f-c6bf-40c7-b2ae-c12250828e41 87e28c98-31ef-45e0-9c8d-f062a276c955 1 1.0
+Connection dd32c285-be0d-47d7-8814-e0b027360601 696e860e-2751-4719-819e-a1d6a16cc37d 01562c0d-556d-48df-be36-d09d99c3e506 1 1.0
+Connection b9339a60-e16c-422d-9731-126122b597dd 7c0625da-16cd-4447-a567-90f155800faf 5f2dfb2f-c6bf-40c7-b2ae-c12250828e41 1 1.0
+Connection c4f60409-6fa9-4f0b-b61f-b0535523723a 2756c9b9-6da3-4902-9965-96d694200cbb abdfcd0b-ac4e-4971-a7ae-7d90506c36ce 1 1.0
+Connection 7f876553-da95-4700-a48c-227a03ad7aa6 713a032c-44ef-4879-aecd-e17266ce0c3a abdfcd0b-ac4e-4971-a7ae-7d90506c36ce 1 1.0
+Connection 081809f8-6cbd-43f1-acde-da861f88a69e 87e28c98-31ef-45e0-9c8d-f062a276c955 2756c9b9-6da3-4902-9965-96d694200cbb 1 1.0
+Connection ee536c35-0ab8-4a2f-ad4b-1867aefb0c5f d2655f8c-c366-4d59-ac3f-59e8b8cd6ee0 713a032c-44ef-4879-aecd-e17266ce0c3a 1 1.0
+Connection 3fc23300-9d50-4a61-8fb0-407bcbdfa6fe 8de6fa72-d2e6-4c4e-9c52-91ef093a0759 588c456c-f37a-4133-b459-a6704739306c 1 1.0
+Connection 1544b9fa-224c-4d9c-b453-61015d1ab98f b1d6f34b-4897-4dda-8c7d-6005d1c9f335 588c456c-f37a-4133-b459-a6704739306c 1 1.0
+Connection 5b428e12-f30a-4cc1-9cfb-5c0f8445d2ef abdfcd0b-ac4e-4971-a7ae-7d90506c36ce 8de6fa72-d2e6-4c4e-9c52-91ef093a0759 1 1.0
+Connection a34f4ea6-5ddc-4f5d-a193-9f1be4b4f0f2 cfcabb88-30d6-4c92-aff2-3a0613d807fa b1d6f34b-4897-4dda-8c7d-6005d1c9f335 7 1.0
+Connection 0c14cd52-9a54-4901-80a6-abecab945000 215e16dc-892b-4aac-8777-a75588f1f7c2 f0701ddf-ad59-41aa-89fe-2b9cc70981cb 1 1.0
+Connection 4ef1208e-cce7-4517-98ef-5d89c44c1ff0 9e3906ab-7db8-4e2c-8a8c-60c87c061194 f0701ddf-ad59-41aa-89fe-2b9cc70981cb 1 1.0
+Connection 5ec2ada7-9692-4393-856c-d5db96df85d2 588c456c-f37a-4133-b459-a6704739306c 215e16dc-892b-4aac-8777-a75588f1f7c2 7 1.0
+Connection 29029781-84ea-4810-b267-d8cf1f6f8e5d 4df5127b-d334-4b15-ad9c-9b444af5f386 9e3906ab-7db8-4e2c-8a8c-60c87c061194 15 1.0
+Connection 61ede12b-a4c2-4d47-b378-89bce0cbbc0f 6c6c71e8-3b58-4958-a163-46140e2dc90e 3fec9417-467a-488e-9ef6-7e32e3956cc0 1 1.0
+Connection f16f34b5-6e10-41a4-a97b-dfbe0a7cc994 bfc446b0-844e-48a5-932a-5c8b70474b62 3fec9417-467a-488e-9ef6-7e32e3956cc0 1 1.0
+Connection fe06988d-68d4-4ae5-976a-306003991d9a f0701ddf-ad59-41aa-89fe-2b9cc70981cb 6c6c71e8-3b58-4958-a163-46140e2dc90e 1 1.0
+Connection 47c9e0d6-4015-4df0-b5ad-d1f386bb3df0 c6d1151e-0022-4b65-9472-031434d3c062 bfc446b0-844e-48a5-932a-5c8b70474b62 17 1.0
+Connection 20589cca-992a-4fdf-806d-c12ee1979ae4 0c38c9b0-dc74-4d8c-abee-9c5d6a757c5d 1c3441d0-97c6-4240-82a7-0a1754feb5a7 1 1.0
+Connection 433e3408-19e6-4f26-9192-18d7b6c9cef0 4b3b21fb-ca7f-4a3f-afbe-a24f3eb75691 1c3441d0-97c6-4240-82a7-0a1754feb5a7 1 1.0
+Connection 0c73e09e-c5d9-4217-85f7-1e086c74ab4a 3fec9417-467a-488e-9ef6-7e32e3956cc0 0c38c9b0-dc74-4d8c-abee-9c5d6a757c5d 1 1.0
+Connection 6f326b5b-63dd-41f7-8c7f-93e004e9a1d2 ff8d7233-f041-4afd-95af-aea85a76199b 4b3b21fb-ca7f-4a3f-afbe-a24f3eb75691 1 1.0
+Connection 9474d7d8-ca71-4d90-a60a-9eb37bf03926 1c3441d0-97c6-4240-82a7-0a1754feb5a7 06d6b9a6-7e48-4956-a307-67463c8131d6 1 1.0
+Connection 8fe6e86f-7ece-448e-a42d-c84e4b9b4eb6 0dae6721-bfb0-4c54-b211-0276d0e56800 9dde698f-5e8a-4826-ba65-3b617de89f8b 26 1.0
+Connection 9bbe0f85-06da-4170-8c10-3e5dcf2d99cb 93332909-06aa-4ab0-a6da-835befad7828 9dde698f-5e8a-4826-ba65-3b617de89f8b 26 1.0
+Connection c364aa51-6790-4e9c-9704-e55f52f5934a 9dde698f-5e8a-4826-ba65-3b617de89f8b 807df43f-0c63-4969-9bdf-d9633acffc63 26 1.0
+Connection 2aea2d6f-44c0-4baf-8d39-a4b0163cc2e9 1fadab30-6a3c-4966-a5c8-fe6def82db55 807df43f-0c63-4969-9bdf-d9633acffc63 26 1.0
+Connection 653cb743-fb69-4e2c-8531-9ce57f10c833 807df43f-0c63-4969-9bdf-d9633acffc63 397a3003-ba27-4e71-87b9-fc906ce5f435 26 1.0
+Connection 1ccce2ba-4aaf-4b2b-8f9a-718ad0c81c36 94f70eb7-b7b6-4adf-a262-ff553d3b2a0a 397a3003-ba27-4e71-87b9-fc906ce5f435 26 1.0
+Connection 7e0f2c7a-00c5-4a6d-80da-2cd210d2b09b 397a3003-ba27-4e71-87b9-fc906ce5f435 ca828e9c-9f00-4adc-9ea5-3dd8b845f724 26 1.0
+Connection 44151e55-bb03-40b4-a43d-c6ae53daa65d 4bfdd0bd-f1a3-4771-8100-b04a0a7571d5 ca828e9c-9f00-4adc-9ea5-3dd8b845f724 26 1.0
+Connection 829eb35c-6b2b-4fb1-aea9-c02e375dca99 ca828e9c-9f00-4adc-9ea5-3dd8b845f724 70491eb9-7752-4451-a517-76c2ab4791a5 26 1.0
+Connection 6f2a9795-e99c-4cf5-b04c-6f46bfc70dda 9ea32f39-6e76-4644-a3d9-a28f5a2f9ddb 70491eb9-7752-4451-a517-76c2ab4791a5 26 1.0
+Connection b0daf7ce-9edb-4538-ae87-509b79c666a9 70491eb9-7752-4451-a517-76c2ab4791a5 113366db-85db-4f71-9fbd-05ffd5e2b1e1 26 1.0
+Connection f43e3383-b992-4126-9e9f-0071d623d2c3 b4a90ec8-bfc2-4ea3-9d2d-7a2fad734958 113366db-85db-4f71-9fbd-05ffd5e2b1e1 26 1.0
+Connection 0557176d-4996-4c63-8cc3-f02386c69ad4 113366db-85db-4f71-9fbd-05ffd5e2b1e1 9dde698f-5e8a-4826-ba65-3b617de89f8b 26 1.0
+Connection aa75ce1f-edfb-4b00-b7c8-35944e17085a 0dae6721-bfb0-4c54-b211-0276d0e56800 9dde698f-5e8a-4826-ba65-3b617de89f8b 26 1.0
+Connection 8dddad27-d421-47b0-bd92-b33b7316f06e 66c34f69-cbf4-4abe-92c0-33325c91c909 74c35261-9697-4f27-9da1-c846e24ffb17 1 1.0
+Connection fccce8bb-4cce-4217-82b5-6ce93ea684f9 d7acfa64-c170-4512-b134-40b876a8e04a 74c35261-9697-4f27-9da1-c846e24ffb17 1 1.0
+Connection bfe5ae4b-307a-4748-9644-c393941419ae 113366db-85db-4f71-9fbd-05ffd5e2b1e1 66c34f69-cbf4-4abe-92c0-33325c91c909 1 1.0
+Connection c887de71-2c03-4182-ae87-9c487915168c f389f868-b0be-4dd7-b019-5b81edd42bb3 d7acfa64-c170-4512-b134-40b876a8e04a 1 1.0
+Connection d38243c0-c39d-4395-a775-b88308c605dc 74c35261-9697-4f27-9da1-c846e24ffb17 813e2e3b-ddd3-4185-8535-7ba6f4e93ead 1 1.0
+Connection 4f08f27d-a153-4379-994f-2f974b79a63c ea28c35b-90c5-4880-bb9e-601bee20d10d eea4831e-1d2e-431c-84cf-4ef7f2afcd54 1 1.0
+Connection fa9915dd-6903-4292-b0c1-eac4db57b3bc 4973f7b4-3207-4b6a-a880-799ba0ea1f71 eea4831e-1d2e-431c-84cf-4ef7f2afcd54 1 1.0
+Connection d5148efc-ae6b-45de-8ec8-5ee64fee276b 113366db-85db-4f71-9fbd-05ffd5e2b1e1 ea28c35b-90c5-4880-bb9e-601bee20d10d 1 1.0
+Connection a25f2adb-d9e4-4b57-93d3-a37e7a2efa2d b9c2d7ef-7c9b-414c-9c5f-1c2d78ad5577 4973f7b4-3207-4b6a-a880-799ba0ea1f71 1 1.0
+Connection fbd1cc33-ee09-49c5-88c1-85fb39220f9f eea4831e-1d2e-431c-84cf-4ef7f2afcd54 38453a51-f930-4dca-90e0-3eb4edca7ed7 1 1.0
+Connection 92131e52-3191-4c16-890c-2c57c5f02241 1258904b-3276-4aac-a62b-de693ef94a66 0c39fc71-f9a5-4f01-9e71-c25b3a819251 1 1.0
+Connection 34b01f4a-4090-4eca-8b75-a90ab062ff6d ccd40163-0666-4483-b3dd-aae83e01ac52 0c39fc71-f9a5-4f01-9e71-c25b3a819251 1 1.0
+Connection 91303839-2efa-484c-92ab-4c725e7a38f7 113366db-85db-4f71-9fbd-05ffd5e2b1e1 1258904b-3276-4aac-a62b-de693ef94a66 1 1.0
+Connection 6079c964-61cd-4a4c-9766-8621b2f49b48 7379393d-0171-473a-bd2b-bc33ecb7d765 ccd40163-0666-4483-b3dd-aae83e01ac52 1 1.0
+Connection 04998fbf-3ee3-4765-88bc-af80c946a8be 0c39fc71-f9a5-4f01-9e71-c25b3a819251 951f718f-8913-42d2-ab2f-fc92da21f9a4 1 1.0
+Connection c09bea50-d0e0-4483-a279-bc8f3033d61c a11922e3-a500-4433-8cb1-15ec9be18a9b 237e65d8-3e3b-4963-be01-2a863b5c91cb 1 1.0
+Connection b88ad0c5-fb4c-4b4f-b5e3-3cc2d2eb12a3 bacc4441-3712-4b0d-9925-26886e417c64 237e65d8-3e3b-4963-be01-2a863b5c91cb 1 1.0
+Connection 34db110f-f51d-4290-99c6-fd7c5ab5c4a7 113366db-85db-4f71-9fbd-05ffd5e2b1e1 a11922e3-a500-4433-8cb1-15ec9be18a9b 1 1.0
+Connection 8ee80768-c8ed-4546-98f3-d1c2a679a732 ffc192ae-0951-4758-a987-21ee3b62aa6b bacc4441-3712-4b0d-9925-26886e417c64 1 1.0
+Connection ffc6aaa7-55d3-4db0-bddd-89d9d15a4746 237e65d8-3e3b-4963-be01-2a863b5c91cb 7858ba57-eb6f-4f08-9ab0-d6758cca2b87 1 1.0
+Connection ddf1c761-8ec4-474e-9a6d-38e9a976441b b94dd87c-cff2-4228-b71a-4212fe687ba1 2adef8a7-1444-496c-b4a5-a06257d5d081 1 1.0
+Connection 15bdfd76-b1b6-4502-b5fe-38162ec47f82 eae76674-0b1d-4478-a2fd-03002ad49f34 2adef8a7-1444-496c-b4a5-a06257d5d081 1 1.0
+Connection 53558759-a836-4231-afe4-3dc75782a887 113366db-85db-4f71-9fbd-05ffd5e2b1e1 b94dd87c-cff2-4228-b71a-4212fe687ba1 1 1.0
+Connection 132e975e-cb26-4f12-af98-b321bc1301cb 962a16c0-2580-4df1-8dbe-4bc5afc44dcf eae76674-0b1d-4478-a2fd-03002ad49f34 1 1.0
+Connection 4123f4d8-f4c8-465e-9159-629d8843ff80 2adef8a7-1444-496c-b4a5-a06257d5d081 5e5567e6-dbfa-4f78-980a-824d0b355da8 1 1.0
+Connection 06baeedd-5e23-41c4-9e10-1c78658d12a9 6d6f458c-d7f2-467a-832e-bc1917475c59 1496c479-7999-4627-87ff-d36727cace94 1 1.0
+Connection dca19214-3e45-46d7-937a-8fc4c8720f60 b82f2b98-c489-4ca2-a6dd-91002b2c72c1 1496c479-7999-4627-87ff-d36727cace94 1 1.0
+Connection c3f53d6d-d421-413a-80e7-d50662cc1ce4 113366db-85db-4f71-9fbd-05ffd5e2b1e1 6d6f458c-d7f2-467a-832e-bc1917475c59 1 1.0
+Connection ad476f5b-5d96-433f-b932-7116d5c8fc59 2223bef8-9ffd-4c6b-8ea9-d7269f156552 b82f2b98-c489-4ca2-a6dd-91002b2c72c1 1 1.0
+Connection 9c842e04-998b-4b7c-9d7d-55acd5aa56be 1496c479-7999-4627-87ff-d36727cace94 ac2ef76a-4dbc-47b3-8477-acc2f6bf9d19 1 1.0
+Connection 5b4381d8-1054-4283-b02f-bcc431552f0d 8e2b0b9d-3298-4fbb-a386-2aab1e47d93e d9785a9d-b22c-43bb-874a-2f6619939271 1 1.0
+Connection 5e8259df-c5bc-4241-a70e-553109746c0e 0dc732cc-696b-4852-9df9-1d82d6026668 d9785a9d-b22c-43bb-874a-2f6619939271 1 1.0
+Connection 9df3ce62-56b2-43ba-a10e-aa996386a80a 113366db-85db-4f71-9fbd-05ffd5e2b1e1 8e2b0b9d-3298-4fbb-a386-2aab1e47d93e 1 1.0
+Connection 30659f4c-38b0-4524-a97d-1a4884b77c48 c7b9c6dd-1d58-4588-94d5-c11e3fa4009c 0dc732cc-696b-4852-9df9-1d82d6026668 1 1.0
+Connection 596a5150-2a47-4c97-8222-73cc0d17a99c d9785a9d-b22c-43bb-874a-2f6619939271 6f2bae0a-30b5-4c9a-bc1a-98dbe2de45dd 1 1.0
+Connection ef897ca4-d5bd-4a28-a239-3bf062049823 0eccf1c7-dc6b-480d-99c6-50c3b0affd76 747d09e1-aee8-4f68-9416-ae33b32ad6a0 1 1.0
+Connection 6b966c96-e6b4-4e27-84d4-a53fbecc0a64 84c3c2fb-609d-47bd-8056-b40e9f697f00 747d09e1-aee8-4f68-9416-ae33b32ad6a0 1 1.0
+Connection f27bb1be-924a-466b-b49d-d1edb036caa2 113366db-85db-4f71-9fbd-05ffd5e2b1e1 0eccf1c7-dc6b-480d-99c6-50c3b0affd76 1 1.0
+Connection 8c2f6f8d-2fc6-412f-ae47-7046dd7f3e4a aaa614be-4f3d-454a-9adc-d1e8f58919ff 84c3c2fb-609d-47bd-8056-b40e9f697f00 1 1.0
+Connection 5e287035-ad75-4bb6-b8fe-9a63962e601e 747d09e1-aee8-4f68-9416-ae33b32ad6a0 49a3fc9f-8209-4593-81ad-9faa0d3f1895 1 1.0
+Connection 35ff3e2b-6232-47c5-8df9-6a95e8d2ef61 97ed439b-2026-4bb2-b99f-c960c8f6d39d a182e152-ce8b-4f92-879c-321a9644a6fb 1 1.0
+Connection 47904db5-9eeb-4712-81d6-a8b1257d184b 24653340-5318-4195-865a-0c5a5d6dde18 a182e152-ce8b-4f92-879c-321a9644a6fb 1 1.0
+Connection c9bf8ebc-550d-4723-b8a8-70b420642591 113366db-85db-4f71-9fbd-05ffd5e2b1e1 97ed439b-2026-4bb2-b99f-c960c8f6d39d 1 1.0
+Connection 29dd74c4-0710-482a-9767-cb0ee112499f 0c2c76e7-c745-45ae-bc08-80cb6c6474ee 24653340-5318-4195-865a-0c5a5d6dde18 1 1.0
+Connection 3ce4cc1b-1767-4939-8d28-95584883b025 a182e152-ce8b-4f92-879c-321a9644a6fb cd8a64e0-4c16-4452-8215-f0954f05e1e9 1 1.0
+Connection 3b233a27-b0b3-42b3-a965-1f752c550aa7 f60f9359-396c-494f-87ac-81bb0d4053b5 e986629a-fba3-4d3d-a10b-8e1c7382aebd 1 1.0
+Connection 11244531-4c66-481a-ae85-12b8481e88a6 a7b1562b-8f9c-4d2f-8b11-419975d6300f e986629a-fba3-4d3d-a10b-8e1c7382aebd 1 1.0
+Connection c2353b4d-780a-40db-8a82-eb854e6e9706 113366db-85db-4f71-9fbd-05ffd5e2b1e1 f60f9359-396c-494f-87ac-81bb0d4053b5 1 1.0
+Connection b021a111-83ff-4b86-99b1-7fa77839d12e 3dd74802-f95e-49d3-94a0-7ed0d01d0281 a7b1562b-8f9c-4d2f-8b11-419975d6300f 1 1.0
+Connection 63e04e73-bcab-4696-b427-81e0950fd3a3 e986629a-fba3-4d3d-a10b-8e1c7382aebd fb6bc207-4b51-4544-9507-a30fea0cca84 1 1.0
+Connection f0c87c52-677f-4418-ab18-795d5966c2b2 0dae6721-bfb0-4c54-b211-0276d0e56800 a85ae2b1-4962-45df-8c45-e8f01caea8e6 3 1.0
+Connection 0195a780-005e-4b9b-ad23-c9e03919de74 0dae6721-bfb0-4c54-b211-0276d0e56800 7e6f6d5f-67a8-4f71-add4-bd6d90d6c8fe 3 1.0

@@ -1,0 +1,8 @@
+# IN 1
+Neuron 4806ca37-5b99-45b4-a5e2-67af339aec1f 1.0 isInput
+# IN 2
+Neuron 9268cab0-a17f-462b-baa7-8f2624ecd6ac 1.0 isInput
+# OUT
+Neuron d2f06926-a464-4606-bf4a-0eab0533b415 1.0 isOutput
+Connection eeab7160-32e3-41b8-9f03-5b63366c32a4 4806ca37-5b99-45b4-a5e2-67af339aec1f d2f06926-a464-4606-bf4a-0eab0533b415 1 1.0
+Connection 807bd7d2-7d48-4959-9112-89043016d500 9268cab0-a17f-462b-baa7-8f2624ecd6ac d2f06926-a464-4606-bf4a-0eab0533b415 1 1.0

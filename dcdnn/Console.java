@@ -66,7 +66,7 @@ public class Console extends JPanel implements MyAppendable {
 			textArea.append("\n  \"tmaze\" - Generates robot controller for T-Maze problem");
 			//textArea.append("\n  \"learn <fsm>\" - Attempts to train a network to behave like the fsm specified in the fsm argument");
 			textArea.append("\n  \"clockify\" - Adds internal clock to network and ANDs it with inputs");
-			textArea.append("\n  \"pseudoclockify\" - Initializes all internal clocks but doesn't add a global clock");
+			//textArea.append("\n  \"pseudoclockify\" - Initializes all internal clocks but doesn't add a global clock");
 		}
 		else if (command.equals("run")) {
 			if (dcdnn.paused) {

@@ -6,11 +6,11 @@ https://curve.carleton.ca/36d3e7b7-6907-45b3-8d4a-fa172c3d9dd3
 
 # Building
 Compile all *.java files in the dcdnn folder. In Windows, this can be done by navigating to the outermost dcdnn folder and running the following command:
-javac -cp ./lib/choco-solver-4.0.3-with-dependencies.jar ./dcdnn/*.java
+`javac -cp ./lib/choco-solver-4.0.3-with-dependencies.jar ./dcdnn/*.java`
 
 # Running
 From the outermost dcdnn folder, enter the following command to run the program:
-java -cp ./lib/choco-solver-4.0.3-with-dependencies.jar; dcdnn.DCDNN
+`java -cp ./lib/choco-solver-4.0.3-with-dependencies.jar; dcdnn.DCDNN`
 
 #Instructions
 When the program is running, a window should appear with a text area, a command line, and an graphics panel. Commands can be entered into the command line. Output will appear in the text area above the command line. When networks are loaded, they will appear graphically in the graphics panel.
@@ -19,7 +19,7 @@ When the program is running, a window should appear with a text area, a command 
 Shows text-based results of commands.
 
 ##Command Line
-Networks can be loaded and run by entering commands here. Enter "?" (without the quotes) into the command line and press the RETURN key to view a list of available commands. See the Commands section below for more details.
+Networks can be loaded and run by entering commands here. Enter `"?"` (without the quotes) into the command line and press the RETURN key to view a list of available commands. See the Commands section below for more details.
 
 ##Graphics Panel
 The current network is shown visually here.

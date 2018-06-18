@@ -35,7 +35,7 @@ The current network is shown visually here.
 * `run`: Runs the currently loaded network. Fails if no network is loaded or if the network is already running.
 * `pause`: Stops the network from running. Fails if no network is loaded or if the network is not running.
 * `step`: runs the currently loaded network for a single time step, then stops. Fails if no network is loaded or if the network is already running.
-	* Optionally, use with the <x> argument (enter the command as `step x` to step for x time steps rather than once. For example, `step 5` will cause the network to run for 5 time steps.
+	* Optionally, use with the <x> argument (enter the command as `step x`) to step for x time steps rather than once. For example, `step 5` will cause the network to run for 5 time steps.
 * `s`: same as `step`
 * `record`: writes spiking activity of output nodes of output components to plots/plot.csv
 	* Optionally, use the <all> argument (enter the command as `record all`) to write the spiking activity of all neurons to plots/plot.csv.

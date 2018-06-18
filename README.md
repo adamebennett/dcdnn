@@ -31,5 +31,11 @@ The current network is shown visually here.
 * Components appear as black boxes around the neurons and intra-component synapses they are comprised of.
 
 # Commands
+* `?`: Shows a list of commands
+* `run`: Runs the currently loaded network. Fails if no network is loaded or if the network is already running.
+* `pause`: Stops the network from running. Fails if no network is loaded or if the network is not running.
+* `step`: runs the currently loaded network for a single time step, then stops. Fails if no network is loaded or if the network is already running.
+** Optionally, use with the <x> argument to step for x time steps rather than once. For example, `step 5` will cause the network to run for 5 time steps.
+* `s`: same as `step`
 
-#Example
+# Example

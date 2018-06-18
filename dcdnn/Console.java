@@ -49,9 +49,9 @@ public class Console extends JPanel implements MyAppendable {
 			textArea.append("\n  \"?\" - Display the list of available commands");
 			textArea.append("\n  \"run\" - Runs the current SNN");
 			textArea.append("\n  \"pause\" - Pauses the currently running SNN");
+			textArea.append("\n  \"step <x>\" or \"s <x>\" - Runs the current SNN for one time step. Include a number as <x> argument to step x times instead of once.");
 			textArea.append("\n  \"record <all>\" - Records a spike plot of the currently running network (include \"all\" as <all> argument to record all neurons, otherwise only inputs and outputs are recorded)");
 			textArea.append("\n  \"stop\" - Stops recording the currently running SNN");
-			textArea.append("\n  \"step\" or \"s\" - Runs the current SNN for one time step");
 			textArea.append("\n  \"input <inputs>\" - inputs the values in <inputs>  into the network");
 			textArea.append("\n  \"export\" - Exports the current network to a file");
 			textArea.append("\n  \"disorg\" - Generates a disorganized SNN");
